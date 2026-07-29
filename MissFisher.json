@@ -7,6 +7,8 @@
         "InternalName": "MissFisher",
         "AssemblyVersion": "1.6.5.9",
         "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 13,
         "Tags": [
             "Auto",
             "Fishing",
