@@ -2778,5 +2778,150 @@
     "「龍馬驚神¹」「珊瑚蝠鱝（小蝦肉籠）」「世界級釣手」",
     "[Maritime Dragonslayers¹] [Coral Manta(Shrimp Cage Feeder)] [World-class Troller]",
     "「シードラゴンキラー¹」「コーラルマンタ（シュリンプフィーダー）」「World Class Troller」"
+  ],
+  "跳阶段": [
+    "跳過階段",
+    "Skip Phase",
+    "フェーズをスキップ"
+  ],
+  "雄心": [
+    "雄心",
+    "A-Lure",
+    "アンビル"
+  ],
+  "谦逊": [
+    "謙遜",
+    "M-Lure",
+    "モデル"
+  ],
+  "等待专一": [
+    "等待專一",
+    "Wait IC",
+    "IC待機"
+  ],
+  "当前不处在宇宙探索中": [
+    "目前不在宇宙探索中。",
+    "Not in Cosmic Exploration.",
+    "宇宙探索中ではありません。"
+  ],
+  "未接取探索任务": [
+    "你尚未接取探索任務",
+    "You have not accepted an exploration mission",
+    "探索ミッションを受け入れていません"
+  ],
+  "插件依赖": [
+    "插件依賴",
+    "Plugin Dependencies",
+    "プラグイン依存関係"
+  ],
+  "不将主界面重定位到鼠标": [
+    "不要將主視窗重新定位到滑鼠位置",
+    "Disable main window repositioning",
+    "メインウィンドウのマウス再配置無効"
+  ],
+  "意外抛竿采集力等待已提前结束": [
+    "因意外拋竿，採集力恢復等待已提前結束",
+    "Due to unexpected cast, GP recovery wait has been terminated early",
+    "予期しないキャストのため、GP回復の待機が早期に終了しました"
+  ],
+  "预设加载失败前缀": [
+    "預設載入失敗：{0}",
+    "Preset loading failed: {0}",
+    "プリセット読み込み失敗: {0}"
+  ],
+  "预设缓存保存成功": [
+    "預設快取儲存成功",
+    "Preset cache saved successfully",
+    "プリセットキャッシュ保存成功"
+  ],
+  "保存预设缓存失败": [
+    "儲存預設快取失敗：{0}",
+    "Failed to save preset cache: {0}",
+    "プリセットキャッシュ保存失敗: {0}"
+  ],
+  "未找到嵌入资源": [
+    "找不到內嵌資源：{0}",
+    "Embedded resource not found: {0}",
+    "埋め込みリソースが見つかりません: {0}"
+  ],
+  "网络下载失败且缓存不可用": [
+    "網路下載失敗，且本機快取無法使用。請檢查網路連線或稍後再試。",
+    "Network download failed and local cache unavailable, check connection or retry later",
+    "ネットワーク接続失敗、ローカルキャッシュも利用不可、接続確認または後で再試行"
+  ],
+  "预设数据不完整或损坏": [
+    "預設資料不完整或已損壞，請嘗試重新同步。",
+    "Preset data incomplete or corrupted, try syncing again",
+    "プリセットデータが不完全または破損、再同期をお試しください"
+  ],
+  "加载预设时发生错误": [
+    "載入預設時發生錯誤，詳情請查看日誌。",
+    "Error occurred while loading presets, check logs for details",
+    "プリセット読み込み中にエラー発生、詳細はログを確認"
+  ],
+  "未找到可用预设数据": [
+    "找不到可用的預設資料",
+    "No available preset data found",
+    "利用可能なプリセットデータが見つかりません"
+  ],
+  "预设": [
+    "預設",
+    "PRE",
+    "予設"
+  ],
+  "预设版本": [
+    "預設版本",
+    "Preset Ver.",
+    "プリセットVer."
+  ],
+  "冲分模式低分海域提示": [
+    "目前海域的幻海流漁分過低，將不提示魚王竿以降低觸發幻海流的機率。",
+    "The spectral current in the current sector yields insufficient points; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流の漁分が低いため、重咬みを提言せず、幻海流発生確率を低減します。"
+  ],
+  "蓝鱼模式无幻中预设提示": [
+    "目前海域的幻海流沒有藍魚，且即將前往有藍魚的海域，將不提示魚王竿以降低觸發幻海流的機率。",
+    "The spectral current in the current sector has no legendary fish, whereas the adjacent sector does; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流に伝説魚がなく、隣接海域に伝説魚があるため、重咬みを提言せず、幻海流発生確率を低減します。"
+  ],
+  "数量成就模式无预设提示": [
+    "目前海域的幻海流沒有數量成就所需的魚類，將不提示魚王竿以降低觸發幻海流的機率。",
+    "The spectral current in the current sector lacks fish required for quantity achievements; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流に数量達成に必要な魚種がないため、重咬みを提言せず、幻海流発生確率を低減します。"
+  ],
+  "验证服务器连接失败": [
+    "驗證伺服器連線失敗，部分功能可能受限。",
+    "Failed to connect to verification server, some features may be limited",
+    "認証サーバーへの接続に失敗しました。一部の機能が制限される場合があります"
+  ],
+  "验证系统初始化失败": [
+    "驗證系統初始化失敗",
+    "Verification system initialization failed",
+    "認証システムの初期化に失敗しました"
+  ],
+  "刷新授权认证失败": [
+    "重新整理授權驗證失敗，請檢查網路連線。",
+    "Failed to refresh authorization, please check network connection",
+    "認可の更新に失敗しました。ネットワーク接続を確認してください"
+  ],
+  "刷新认证中": [
+    "正在重新整理驗證狀態……",
+    "Refreshing authentication status...",
+    "認証状態を更新中..."
+  ],
+  "刷新认证成功": [
+    "驗證狀態重新整理成功",
+    "Authentication status refreshed successfully",
+    "認証状態の更新に成功しました"
+  ],
+  "验证服务器未连接无法刷新": [
+    "驗證伺服器尚未連線，無法重新整理驗證狀態。",
+    "Verification server not connected, unable to refresh authentication status",
+    "認証サーバーに接続されていないため、認証状態を更新できません"
+  ],
+  "验证服务器未连接": [
+    "驗證伺服器尚未連線",
+    "Verification server not connected",
+    "認証サーバーに接続されていません"
   ]
 }

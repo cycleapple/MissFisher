@@ -5,7 +5,7 @@
         "Punchline": "專注於釣魚。／Focus on fishing.",
         "Description": "專注於釣魚。【不包含 24 小時全自動】\nFocus on fishing. [Excludes 24h auto]",
         "InternalName": "MissFisher",
-        "AssemblyVersion": "1.6.5.12",
+        "AssemblyVersion": "1.6.5.13",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
         "TestingDalamudApiLevel": 13,
@@ -19,9 +19,9 @@
         "IconUrl": "https://missfisher-1331276814.cos.ap-guangzhou.myqcloud.com/MissFisherIcon128.png",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "ChangeLog": "- v1.6.5.12\n將 556 個中文介面字串轉為台灣繁中\n- v1.6.5.11\n完整移除上游建置工具的到期授權檢查（包含啟動與每日複查入口）\n- v1.6.5.10\n移除上游建置工具誤加入的 14 天到期限制\n- v1.6.5.9\n修正一些問題\n- v1.6.5.8\n修正一個海釣播報問題\n- v1.6.5.7\n修正一些問題\n- v1.6.5.6\n修正海釣成就計數僅回傳目前海域數量的問題\n修正一些問題\n- v1.6.5.5\n修正一些問題\n- v1.6.5.4\n修正一些問題\n- v1.6.5.3\n修正一些問題\n- v1.6.5.2\n修正一些問題\n- v1.6.5.1\n修正一些問題\n- v1.6.5.0\n新增釣法運算式修飾詞 `跳階段` `等待專一`\n修正一些問題\n改善使用體驗",
+        "ChangeLog": "- v1.6.5.13\n改以上游 API13 版 1.6.5.11 為基底\n修正 GatherBuddy Reborn 已安裝卻被誤判為未安裝\n修正啟用 GatherBuddy Reborn 時使用錯誤內部名稱\n補齊新版新增的 29 組台灣繁中介面字串",
         "RepoUrl": "https://github.com/cycleapple/MissFisher",
-        "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.12.zip",
-        "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.12.zip"
+        "DownloadLinkInstall": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.13.zip",
+        "DownloadLinkUpdate": "https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended/releases/download/plugins-api13/MissFisher-1.6.5.13.zip"
     }
 ]
