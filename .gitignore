@@ -1,3 +1,5 @@
 **/bin/
 **/obj/
 MissFisher-*.zip
+.api14/work/
+.api14/artifacts/

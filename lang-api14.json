@@ -1,0 +1,4957 @@
+{
+  "  触发幻海带冒号": [
+    "觸發幻海：",
+    "Spectral Current Trigger: ",
+    "幻海流トリガー："
+  ],
+  "AFK计时器10分钟": [
+    "AFK 計時器已設定為 10 分鐘",
+    "AFK timer set to 10 minutes",
+    "AFKタイマーを10分に設定"
+  ],
+  "AFK计时器30分钟": [
+    "AFK 計時器已設定為 30 分鐘",
+    "AFK timer set to 30 minutes",
+    "AFKタイマーを30分に設定"
+  ],
+  "AFK计时器5分钟": [
+    "AFK 計時器已設定為 5 分鐘",
+    "AFK timer set to 5 minutes",
+    "AFKタイマーを5分に設定"
+  ],
+  "AFK计时器60分钟": [
+    "AFK 計時器已設定為 60 分鐘",
+    "AFK timer set to 60 minutes",
+    "AFKタイマーを60分に設定"
+  ],
+  "AFK计时器已恢复": [
+    "AFK 計時器已恢復為：{0}",
+    "AFK timer restored to: {0}",
+    "AFKタイマーを{0}に復元しました"
+  ],
+  "AFK计时器禁用": [
+    "AFK 計時器已停用",
+    "AFK timer disabled",
+    "AFKタイマー無効"
+  ],
+  "AFK计时器自定义秒": [
+    "AFK 計時器已設定為 {0} 秒",
+    "AFK timer set to {0} seconds",
+    "AFKタイマーを{0}秒に設定"
+  ],
+  "AutoHook禁用": [
+    "檢查到 AutoHook\n以防手法衝突，已為您停用 AutoHook",
+    "Detected AutoHook\nDisabled AutoHook to prevent method conflicts",
+    "AutoHook を検出\n手法競合防止のため AutoHook を無効化しました"
+  ],
+  "Ctrl单击滚轮传送到位置": [
+    "按住 Ctrl 點選滾輪以\n傳送到【{0}】所在地",
+    "- Hold Ctrl and click wheel to teleport to 【{0}】 location",
+    "- Ctrlを押しながらホイールクリックで【{0}】の場所へテレポート"
+  ],
+  "鱼传送未找到鱼ID": [
+    "未找到魚類的物品ID：{0}",
+    "Fish item ID not found: {0}",
+    "魚のアイテムIDが見つかりません：{0}"
+  ],
+  "鱼传送无钓场数据": [
+    "魚類的釣場資料為空：{0}",
+    "No fishing spot data for item ID: {0}",
+    "アイテムIDの釣り場データがありません：{0}"
+  ],
+  "鱼传送无有效钓场": [
+    "未找到可用釣場：{0}",
+    "No valid fishing spot for item ID: {0}",
+    "有効な釣り場が見つかりません：{0}"
+  ],
+  "鱼传送无传送点": [
+    "未找到傳送點：{0}",
+    "No aetheryte found for {0}",
+    "エーテライトが見つかりません：{0}"
+  ],
+  "鱼传送Telepo不可用": [
+    "Telepo 不可用",
+    "Telepo is unavailable",
+    "Telepo が利用できません"
+  ],
+  "鱼传送未共鸣以太之光": [
+    "未共鳴以太之光：{0}",
+    "Not attuned to aetheryte: {0}",
+    "エーテライト未共鳴：{0}"
+  ],
+  "鱼传送任务已取消": [
+    "魚類傳送任務已取消：{0}",
+    "Fish teleport task canceled: {0}",
+    "魚テレポートタスクがキャンセルされました：{0}"
+  ],
+  "鱼传送取消_启动新任务": [
+    "啟動新的魚類傳送任務",
+    "Started a new fish teleport task",
+    "新しい魚テレポートタスクを開始しました"
+  ],
+  "鱼传送取消_缺少传送点": [
+    "缺少傳送點",
+    "Missing aetheryte for teleport",
+    "転送用エーテライトがありません"
+  ],
+  "鱼传送取消_传送失败": [
+    "傳送失敗",
+    "Teleport failed",
+    "テレポ失敗"
+  ],
+  "鱼传送取消_传送取消": [
+    "傳送已取消",
+    "Teleport canceled",
+    "テレポがキャンセルされました"
+  ],
+  "鱼传送取消_传送超时": [
+    "傳送超時",
+    "Teleport timeout",
+    "テレポのタイムアウト"
+  ],
+  "鱼传送取消_寻路失败": [
+    "尋路失敗",
+    "Pathfinding failed",
+    "経路探索失敗"
+  ],
+  "鱼传送取消_寻路取消": [
+    "尋路已取消",
+    "Pathfinding canceled",
+    "経路探索がキャンセルされました"
+  ],
+  "鱼传送取消_离开目标地图": [
+    "已離開目標地圖",
+    "Left target territory",
+    "対象エリアから離れました"
+  ],
+  "鱼传送取消_寻路停止": [
+    "尋路已停止",
+    "Pathfinding stopped",
+    "経路探索が停止しました"
+  ],
+  "鱼类传送回退可钓点提示": [
+    "未找到可走可釣點，已回退到魚類水面點。",
+    "No walkable fishing point found; falling back to fish surface point.",
+    "歩ける釣り地点が見つからないため、魚面ポイントにフォールバックします。"
+  ],
+  "鱼类传送中": [
+    "傳送中",
+    "Teleporting",
+    "テレポート中"
+  ],
+  "鱼类导航中": [
+    "導航中",
+    "Navigating",
+    "ナビゲーション中"
+  ],
+  "鱼类导航等待构建": [
+    "等待構建",
+    "Building",
+    "構築中"
+  ],
+  "鱼类导航等待算路": [
+    "等待算路",
+    "Pathing",
+    "経路中"
+  ],
+  "钓场导航结束后自动下坐骑": [
+    "釣場導航結束後自動下坐騎",
+    "Auto dismount after spot nav",
+    "釣り場ナビ完了後に自動で降りる"
+  ],
+  "DailyRoutinesDiscord说明": [
+    "點選前往 Daily Routines 的 Discord",
+    "Click to go to Daily Routines Discord",
+    "Daily RoutinesのDiscordへ移動"
+  ],
+  "Dalamud反射初始化失败": [
+    "找不到 DalamudReflector.Init 方法",
+    "DalamudReflector.Init method not found",
+    "DalamudReflector.Initメソッドが見つかりません"
+  ],
+  "GatherBuddyRebornGitHub说明": [
+    "點選前往 GatherBuddy Reborn（國服適配）的 GitHub 儲存庫",
+    "Click to go to GatherBuddy Reborn (CN Version) GitHub repo",
+    "GatherBuddy Reborn（中国版）GitHubリポジトリへ移動"
+  ],
+  "GatherBuddyRebornGitHub链接": [
+    "https://github.com/AtmoOmen/GatherBuddyReborn",
+    "https://github.com/AtmoOmen/GatherBuddyReborn",
+    "https://github.com/AtmoOmen/GatherBuddyReborn"
+  ],
+  "GitHub下载提示": [
+    "正從 GitHub 下載預設……",
+    "Downloading presets from GitHub...",
+    "GitHubからプリセットをダウンロード中..."
+  ],
+  "ICE时间到提交": [
+    "因處於 ICE 適配模式且任務限制時間已過，開始提交或放棄任務",
+    "In ICE mode + time limit exceeded, starting submit/abort",
+    "ICE適配モード＋時間制限超過のため、提出/放棄開始"
+  ],
+  "ICE自动提交冲突警告": [
+    "可能會與 ICE 的自動提交衝突\n如果你發現 ICE 一直在反覆開關任務清單\n請取消本選項後重新開始 ICE",
+    "May conflict with ICE auto submission\nIf ICE keeps toggling stellar missions list, disable this and restart ICE",
+    "ICEの自動提出と競合する可能性があります\nICEがタスクリストを繰り返し開閉する場合は\nこのオプションをオフにして再起動してください"
+  ],
+  "ICE警惕提交": [
+    "因處於 ICE 適配模式且釣點警惕，開始提交或放棄任務",
+    "In ICE mode + spot alert, starting submit/abort",
+    "ICE適配モード＋釣点警戒のため、提出/放棄開始"
+  ],
+  "ICE饵尽提交": [
+    "因處於 ICE 適配模式且釣餌已用完，開始提交或放棄任務",
+    "In ICE mode + bait depleted, starting submit/abort",
+    "ICE適配モード＋エサ切れのため、提出/放棄開始"
+  ],
+  "JSON格式错误提示": [
+    "JSON 格式不正確，請確保選擇了正確的 ffmomola-data-export.json 檔案",
+    "Invalid JSON format. Please ensure selecting correct FFMomola-data-export.json file",
+    "JSONフォーマットエラー 正しいFFMomola-data-export.jsonを選択してください"
+  ],
+  "MissFisher依赖DailyRoutinesTTS提示": [
+    "MissFisher 依賴 Daily Routines 的 TTS\n安裝並啟用 Daily Routines 以使用 TTS 功能",
+    "MissFisher depends on Daily Routines TTS\nInstall and enable Daily Routines to use TTS features",
+    "MissFisherはDaily RoutinesのTTSに依存しています\nTTS機能を使用するにはDaily Routinesをインストール・有効化してください"
+  ],
+  "MissFisher依赖TTS说明": [
+    "MissFisher 依賴 Daily Routines 的 TTS\n- 如果要調整 TTS 的詳細設定，請前往 Daily Routines",
+    "MissFisher depends on Daily Routines TTS\n- Adjust TTS settings in Daily Routines",
+    "MissFisherはDaily RoutinesのTTSに依存\n- 詳細設定はDaily Routinesで"
+  ],
+  "MissFisher出现错误": [
+    "MissFisher 出現錯誤",
+    "MissFisher Error",
+    "MissFisher エラー"
+  ],
+  "MissFisher在线安装提示": [
+    "MissFisher - 僅限線上安裝",
+    "MissFisher - No Local Dev",
+    "MissFisher - ローカルDev禁止"
+  ],
+  "MissFisher悬浮窗提示": [
+    "開啟 MissFisher\n按住右鍵拖拽位置",
+    "Open MissFisher\nRight-click and drag to move",
+    "MissFisherを開く\n右クリックでドラッグして移動"
+  ],
+  "MissFisher禁用所有DRTTS提示": [
+    "你已在 MissFisher 設定中停用所有 DR TTS",
+    "You have disabled all DR TTS in MissFisher settings",
+    "MissFisherの設定で全てのDR TTSを無効にしました"
+  ],
+  "MissFisher错误请反馈": [
+    "MissFisher 出現錯誤，請使用 /xllog 開啟 Dalamud 日誌，並意見回饋相關內容",
+    "MissFisher error, use /xllog to open Dalamud log and report",
+    "MissFisherエラー、/xllogでDalamudログを開き報告"
+  ],
+  "PoweredBy": [
+    "Powered by NekoVerifier (貓貓驗證)",
+    "Powered by NekoVerifier",
+    "NekoVerifier（猫猫検証）提供"
+  ],
+  "ShiftAlt单击滚轮功能": [
+    "按住 Shift 點選滾輪以\n飛往【Flag 標記】\n按住 Alt 點選滾輪以\n【停止尋路】",
+    "- Hold Shift + wheel click to go to 【Flag Mark】\n- Hold Alt + wheel click to 【stop pathfinding】",
+    "- Shiftを押しながらホイールクリックで【旗マーク】へ移動\n- Altを押しながらホイールクリックで【経路探索停止】"
+  ],
+  "TTSAutoHook已禁用": [
+    "已幫您停用 Auto Hook",
+    "Auto Hook disabled",
+    "オートフックを無効化しました"
+  ],
+  "TTS使用说明": [
+    "使用 Daily Routines 的 TTS 播報竿震型別\n- 如果要調整 TTS 的詳細設定，請前往 Daily Routines\n- 自動靜默：自動功能執行時靜音",
+    "Use Daily Routines TTS to announce rod vibration type\n- Adjust TTS settings in Daily Routines\n- Auto silent: mute during auto operation",
+    "Daily RoutinesのTTSで竿震タイプを放送\n- 詳細設定はDaily Routinesで\n- 自動サイレント：自動動作中ミュート"
+  ],
+  "TTS咬饵播报": [
+    "TTS 咬餌播報",
+    "TTS Bite Alert",
+    "TTS バイト通知"
+  ],
+  "TTS咬饵播报说明": [
+    "魚咬餌時播放語音提示",
+    "Play voice prompt when fish bites",
+    "魚がかかったときに音声で通知"
+  ],
+  "TTS脱钩播报": [
+    "TTS 脫鉤播報",
+    "TTS Away Alert",
+    "TTS バラし通知"
+  ],
+  "TTS脱钩播报说明": [
+    "魚脫鉤時播放語音提示",
+    "Play voice prompt when fish gets away",
+    "魚がバラしたときに音声で通知"
+  ],
+  "TTS攒鱼计完成": [
+    "已完成昝魚計",
+    "AA completed",
+    "ビッフィ完了！"
+  ],
+  "TTS模式启动": [
+    "{0}啟動！",
+    "{0} started!",
+    "{0}起動！"
+  ],
+  "TTS目标达成": [
+    "目標達成！",
+    "Target achieved!",
+    "目標達成！"
+  ],
+  "TTS窗口结束": [
+    "視窗結束！",
+    "Window ended!",
+    "ウィンドウ終了！"
+  ],
+  "TTS脱钩": [
+    "脫鉤啦！",
+    "Got away!",
+    "バラした！"
+  ],
+  "TTS进入窗口": [
+    "進入視窗！",
+    "Entering window!",
+    "ウィンドウに入ります！"
+  ],
+  "TTTS预备启动": [
+    "預備啟動！",
+    "Prepare to start!",
+    "起動準備！"
+  ],
+  "vnavmesh提示": [
+    "在傳送到目標地圖後，你還可以上坐騎後使用 vnavmesh 的命令「/vnav flyflag」來飛往 GatherBuddy 標記的地點（不能上坐騎或飛行的區域請使用「/vnav moveflag」）",
+    "After teleporting to the target map, you can also mount and use vnavmesh's command `/vnav flyflag` to fly to the GatherBuddy marked location (use `/vnav moveflag` for no-mount/no-fly areas)",
+    "対象マップに転送後、マウントして vnavmesh のコマンド「/vnav flyflag」でGatherBuddyのマーク地点へ飛行（マウント・飛行不可エリアは「/vnav moveflag」使用）"
+  ],
+  "vnavmesh未就绪提示": [
+    "vnavmesh 還未完成地圖資料構建，\n請稍候再重試。",
+    "vnavmesh hasn't finished building map data,\nplease try again later.",
+    "vnavmesh はまだマップデータの構築が完了していません。\n後でもう一度お試しください。"
+  ],
+  "一般功能": [
+    "一般功能",
+    "General Features",
+    "一般機能"
+  ],
+  "界面": [
+    "介面",
+    "Interface",
+    "インターフェース"
+  ],
+  "三提": [
+    "三提",
+    "TH",
+    "トリプル"
+  ],
+  "三提七条所需获得力大于等于3450": [
+    "三提七條所需獲得力 ≥ 3450",
+    "Triple collection of seven fish requires gathering power ≥ 3450",
+    "三提七匹に必要な獲得力は3450以上です"
+  ],
+  "不定收藏价值换材料可能溢出或不足": [
+    "不定收藏價值換材料可能溢位或不足",
+    "Variable collectable value may cause material overflow or insufficiency",
+    "不定の収集価値で素材が溢れたり不足する可能性があります"
+  ],
+  "将垂钓之光作为开关": [
+    "將「垂釣之光」作為主介面開關",
+    "Use 'Cast Light' as main UI toggle",
+    "キャストライトで切替"
+  ],
+  "不撒饵": [
+    "不撒餌",
+    "No Chum",
+    "撒き餌なし"
+  ],
+  "不收集": [
+    "不收集",
+    "No Collect",
+    "収集なし"
+  ],
+  "不用强心剂": [
+    "不用強心劑",
+    "No Cordial",
+    "コーディアルなし"
+  ],
+  "不用恩宠": [
+    "不用恩寵",
+    "No Favor",
+    "恩寵なし"
+  ],
+  "专一": [
+    "專一",
+    "IC",
+    "セムキャ"
+  ],
+  "专一标签": [
+    "專一 ",
+    "IC: ",
+    "セムキャ "
+  ],
+  "丢弃配置组名": [
+    "丟棄設定組名",
+    "Discard group name",
+    "破棄グループ名"
+  ],
+  "中竿": [
+    "中竿",
+    "!!",
+    "「!!」"
+  ],
+  "中竿和鱼王竿": [
+    "中竿 和 魚王竿",
+    "!! & !!!",
+    "「!!」と「!!!」"
+  ],
+  "中竿文本": [
+    "中竿",
+    "STRONG",
+    "ストロング"
+  ],
+  "中键暂停说明": [
+    "　　  中鍵暫停",
+    "L/M-click Pause",
+    "左/中クリックで停止"
+  ],
+  "左键继续说明": [
+    "左/中鍵繼續自動功能",
+    "L/M-click to continue",
+    "左/中クリックで再開"
+  ],
+  "主命令帮助": [
+    "切換主介面",
+    "Toggle main interface",
+    "メイン画面を切り替え"
+  ],
+  "主页": [
+    "主頁",
+    "HOM",
+    "ホム"
+  ],
+  "主题": [
+    "主題",
+    "Theme",
+    "テーマ"
+  ],
+  "主题几何": [
+    "靈感「幾何」",
+    "Inspo 'Geometry'",
+    "灵感「幾何」"
+  ],
+  "主题原神": [
+    "靈感「〇〇啟動！」",
+    "Inspo 'Genshin Start!'",
+    "灵感「〇神」"
+  ],
+  "主题新春": [
+    "新春「一元復始」",
+    "New Year 'Renewed'",
+    "新春「一元復始」"
+  ],
+  "主题春天": [
+    "靈感「春褀集錦」",
+    "Inspo 'Spring'",
+    "灵感「春祺集錦」"
+  ],
+  "主题浅色": [
+    "X|V「淺色」",
+    "X|V 'Light'",
+    "X|V「ライト」"
+  ],
+  "主题透明蓝": [
+    "X|V「透明藍」",
+    "X|V 'Clear Blue'",
+    "X|V「クリアブルー」"
+  ],
+  "主题透明白": [
+    "X|V「透明白」",
+    "X|V 'Clear White'",
+    "X|V「クリアホワイト」"
+  ],
+  "主题透明绿": [
+    "X|V「透明綠」",
+    "X|V 'Clear Green'",
+    "X|V「クリアグリーン」"
+  ],
+  "主题深色": [
+    "X|V「深色」",
+    "X|V 'Dark'",
+    "X|V「ダーク」"
+  ],
+  "主题经典": [
+    "X|V「經典」",
+    "X|V 'Classic'",
+    "X|V「クラシック」"
+  ],
+  "主题粉色": [
+    "靈感「粉」",
+    "Inspo 'Pink'",
+    "灵感「ピンク」"
+  ],
+  "主题冰茶": [
+    "靈感「海鹽冰茶」",
+    "Inspo 'Iced Tea'",
+    "灵感「アイスティー」"
+  ],
+  "主题新世代": [
+    "靈感「新世代」",
+    "Inspo 'Neo'",
+    "灵感「次世代」"
+  ],
+  "主题磨砂黑": [
+    "靈感「磨砂黑」",
+    "Inspo 'Frosted Dark'",
+    "灵感「磨砂黒」"
+  ],
+  "主题拉海洛": [
+    "靈感「拉海洛」",
+    "Inspo 'Lahai-Roi'",
+    "灵感「ラハイロイ」"
+  ],
+  "主题鸣潮": [
+    "靈感「嗚潮」",
+    "Inspo 'Walrus Waves'",
+    "灵感「嗚潮」"
+  ],
+  "主题最终地": [
+    "靈感「最終地」",
+    "Inspo 'Finalfield'",
+    "灵感「ファイフィ」"
+  ],
+  "举例预设名定时": [
+    "如「{0} 37」",
+    "e.g. \"{0} 37\"",
+    "\"{0} 37\"のように"
+  ],
+  "乱披风钓法": [
+    "«亂披風釣法»",
+    "«Disorder Cloak Fishing»",
+    "«乱披風釣り»"
+  ],
+  "仅捕鱼人初始化预设": [
+    "僅在捕魚人時才初始化預設",
+    "Init presets (FSH only)",
+    "釣り人時のみプリセットを初期化"
+  ],
+  "仅特定钓法自动收集": [
+    "僅當預設包含特定釣法時才會自動收集收藏品",
+    "Only auto collect if preset includes specific fishing method",
+    "特定釣り方法を含むプリセット時のみ自動収集"
+  ],
+  "仅限在线安装": [
+    "僅限線上安裝",
+    "No Local Dev",
+    "ローカルDev禁止"
+  ],
+  "从GitHub同步预设": [
+    "從 GitHub 同步預設",
+    "Sync presets from GitHub",
+    "GitHubからプリセット同期"
+  ],
+  "从本地缓存加载": [
+    "從本地快取載入",
+    "Loaded from local cache",
+    "ローカルキャッシュから読み込み"
+  ],
+  "任何鱼": [
+    "任何魚",
+    "Any fish",
+    "任意魚"
+  ],
+  "伊修加德基础层": [
+    "伊修加德基礎層",
+    "Ishgard: Foundation",
+    "イシュガルド：下層"
+  ],
+  "优先大尺寸": [
+    "優先大尺寸",
+    "Ensure Large Size",
+    "ラージ確保"
+  ],
+  "传送到渡轮码头": [
+    "傳送到 渡輪碼頭",
+    "TP to Ferry Docks",
+    "船着場へ テレポ"
+  ],
+  "位置拖拽说明": [
+    "按住左鍵拖拽以偏移位置\n雙擊直接輸入",
+    "Hold left click and drag to move\nDouble-click to enter value",
+    "左クリックを押してドラッグで移動\nダブルクリックで値入力"
+  ],
+  "使用提钩": [
+    "使用了「{0}」",
+    "Used \"{0}\"",
+    "「{0}」を使用"
+  ],
+  "使用的手法将实时调整": [
+    "使用的手法將實時調整",
+    "The technique will auto-adjust in real time",
+    "使用する手法はリアルタイムで自動調整されます"
+  ],
+  "使用钓组": [
+    "使用釣組",
+    "Use Snagging",
+    "引掛釣り使用"
+  ],
+  "跳阶段": [
+    "跳過階段",
+    "Skip Phase",
+    "フェーズをスキップ"
+  ],
+  "强制预备": [
+    "強制預備",
+    "Force Pre-Action",
+    "予備動作を強制"
+  ],
+  "保存文件失败": [
+    "儲存檔案失敗: {0}",
+    "Failed to save file: {0}",
+    "ファイル保存失敗: {0}"
+  ],
+  "信息": [
+    "資訊",
+    "INF",
+    "情報"
+  ],
+  "到底部": [
+    "底部",
+    "Bot",
+    "末尾"
+  ],
+  "停止": [
+    "停止",
+    "Stop",
+    "停止"
+  ],
+  "停止寻路": [
+    "停止尋路",
+    "Stop Pathfinding",
+    "経路探索停止"
+  ],
+  "停止攒鱼计原因": [
+    "因完成攢魚計或距離視窗開始過近\n已停止提前準備攢魚計",
+    "Stopped early AA stacking due to completion or window too close",
+    "ビッフィ満タン、またはウィンドウ開始が近すぎるため\n事前積みを中止しました"
+  ],
+  "停止自动功能": [
+    "因距離視窗結束超過 200 秒，已停止自動功能",
+    "Over 200s to window end, auto-functions stopped",
+    "ウィンドウ終了まで200秒以上あるため、自動機能を停止"
+  ],
+  "免打扰": [
+    "免打擾",
+    "Do Not Disturb",
+    "通知オフ"
+  ],
+  "全提": [
+    "全提",
+    "ALL BITES",
+    "全部"
+  ],
+  "八爪旅人丨世界级钓手": [
+    "「八爪旅人¹」「世界級釣手」",
+    "[Octopus Travelers¹] [World-class Troller]",
+    "「オクトパストラベラー¹」「World Class Troller」"
+  ],
+  "关闭": [
+    "關閉",
+    "Disabled",
+    "無効"
+  ],
+  "其他": [
+    "其他",
+    "Other",
+    "その他"
+  ],
+  "其他设置": [
+    "其他設定",
+    "Other Settings",
+    "その他設定"
+  ],
+  "外观设置": [
+    "外觀設定",
+    "Appearance Settings",
+    "外観設定"
+  ],
+  "圆角": [
+    "圓角",
+    "Rounding",
+    "角丸"
+  ],
+  "字体": [
+    "字型",
+    "Font",
+    "フォント"
+  ],
+  "字体来源": [
+    "字型來源",
+    "Font source",
+    "フォントソース"
+  ],
+  "字体选择": [
+    "字型選擇",
+    "Font",
+    "フォント"
+  ],
+  "字体缩放": [
+    "字型縮放",
+    "Font scale",
+    "フォント倍率"
+  ],
+  "字体构建中提示": [
+    "字型構建中，請稍候…",
+    "Building fonts, please wait...",
+    "フォント構築中です、しばらくお待ちください…"
+  ],
+  "字体列表为空": [
+    "字型列表為空",
+    "No fonts found",
+    "フォントが見つかりません"
+  ],
+  "系统字体": [
+    "系統字型",
+    "System fonts",
+    "システムフォント"
+  ],
+  "Dalamud字体": [
+    "Dalamud 字型",
+    "Dalamud fonts",
+    "Dalamudフォント"
+  ],
+  "Dalamud默认字体": [
+    "Dalamud 預設字型",
+    "Dalamud default",
+    "Dalamudデフォルト"
+  ],
+  "写入AutoDiscard配置": [
+    "點選將 Daily Routines 的模組 AutoDiscard\n包含海釣魚類的可匯入設定文字寫入剪貼簿",
+    "Click to open Daily Routines AutoDiscard,\nand copy importable config text\n- This config will not discard blue fish",
+    "クリックで Daily Routines の AutoDiscard を開き、\nインポート可能な設定テキストをコピーします\n- この設定は青魚を捨てません"
+  ],
+  "写入剪贴板": [
+    "將捕獲記錄寫入剪貼簿",
+    "Write capture record to clipboard",
+    "キャプチャ記録をクリップボードに書き込み"
+  ],
+  "冲分": [
+    "衝分",
+    "Scoring",
+    "スコアリング"
+  ],
+  "出海垂钓": [
+    "出海垂釣",
+    "Ocean Fishing",
+    "オーシャンフィッシング"
+  ],
+  "出海海钓结束": [
+    "出海海釣已結束",
+    "Ocean Fishing ended",
+    "出海海釣り終了"
+  ],
+  "出海垂钓总分": [
+    "出海垂釣總分：{0}",
+    "Ocean Fishing Total Score: {0}",
+    "出海釣り総得点：{0}"
+  ],
+  "出海航行中": [
+    "出海航行中",
+    "Sailing",
+    "航海中"
+  ],
+  "分钟10": [
+    "10 分鐘",
+    "10 minutes",
+    "10 分"
+  ],
+  "分钟30": [
+    "30 分鐘",
+    "30 minutes",
+    "30 分"
+  ],
+  "分钟5": [
+    "5 分鐘",
+    "5 minutes",
+    "5 分"
+  ],
+  "分钟60": [
+    "60 分鐘",
+    "60 minutes",
+    "60 分"
+  ],
+  "分钟符号": [
+    "",
+    "",
+    ""
+  ],
+  "切换到内层钓法": [
+    "切換到了內層釣法……",
+    "Switched to inner fishing method…",
+    "内層釣法に切り替えました…"
+  ],
+  "切换海域中": [
+    "切換海域中",
+    "Switching Zone",
+    "エリア切替中"
+  ],
+  "切换钓法": [
+    "切換釣法：",
+    "Switching method:",
+    "釣法切替："
+  ],
+  "列举分隔符号": [
+    "、",
+    ", ",
+    "、"
+  ],
+  "到达银星评价时提前提交": [
+    "注意：目前釣法會在到達銀星評價時提前提交，如果要獲得金星評價，請輸入「/mf preset {0}」或手動取消勾選設定中的【ICE 適配模式】",
+    "Note: The current fishing method will submit early upon reaching Silver Star rating. To achieve Gold Star rating, input `/mf preset {0}` or manually uncheck [ICE Adaptation Mode] in settings.",
+    "注意：現在の釣り方は銀星評価到達時に早期提出します。金星評価を得るには、「/mf preset {0}」を入力するか、設定の【ICE 適配モード】を手動でチェックを外してください。"
+  ],
+  "刷新": [
+    "重新整理",
+    "RF",
+    "更新"
+  ],
+  "刷新数据未预期错误": [
+    "重新整理資料時發生未預期的錯誤: {0}",
+    "Unexpected error during data refresh: {0}",
+    "データ更新中に予期しないエラー発生: {0}"
+  ],
+  "刷新航线数据错误": [
+    "重新整理航線資料錯誤: {0}",
+    "Route data refresh error: {0}",
+    "航路データ更新エラー: {0}"
+  ],
+  "前往Discord": [
+    "前往 Discord",
+    "Go to Discord",
+    "Discordへ移動"
+  ],
+  "前往GitHub仓库": [
+    "前往 GitHub 儲存庫",
+    "Go to GitHub repository",
+    "GitHubリポジトリへ移動"
+  ],
+  "前往仓库": [
+    "前往儲存庫",
+    "Go to repository",
+    "リポジトリへ移動"
+  ],
+  "前往钓场": [
+    "前往釣場",
+    "Go to Fishing Spot",
+    "釣り場へ移動"
+  ],
+  "按Ctrl单击滚轮进入空岛": [
+    "- 按住 Ctrl 單擊滾輪以進入空島並前往對應釣場",
+    "- Hold Ctrl and click wheel to enter the Diadem and move to the spot",
+    "- Ctrlを押しながらホイールクリックで空島に入り対応する釣り場へ移動"
+  ],
+  "前往预设表格": [
+    "前往預設表格",
+    "Go to Presets Sheet",
+    "プリセット表へ移動"
+  ],
+  "功能": [
+    "功能",
+    "Features",
+    "機能"
+  ],
+  "功能设置": [
+    "功能設定",
+    "Feature Settings",
+    "機能設定"
+  ],
+  "实验性功能": [
+    "實驗性功能",
+    "Experimental Features",
+    "実験的機能"
+  ],
+  "启用斯安威斯坦": [
+    "增加判斷頻率",
+    "Increase Decision Frequency",
+    "判定頻度を上げる"
+  ],
+  "启用斯安威斯坦说明": [
+    "將 MissFisher 的判斷間隔從 125ms 縮短到 62.5ms\n- 啟用斯安威斯坦（劃掉）",
+    "Shorten MissFisher's decision interval from 125ms to 62.5ms\n- Enable Sandevistan (strikethrough)",
+    "MissFisher の判定間隔を 125ms から 62.5ms に短縮\n- サンデヴィスタンを有効化（取り消し線）"
+  ],
+  "加拉迪翁湾丿夜乁丨梅尔托尔海峡南丿日乁丨罗塔诺海丿昏乁": [
+    "加拉迪翁灣(夜)》梅爾托爾海峽南(日)》羅塔諾海(昏)",
+    "Galadion Bay(Night)》S. Strait of Merlthor(Day)》Rhotano Sea(Dusk)",
+    "ガラディオン湾(夜)》メルトール海峡南(昼)》ロータノ海(夕方)"
+  ],
+  "加拉迪翁湾丿日乁丨梅尔托尔海峡南丿昏乁丨罗塔诺海丿夜乁": [
+    "加拉迪翁灣(日)》梅爾托爾海峽南(昏)》羅塔諾海(夜)",
+    "Galadion Bay(Day)》S. Strait of Merlthor(Dusk)》Rhotano Sea(Night)",
+    "ガラディオン湾(昼)》メルトール海峡南(夕方)》ロータノ海(夜)"
+  ],
+  "加拉迪翁湾丿昏乁丨梅尔托尔海峡南丿夜乁丨罗塔诺海丿日乁": [
+    "加拉迪翁灣(昏)》梅爾托爾海峽南(夜)》羅塔諾海(日)",
+    "Galadion Bay(Dusk)》S. Strait of Merlthor(Night)》Rhotano Sea(Day)",
+    "ガラディオン湾(夕方)》メルトール海峡南(夜)》ロータノ海(昼)"
+  ],
+  "动作超时": [
+    "動作超時！",
+    "Action timed out!",
+    "動作がタイムアウトしました！"
+  ],
+  "勾选调整悬浮窗位置": [
+    "勾選以調整懸浮窗位置",
+    "Check to adjust floating window position",
+    "チェックしてフローティングウィンドウの位置を調整"
+  ],
+  "匹配失败": [
+    "匹配失敗:",
+    "Match failed: ",
+    "マッチ失敗："
+  ],
+  "华丽": [
+    "華麗",
+    "SH",
+    "ビューティフル"
+  ],
+  "原地精选可能暴击否则请多钓一条": [
+    "原地精選可能暴擊否則請多釣一條",
+    "Localized select might crit; otherwise, please catch one more",
+    "その場での選択はクリティカルになる可能性があります。そうでない場合はもう1匹多く釣ってください"
+  ],
+  "原地精选可能暴击请自行检查材料数量": [
+    "原地精選可能暴擊請自行檢查材料數量",
+    "Selected spot may trigger a critical hit; please verify material quantity accordingly",
+    "その場での選択はクリティカルヒットになる可能性があります。材料の数量を必ず確認してください"
+  ],
+  "双提": [
+    "雙提",
+    "DH",
+    "ダブル"
+  ],
+  "发动鱼眼": [
+    "發動了魚眼",
+    "Fish Eyes activated",
+    "フィッシュアイ発動"
+  ],
+  "只有我最鳐摆丨挑战高分": [
+    "「只有我最鰩擺¹」「挑戰高分」",
+    "[Sticking it to the Manta¹] [High Score]",
+    "「エイエイオー¹」「ハイスコア」"
+  ],
+  "可用命令提示": [
+    "可用命令如下：\n/mf → 切換主介面",
+    "Available commands:\n/mf → Toggle main interface",
+    "使用可能なコマンド：\n/mf → メイン画面を切り替え"
+  ],
+  "可登记时间": [
+    "可登記時間{0} {1} 分",
+    "Reg. time {0}{1} min",
+    "受付 {0}{1}分後"
+  ],
+  "可登记时间连接": [
+    "不到",
+    "<",
+    "<"
+  ],
+  "右键切换悬浮窗状态": [
+    "右鍵切換懸浮窗狀態",
+    "　　R-click HUD",
+    "　　右クリHUD"
+  ],
+  "同步": [
+    "同步",
+    "SYN",
+    "同期"
+  ],
+  "启动按钮": [
+    "啟動",
+    "Go ",
+    "開始"
+  ],
+  "启动按钮提示": [
+    "左鍵啟動/暫停\n中鍵暫停/繼續\n右鍵切換竿時懸浮窗",
+    "L-click Start/Pause\nM-click Pause/Resume\nR-click toggle Bite HUD",
+    "左クリックで開始/一時停止\n中クリックで一時停止/再開\n右クリックでアタリ HUD 切替"
+  ],
+  "启动模式名": [
+    "啟動了{0}",
+    "Started {0}",
+    "{0} を開始しました"
+  ],
+  "启动超时": [
+    "啟動超時，請確認可拋竿後重試",
+    "Startup timed out, please confirm you can cast before retrying",
+    "起動がタイムアウトしました。投げられることを確認してから再試行してください"
+  ],
+  "启动预设": [
+    "啟動預設：{0}",
+    "Starting preset: {0}",
+    "プリセット起動：{0}"
+  ],
+  "启用": [
+    "啟用",
+    "Enable",
+    "有効化"
+  ],
+  "启用图标悬浮窗": [
+    "啟用 MissFisher 圖示懸浮窗",
+    "Enable MissFisher Icon",
+    "MissFisher アイコン有効"
+  ],
+  "呼喊": [
+    "呼喊",
+    "Yell",
+    "Yell"
+  ],
+  "命令参数错误": [
+    "命令引數 {0} 有誤",
+    "Command parameter {0} is invalid",
+    "コマンド引数 {0} が不正"
+  ],
+  "命令帮助": [
+    "\n/mf config → 開啟設定介面\n/mf route → 開啟航線預報介面\n\n=========命令說明=========\n\n<尖括號> 為必須引數\n- 如 /mf preset <name> 輸入時應提供一個預設名如 /mf preset 全提\n<尖括號|或符> 為必選分支\n- 如 /mf <end|stop> 輸入時應寫為 /mf end 或 /mf stop\n[方括號] 為可選引數\n- 如 /mf pause [on|off] 輸入時可省略為 /mf pause\n\n=========模式命令=========\n\n/mf cosmic → 宇宙探索，啟動適合目前探索任務的預設\n\n/mf <xp|leveling> → 啟動練級模式（以經驗獲取為目標，在非出海垂釣區域也可啟動）\n/mf scoring → 啟動衝分模式（以漁分為目標）\n/mf <bf|bluefish> → 啟動藍魚模式（以藍色稀有度魚類為目標）\n/mf <v1|achiev1> → 啟動成就 1 模式（以航線預報中角標為「1」的稱號所需的魚類為目標，大多數需要組隊完成）\n/mf <v2|achiev2> → 同上，但角標為2\n\n/mf sbg2 → 啟動空島二期模式（以捕獲更多重建二期特供魚類為目標）\n/mf sbg3 → 啟動空島三期模式（以捕獲更多重建三期特供魚類為目標）\n/mf sbg4 → 啟動空島四期模式（以捕獲更多重建四期特供魚類為目標）\n/mf spt → 啟動空島技巧分模式（以獲取伊修加德重建捕魚人技巧分為目標）\n/mf spg → 啟動空島綠魚模式（以捕獲更多綠色稀有度的特供魚類為目標）\n\n=========其他命令=========\n\n/mf test → 啟動測試（使用萬能擬餌釣一條魚）\n/mf preset <name> [minutes] → 啟動預設，提供額外引數時會延遲 [minutes] 分鐘啟動\n/mf preset show <name> → 檢視預設內容及預設中所需的釣餌\n/mf pause [on|off] → 不提供引數時切換暫停/恢復，提供引數時切換到指定的暫停狀態\n/mf <end|stop> → 終止自動動作，包括正在或即將執行的\n/mf <Angex> → 使用釣法表示式啟動",
+    "\n/mf config → Open settings interface\n/mf route → Open route forecast interface\n\n=========Command Guide=========\n\n<angle brackets> indicate required parameters\n- Example: /mf preset <name> should include a preset name, e.g. /mf preset ALL BITES\n<angle brackets|pipe> indicate exclusive options\n- Example: /mf <end|stop> should be written as /mf end or /mf stop\n[square brackets] indicate optional parameters\n- Example: /mf pause [on|off] can be shortened to /mf pause\n\n=========Mode Commands=========\n\n/mf cosmic → Cosmic Exploration mode, activates preset suitable for current exploration missions\n\n/mf <xp|leveling> → Leveling mode (focuses on EXP gain, can be used even outside ocean fishing areas)\n/mf scoring → Scoring mode (focuses on Fisher's Points)\n/mf endurance <scoring|bluefish|leveling|xp> → Endurance mode (auto boarding + loop) for scoring/bluefish/leveling\n/mf <bf|bluefish> → Bluefish mode (targets blue-rarity fish)\n/mf <v1|achiev1> → Achievement 1 mode (targets fish needed for title marked “1” in route forecast, usually requires party)\n/mf <v2|achiev2> → Same as above, but for mark 2\n\n/mf sbg2 → Skybuilder Phase 2 mode (targets fish specific to Phase 2 reconstruction)\n/mf sbg3 → Skybuilder Phase 3 mode (targets fish specific to Phase 3 reconstruction)\n/mf sbg4 → Skybuilder Phase 4 mode (targets fish specific to Phase 4 reconstruction)\n/mf spt → Skybuilder Action Point mode (focuses on earning Ishgardian Reconstruction Fisher’s action points)\n/mf spg → Skybuilder Greenfish mode (targets green-rarity reconstruction fish)\n\n=========Other Commands=========\n\n/mf test → Run test (catch a single fish using Universal Lure)\n/mf preset <name> [minutes] → Start preset; if extra parameter is provided, delay start by [minutes] minutes\n/mf preset show <name> → Show preset details and bait list\n/mf hud [on|off] → Toggle or set floating window display\n/mf tp <name> → Teleport to the fishing spot for the preset name\n/mf pause [on|off] → Toggle pause/resume if no parameter, or set explicitly if parameter is given\n/mf <end|stop> → Stop all automated actions, including ongoing or scheduled ones\n/mf <Angex> → Start with Angling Expression\n/mf isla → Check if Angling Expressions in clipboard are valid\n/mf addid → Add corresponding ID for the collection of fishing method expressions copied to clipboard, matching the current client language to support other language clients.\n/mf toid → Convert the clean format names copied to clipboard into corresponding IDs according to the current client language.\n/mf format → Format Angling Expressions in clipboard line by line (single-line, Chinese, no spaces, name+ID)",
+    "\n/mf config → 設定画面を開く\n/mf route → 航路予報画面を開く\n\n=========コマンド説明=========\n\n<山括弧> は必須パラメータ\n- 例：/mf preset <name> の場合、/mf preset 全部 のようにプリセット名を指定\n<山括弧|パイプ> は排他的選択肢\n- 例：/mf <end|stop> の場合、/mf end または /mf stop と入力\n[角括弧] は任意パラメータ\n- 例：/mf pause [on|off] は /mf pause と省略可能\n\n=========モードコマンド=========\n\n/mf cosmic → 宇宙探索モード。現在の探索任務に適したプリセットを起動\n\n/mf <xp|leveling> → レベリングモード（経験値重視、海釣り以外の地域でも使用可能）\n/mf scoring → スコアリングモード（漁師ポイント重視）\n/mf endurance <scoring|bluefish|leveling|xp> → 耐力スコア/耐力青魚/耐力レベリング（自動乗船/ループ）\n/mf <bf|bluefish> → 青魚モード（青レア魚を狙う）\n/mf <v1|achiev1> → アチーブメント1モード（航路予報で角印「1」の称号に必要な魚を狙う。多くはパーティ推奨）\n/mf <v2|achiev2> → 同上、ただし角印「2」\n\n/mf sbg2 → 蒼天街第二期モード（第二期復興専用魚を狙う）\n/mf sbg3 → 蒼天街第三期モード（第三期復興専用魚を狙う）\n/mf sbg4 → 蒼天街第四期モード（第四期復興専用魚を狙う）\n/mf spt → 蒼天街技巧点モード（漁師技巧点の獲得を目的）\n/mf spg → 蒼天街グリーンフィッシュモード（緑レア魚を狙う）\n\n=========その他のコマンド=========\n\n/mf test → テストを実行（万能ルアーで魚を1匹釣る）\n/mf preset <name> [minutes] → プリセットを起動。追加パラメータ指定時は [minutes] 分後に遅延起動\n/mf preset show <name> → プリセット内容と必要な餌を表示\n/mf hud [on|off] → フローティングウィンドウ表示の切替/指定\n/mf tp <name> → プリセット名の釣り場へテレポート\n/mf pause [on|off] → 引数なしで一時停止／再開を切替。指定時は明示的に切替\n/mf <end|stop> → すべての自動動作を停止（実行中・予定中を含む）\n/mf <Angex> → 釣法式を使用して起動\n/mf isla → クリップボードの釣法式が有効か確認\n/mf addid → クリップボードの釣り方法表現の集合パラメータ名に、現在のクライアント言語に合わせた対応IDを追加し、他言語クライアントに対応します。\n/mf toid → クリップボードの純粋な形式の名前を現在のクライアント言語に基づいて対応IDに変換します。\n/mf format → クリップボード内の釣法式を行ごとに整形（単行/中国語/空白なし/名+ID）"
+  ],
+  "咬饵音效说明": [
+    "當魚咬餌時播放音效\n- 自動靜默：自動功能執行時靜音",
+    "Play sound when fish bites\n- Auto silent: mute during auto operation",
+    "魚が食いついた時音效再生\n- 自動サイレント：自動動作中ミュート"
+  ],
+  "哈弗古法丨依拉丝莫龙": [
+    "「哈弗古法（烏賊絲）」「依拉絲莫龍（重鐵板鉤）」",
+    "[Hafgufa(Squid Strip)] [Elasmosaurus(Heavy Steel Jig)]",
+    "「ハーヴグーヴァ（イカの切り身）」「エラスモサウルス（ヘヴィメタルジグ）」"
+  ],
+  "哈弗古法丨盾齿龙丨世界级钓手": [
+    "「哈弗古法（烏賊絲）」「盾齒龍」「世界級釣手」",
+    "[Hafgufa(Squid Strip)] [Placodus] [World-class Troller]",
+    "「ハーヴグーヴァ（イカの切り身）」「プラコドゥス」「World Class Troller」"
+  ],
+  "嘎儿鱼连续窗口方案": [
+    "嘎兒魚連續視窗方案",
+    "Gharlichthys Consecutive Window Plan",
+    "ガールシクティス連続ウィンドウプラン"
+  ],
+  "四海大宝贝丨塔尼瓦": [
+    "「四海大寶貝¹」「塔尼瓦（青花魚塊）」",
+    "[Maximum Mussel¹] [Taniwha(Mackerel Strip)]",
+    "「貝殻収集家¹」「タニファ（サバの切り身）」"
+  ],
+  "四海大宝贝丨大虾可重新来过丨世界级钓手": [
+    "「四海大寶貝¹」「大蝦可重新來過²」「世界級釣手」",
+    "[Maximum Mussel¹] [Shrimp Smorgasbord²] [World-class Troller]",
+    "「貝殻収集家¹」「海老散らない²」「World Class Troller」"
+  ],
+  "回车双击启动": [
+    "回車或雙擊啟動 點選滾輪檢視內容",
+    "Enter or double-click to start; click wheel to view preset content",
+    "Enterまたはダブルクリックで開始、ホイールクリックでプリセット内容を表示"
+  ],
+  "图标悬浮窗": [
+    "圖示懸浮窗",
+    "Icon Floating Window",
+    "アイコンフローティングウィンドウ"
+  ],
+  "在线同步失败加载本地缓存": [
+    "線上同步失敗，正在載入本地快取……",
+    "Online sync failed, loading local cache…",
+    "オンライン同期失敗、ローカルキャッシュを読み込み中…"
+  ],
+  "在线同步成功": [
+    "線上同步成功",
+    "Online sync successful",
+    "オンライン同期成功"
+  ],
+  "地点名称未找到": [
+    "沒有找到地點名稱: {0}",
+    "Location name not found: {0}",
+    "地点名が見つかりません：{0}"
+  ],
+  "声音设置": [
+    "聲音設定",
+    "Sound Settings",
+    "音声設定"
+  ],
+  "处理JSON未预期错误": [
+    "處理JSON檔案時發生未預期的錯誤: {0}",
+    "Unexpected error processing JSON file: {0}",
+    "JSON処理中に予期せぬエラー発生: {0}"
+  ],
+  "备注stell510": [
+    "金牌流程：啟動預設釣到7條→再啟動預設釣到7條共14條→使用恩寵&強心劑（如果可用）→製作2次→再啟動預設釣到7條→製作1次",
+    "Gold medal flow: start preset to catch 7 fish→start again to catch 7 more totaling 14→use Favor & Stimulator (if available)→craft twice→start preset to catch 7→craft once",
+    "ゴールドメダルの流れ：プリセットを起動して7匹釣る→再度プリセットを起動して合計14匹釣る→恩寵と強心剤（使用可能なら）を使う→2回作成→再びプリセットを起動して7匹釣る→1回作成"
+  ],
+  "备注七彩天主": [
+    "完整的半自動流程大約需要一個多小時：先使用【七彩天主起手】開始，人工監控是否釣滿藍彩魚或橙彩魚其中一種，例如：釣了 3 條橙彩魚，就接著使用預設【魚眼藍彩魚】，否則，使用【魚眼橙彩魚】。當警惕時，你應該到遠離原位置幾米遠的地方再啟動相同的預設。當釣滿 3 條藍彩魚與 3 條橙彩魚時，請開啟相關釣魚時鐘網站的魚眼模式檢視綠彩魚的視窗期，在其視窗期內使用【七彩天主最終】來收尾，祝你好運！",
+    "The complete semi-automatic process takes about an hour: start with 【24994-a1】 and manually monitor if you catch full 3 blue or orange rainbowfish. For example, if caught 3 orange, next use preset 【24203-Fish Eyes】, else use 【23056-Fish Eyes】. When cautioned, move several meters away to restart the same preset. After catching full 3 blue and 3 orange rainbowfish, open the related fishing clock website's fish-eye mode to check the green rainbowfish window, and use 【24994-a2】 in that period to finish. Good luck!",
+    "半自動プロセスは約1時間かかります：【24994-a1】から開始し、青またはオレンジのレインボーフィッシュ3匹を目標に手動監視します。例として、オレンジを3匹釣ったら次に【24203-Fish Eyes】を使用し、そうでなければ【23056-Fish Eyes】を使います。警戒されたら、元の位置から数メートル離れて同じプリセットを再起動してください。青のレインボーフィッシュ3匹とオレンジのレインボーフィッシュ3匹を釣った後、釣り時計の魚眼モードで緑のレインボーフィッシュのウィンドウを確認し、その期間に【24994-a2】を使用して仕上げてください。幸運を祈ります！"
+  ],
+  "备注七彩天主最终": [
+    "「藍彩魚」和「橙彩魚」都釣滿時，在天氣符合「綠彩魚」條件時使用",
+    "Both \"Indigo Prismfish\" and \"Firelight Goldfish\" caught; use when weather suits \"Green Prismfish\"",
+    "「藍彩魚」と「橙彩魚」を全て釣った後、天候が「緑彩魚」の条件に合うときに使用してください"
+  ],
+  "备注七彩天主起手": [
+    "從零開始使用，當釣滿「藍彩魚」或「橙彩魚」時請手動更換【藍彩魚魚眼】或【橙彩魚魚眼】",
+    "Start from zero; when full \"Indigo Prismfish\" or \"Firelight Goldfish\" caught, manually switch to 【24203-Fish Eyes】 or 【23056-Fish Eyes】",
+    "ゼロから開始し、「藍彩魚」または「橙彩魚」を満たしたら手動で【24203-Fish Eyes】または【23056-Fish Eyes】に切り替えてください"
+  ],
+  "备注嘎儿鱼": [
+    "半自動流程如下：釣場名應為「薰香海岸」，可以透過拋竿來確認，在確認後移動到同位置同釣場的幾米外（更換釣點）以防警惕。\n提前在「矛齒鯨」視窗期到來前到場（如果「矛齒鯨」和「嘎兒魚」的視窗期起始間隔在18分鐘以內，可使用【嘎兒魚短流程）），啟動預設【嘎兒魚起手】或【嘎兒魚三提起手】。\n提醒完成時更換釣點，在「嘎兒魚」視窗期到來前半小時左右啟動【嘎兒魚收藏最終】或【嘎兒魚自動最終】。\n「收藏」和「自動」的區別：「自動」可全自動完成最終手法（有機率虧魚識時間），「收藏」則需要你手動在「嘎兒魚」視窗到來時點選收藏視窗的「否」。\n如果有連續的「嘎兒魚」視窗，可檢視【嘎兒魚連續視窗方案】。祝你好運！",
+    "The semi-auto process: the fishing place should be \"Perfumed Tides\", which can be confirmed by casting. After confirmation, move several meters away at the same spot and fishing area (change fishing position) to prevent caution.\nArrive before the \"Basilosaurus\" window starts (if the gap between \"Basilosaurus\" and \"Gharlichthys\" windows is within 18 minutes, you can use 【41408-c1】), start preset 【41408-a1】 or 【41408-b1】.\nUpon completion, change fishing position; around half an hour before the \"Gharlichthys\" window starts, start 【41408-a2】 or 【41408-b2】.\nDifference between \"41408-a2\" and \"41408-b2\": \"41408-b2\" can fully automate the final technique (may lose Fisher's Intuition time occasionally), \"41408-a2\" requires you to manually click \"No\" on the collect window when the \"Gharlichthys\" window arrives.\nIf there are consecutive \"Gharlichthys\" windows, refer to 【Gharlichthys Consecutive Window Plan】. Good luck!",
+    "半自動の流れは以下の通りです：釣り場は「薫香の浜」で、竿を投げて確認できます。確認後、同じ位置と釣り場内で数メートル離れた場所に移動（釣りスポット変更）して警戒を防ぎます。\n「ドンドルドン」ウィンドウ開始前に到着（「ドンドルドン」と「ガールシクティス」のウィンドウ開始差が18分以内なら【41408-c1】使用可）、【41408-a1】または【41408-b1】を起動してください。\n完了後に釣りスポットを変更し、「ガールシクティス」ウィンドウ開始の約30分前に【41408-a2】または【41408-b2】を起動します。\n「41408-a2」と「41408-b2」の違い：「41408-b2」は最終手法を全自動で行えます（魚のアタリ時間を逃すこともあります）、「41408-a2」は「ガールシクティス」ウィンドウ到来時に収集ウィンドウの「いいえ」を手動でクリックする必要があります。\n連続した「ガールシクティス」ウィンドウがある場合は【ガールシクティス連続ウィンドウプラン】をご覧ください。幸運を祈ります！"
+  ],
+  "备注嘎儿鱼收藏最终": [
+    "預期是你還缺 2 條「矛齒鯨」，關掉其他插件自動確認收藏的功能，需要卡確認收集收藏品對話方塊手動在「嘎兒魚」視窗期到來時點「否」",
+    "If expected to lack 2 \"Basilosaurus\", disable other plugins' auto collect confirmation; stall collect dialog and click \"No\" manually when \"Gharlichthys\" window arrives",
+    "「ドルドン」が2匹不足すると予想される場合、他のプラグインの自動収集確認機能をオフにし、収集品確認ダイアログで「いいえ」を手動でクリックしてください。「ガールシクティス」ウィンドウ時に行います"
+  ],
+  "备注嘎儿鱼自动最终": [
+    "預期是你還缺 2 條「矛齒鯨」",
+    "You are expected to still lack 2 \"Basilosaurus\"",
+    "「ドルドン」が2匹不足していることが予想されます"
+  ],
+  "备注嘎儿鱼连续窗口方案": [
+    "如果有連續的「嘎兒魚」視窗，而第 1 個視窗沒釣夠「矛齒鯨」，可到其他釣場拋竿後回到「薰香海岸」重新開始起手。也可繼續釣夠起手所需的數量：更換釣點後啟動起手，人工監控剩餘的「矛齒鯨」直到總數 10 以完成起手（其他同主方案）。",
+    "If there are consecutive \"Gharlichthys\" windows and the first window hasn't caught enough \"Basilosaurus\", you can cast at other fishing spots then return to \"Perfumed Tides\" to restart the initial fishing. You can also continue fishing until the initial required quantity is met: after changing fishing spots, start the initial fishing and manually monitor the remaining \"Basilosaurus\" until the total reaches 10 to complete the start (similar for other main plans).",
+    "「ガールシクティス」の連続ウィンドウがあり、第1ウィンドウで「ドンドルドン」が不足の場合、他の釣り場で竿を投げてから「薫香の浜」に戻って最初の釣りを再開できます。起手に必要な数量を満たすまで続行可能：釣り場を変えた後に起手を開始し、残りの「ドンドルドン」を手動で監視し、合計10匹に達したら起手を完了します（他の主要プランも同様）。"
+  ],
+  "备注带冒号": [
+    "備註：",
+    "Note: ",
+    "注記："
+  ],
+  "备注秀尼鱼龙": [
+    "視窗結束後可能還能繼續使用「馬哈爾」來以小釣大",
+    "After the window ends, you may still be able to use \"Mahar\" to Mooch.",
+    "ウィンドウ終了後も「マハール」を使って泳がせ釣りできる可能性があります。"
+  ],
+  "备注星鲸": [
+    "有兩種半自動方案流程來釣「星鯨」，長流程預設建議提前兩三個「法拉伊那」的視窗期開始，「短流程預設」則適合在「星鯨」的視窗期到來前半個多小時開始。\n以下是「星鯨長流程」預設說明：先在「法拉伊那」視窗期到來前，面對釣場「湖丙β」使用預設【法拉伊那】，在釣到「法拉伊那」後，使用預設【星鯨長流程未受生魂】來釣2條「未受生魂」（MissFisher 會自動計數並提醒）。\n最後，更換垂釣位置到遠離原位置幾米遠的地方，在「星鯨」視窗期到來前的第25分鐘啟動【星鯨長流程最終】。\n如果你甚至沒有釣到「法拉伊那」，可以使用預設【星鯨短流程方案】閱讀。",
+    "There are two semi-auto plans to fish \"Sidereal Whale\": the long flow preset (41412-a) is recommended to start 2-3 windows of \"Phallaina\" ahead, the short flow preset (41412-b) is suitable to start about half an hour before the \"Sidereal Whale\" window.\n\"Long Sidereal Whale Flow(41412-a)\" preset instructions: before \"Phallaina\" window arrives, face fishing spot \"Limne 3-β\" and use preset 【Phallaina】; after catching \"Phallaina\", use preset 【41412-a1】 to catch 2 \"Unbegotten\" (MissFisher auto counts and alerts).\nFinally, change fishing position a few meters away from original position, and launch 【41412-a2】 25 minutes before \"Sidereal Whale\" window arrival.\nIf you haven't caught \"Phallaina\" at all, you can read preset 【Sidereal Whale Short Flow Plan】.",
+    "「スターホエール」を釣るための2つの半自動プランがあります。長フロー(41412-a)は「パライナ」のウィンドウ2〜3回前に開始推奨、短フロー(41412-b)は「スターホエール」ウィンドウ開始約30分前に適しています。\n「スターホエール」長フローのプリセット(41412-a)説明：まず「パライナ」ウィンドウ開始前に、釣り場「リムニ・トゥリアβ」に向かって【パライナ】プリセットを使用。パライナを釣った後【41412-a1】を使い「アンビゴッテン」2匹を釣ります（MissFisherが自動カウント＆通知）。\n最後に、元の位置から数メートル離れた釣り場に移動し、「スターホエール」ウィンドウ開始の25分前に【41412-a2】を起動します。\nもし「パライナ」を全く釣っていなければ、【スターホエール短フロー案】を使ってください。"
+  ],
+  "备注星鲸短流程方案": [
+    "星鯨短流程預設說明：在「星鯨」視窗期到來前（最好是提前一個小時或半小時）啟動【星鯨短流程起手】來釣總計5條的2種「星鯨」魚識前置（MissFisher 會自動計數並提醒）。在完成後，更換釣點到遠離原位置幾米遠的地方，在「星鯨」視窗期到來前的第25分鐘啟動【星鯨短流程最終】，祝你好運！",
+    "\"Short Sidereal Whale\" flow preset instructions: Start 【41412-b1】 preset 1 hour or half hour before the \"Sidereal Whale\" window to catch a total of 5 \"Sidereal Whale\" fish of 2 species for pre-preparation (MissFisher auto counts and alerts). After completion, change fishing spot to a place a few meters away from original location, and start 【41412-b1】 25 minutes before \"Sidereal Whale\" window is open. Good luck!",
+    "「スターホエール」短フローのプリセット説明：ウィンドウ開始の1時間または30分前に【41412-b1】を開始し、「スターホエール」2種を合計5匹釣ります（MissFisherが自動カウント＆通知）。完了後、元の場所から数メートル離れた位置に移動し、ウィンドウ開始25分前に【41412-b1】を起動します。幸運を祈ります！"
+  ],
+  "备注星鲸短流程最终": [
+    "更換釣點在「星鯨」到來前第25分鐘啟動，只缺「法拉伊那」也可以用。",
+    "Change fishing spot and start 25 minutes before \"Sidereal Whale\" arrives; usable if only \"Phallaina\" is missing",
+    "釣り場を変え、「スターホエール」到来の25分前に起動します。「パライナ」が足りない場合でも使用可能です"
+  ],
+  "备注星鲸短流程起手": [
+    "「星鯨」到來前一個或半個小時啟動，沒釣到「法拉伊那」也可以從這個開始",
+    "Start 1 or half an hour before \"Sidereal Whale\" arrives; can start even if \"Phallaina\" not caught",
+    "「スターホエール」到来の1時間または30分前に開始し、「パライナ」を釣っていなくてもここから始められます"
+  ],
+  "备注星鲸长流程最终": [
+    "距離觸發魚識還需 3 條「實體」時使用這個；如果第一次魚識結束後「仍在法拉伊那的視窗期」，你可以繼續從預設【法拉伊那】開始，如果釣到了「法拉伊那」，則【星鯨長流程未受生魂】，然後【星鯨長流程最終】",
+    "Use this when 3 \"E.B.E.\" remain before triggering Fisher's Intuition; if first bite ended but still within \"Phallaina\" window, continue from preset 【36521】, if caught \"Phallaina\", then use 【41412-a1】 and then 【41412-a2】",
+    "漁師の直感まであと3匹の「E.B.E.」がある時に使用します。最初の漁師の直感が終了しても「パライナ」ウィンドウ内であれば、プリセット【36521】から続けて、「パライナ」を釣ったら【41412-a1】を使用し、その後に【41412-a2】を使います"
+  ],
+  "备注星鲸长流程未受生魂": [
+    "釣到「法拉伊那」後使用，完成後換釣點在「星鯨」視窗期到來前25分鐘使用【星鯨長流程最終】",
+    "After catching \"Phallaina\", use preset; after completion, change fishing spot and use 【41412-a2】 25 minutes before \"Sidereal Whale\" window",
+    "「パライナ」を釣った後に使用し、完了したら釣り場を変え、「スターホエール」ウィンドウ開始25分前に【41412-a2】を使用します"
+  ],
+  "备注潜龙": [
+    "預備階段觸發魚識然後在魚識結束時重複啟動是正常的",
+    "Triggering Fisher's Intuition during preparation and restarting after bite ends is normal",
+    "予備段階で漁師の直感が起こり、漁師の直感終了後に再起動するのは正常です"
+  ],
+  "备注特利平鲶": [
+    "該魚不適合作為紫票來源，請使用【36473】釣紫票",
+    "This fish is not suitable as a source for purple tickets; please use 【36473】 to fish purple tickets",
+    "この魚は紫チケットのソースとして適していません。【36473】を使用して紫チケットを釣ってください"
+  ],
+  "备注胸脊鲨": [
+    "關掉其他插件自動確認收藏的功能，需要卡確認收集收藏品對話方塊手動在「胸脊鯊」視窗期到來時點「否」",
+    "Disable other plugins' auto collect confirmation; stall collect dialog and click \"No\" manually during \"Stethacanthus\" window",
+    "他のプラグインの自動収集確認機能をオフにし、「ステタカントゥス」ウィンドウ中に収集品確認ダイアログで「いいえ」を手動でクリックしてください"
+  ],
+  "备注胸脊鲨鱼眼": [
+    "適用於0000-0800的雷雨，關掉其他插件自動確認收藏的功能，需要卡確認收集收藏品對話方塊,手動在「胸脊鯊」視窗期到來時「否」。如有天氣條件，請在符合天氣條件時啟動",
+    "Applicable for 00:00-08:00 thunderstorm: disable other plugins' auto confirmation of collectibles; need to stall confirmation dialog manually at \"Stethacanthus\" window by clicking \"No\". If there are weather conditions, start when they are met.",
+    "0000-0800の雷雨に適用。他のプラグインの収集品自動確認機能をオフにし、「ステタカントゥス」ウィンドウ時に収集品確認ダイアログを手動で「いいえ」にしてください。天候条件があれば、条件に合った時に起動してください"
+  ],
+  "复制ICE仓库链接说明": [
+    "點選複製 ICE（國服適配）的儲存庫連結",
+    "Click to copy ICE (CN Version) repository link",
+    "ICE（中国版）リポジトリリンクをコピー"
+  ],
+  "复制Lifestream仓库链接说明": [
+    "點選複製 Lifestream（國服適配）的儲存庫連結",
+    "Click to copy Lifestream (CN Version) repository link",
+    "Lifestream（中国版）リポジトリリンクをコピー"
+  ],
+  "复制vnavmesh仓库链接说明": [
+    "點選複製 vnavmesh（國服適配）的儲存庫連結",
+    "Click to copy vnavmesh (CN Version) repository link",
+    "vnavmesh（中国版）リポジトリリンクをコピー"
+  ],
+  "复制仓库链接": [
+    "複製儲存庫連結",
+    "Copy repository link",
+    "リポジトリリンクをコピー"
+  ],
+  "复制到剪贴板提示": [
+    "已複製到剪貼簿",
+    "Copied to clipboard",
+    "クリップボードにコピーされました"
+  ],
+  "打开": [
+    "開啟",
+    "Open",
+    "開く"
+  ],
+  "多提优先": [
+    "多提優先",
+    "Ensure Multi Hookset",
+    "マルチフックセット確定"
+  ],
+  "多提回退": [
+    "多提回退",
+    "Multi Hookset Fallback",
+    "マルチフックセット後退"
+  ],
+  "允许溢出": [
+    "允許溢位",
+    "Allow Overcap",
+    "オーバーキャップ許可"
+  ],
+  "加钩": [
+    "加鉤",
+    "Multihook",
+    "アディショナルフック"
+  ],
+  "大虾可重新来过丨狱之蟹丨世界级钓手": [
+    "「大蝦可重新來過¹」「獄之蟹（烏賊絲）」「世界級釣手」",
+    "[Shrimp Smorgasbord¹] [Hells' Claw(Squid Strip)] [World-class Troller]",
+    "「海老散らない¹」「獄之蟹（イカの切り身）」「World Class Troller」"
+  ],
+  "大鱼": [
+    "大魚",
+    "PRIZE",
+    "大狙"
+  ],
+  "大鱼知识": [
+    "大魚知識",
+    "BGF",
+    "大物の知識"
+  ],
+  "天气": [
+    "天氣 ",
+    "Weather:",
+    "天気"
+  ],
+  "天气暴雪时前置不可钓": [
+    "天氣暴雪時前置不可釣",
+    "No pre-fishing allowed during blizzard weather",
+    "吹雪時は前置釣り不可です"
+  ],
+  "失去拍水切换": [
+    "失去拍水效果，切換到前置釣法。",
+    "Surface Slap lost, switching to pre-buff method.",
+    "水しぶき効果が切れました、前置き釣り方に切り替え。"
+  ],
+  "失去专一切换": [
+    "失去專一效果，切換到前置釣法。",
+    "IC lost, switching to pre-buff method.",
+    "セムキャ効果が切れました、前置き釣り方に切り替え。"
+  ],
+  "失去鱼眼处理": [
+    "失去魚眼效果，將等待或準備。",
+    "Fish Eyes lost, will wait or prepare.",
+    "フィッシュアイの効果が切れました、待機または準備します。"
+  ],
+  "失去鱼识切换": [
+    "失去魚識效果，切換到前置釣法。",
+    "Fisher's Intuition lost, switching to pre-buff method.",
+    "漁師の直感効果が切れました、前置き釣り方に切り替え。"
+  ],
+  "碎玻璃提示": [
+    "磅礴的運勢擊碎了枷鎖\n對應當前魚識的魚類將必定咬餌！",
+    "A powerful surge of fortune has broken all barriers.\nFish matching your Intuition are guaranteed to bite!",
+    "圧倒的な運勢が束縛を打ち破った。\n現在の直感に合う魚は必ずエサに食いつく！"
+  ],
+  "碎玻璃横幅": [
+    "磅礴的運勢擊碎了枷鎖！",
+    "A mighty wave of fortune breaks all chains!",
+    "圧倒的な運がすべての鎖を断ち切った！"
+  ],
+  "碎玻璃取消": [
+    "捕魚人之識已結束，\n未監聽到必定咬餌提示，不再繼續等待咬餌。",
+    "Fisher's Intuition has ended.\nNo guaranteed bite detected, stopping wait.",
+    "漁師の直感は終了しました。\n確定バイトが検知されなかったため、待機を終了します。"
+  ],
+  "套娃优化": [
+    "套娃最佳化",
+    "Mooch Loop Opt.",
+    "泳がせループ最適化"
+  ],
+  "套娃成功提示": [
+    "哇，真的是你呀？！\r{0} {1} 次 套娃",
+    "Here's {0}!\r{0} {1} times Mooch Loop",
+    "どうも、{0}です。\r {1}回連続泳がせループ"
+  ],
+  "如有天气条件请在符合天气条件时启动": [
+    "如有天氣條件請在符合天氣條件時啟動",
+    "If there are weather conditions, please start when conditions are met",
+    "天候条件がある場合は、条件に合ったときに開始してください"
+  ],
+  "妖歌海海面丿夜乁丨黄金港近海丿日乁丨无二江下游丿昏乁": [
+    "妖歌海海面(夜)》黃金港近海(日)》無二江下游(昏)",
+    "Sirensong Sea(Night)》Kugane Coast(Day)》One River(Dusk)",
+    "セイレーン海(夜)》クガネ(昼)》無二江(夕方)"
+  ],
+  "妖歌海海面丿夜乁丨黄金港近海丿日乁丨红玉海海面丿昏乁": [
+    "妖歌海海面(夜)》黃金港近海(日)》紅玉海海面(昏)",
+    "Sirensong Sea(Night)》Kugane Coast(Day)》Ruby Sea(Dusk)",
+    "セイレーン海(夜)》クガネ(昼)》紅玉海(夕方)"
+  ],
+  "妖歌海海面丿日乁丨黄金港近海丿昏乁丨无二江下游丿夜乁": [
+    "妖歌海海面(日)》黃金港近海(昏)》無二江下游(夜)",
+    "Sirensong Sea(Day)》Kugane Coast(Dusk)》One River(Night)",
+    "セイレーン海(昼)》クガネ(夕方)》無二江(夜)"
+  ],
+  "妖歌海海面丿日乁丨黄金港近海丿昏乁丨红玉海海面丿夜乁": [
+    "妖歌海海面(日)》黃金港近海(昏)》紅玉海海面(夜)",
+    "Sirensong Sea(Day)》Kugane Coast(Dusk)》Ruby Sea(Night)",
+    "セイレーン海(昼)》クガネ(夕方)》紅玉海(夜)"
+  ],
+  "妖歌海海面丿昏乁丨黄金港近海丿夜乁丨无二江下游丿日乁": [
+    "妖歌海海面(昏)》黃金港近海(夜)》無二江下游(日)",
+    "Sirensong Sea(Dusk)》Kugane Coast(Night)》One River(Day)",
+    "セイレーン海(夕方)》クガネ(夜)》無二江(昼)"
+  ],
+  "妖歌海海面丿昏乁丨黄金港近海丿夜乁丨红玉海海面丿日乁": [
+    "妖歌海海面(昏)》黃金港近海(夜)》紅玉海海面(日)",
+    "Sirensong Sea(Dusk)》Kugane Coast(Night)》Ruby Sea(Day)",
+    "セイレーン海(夕方)》クガネ(夜)》紅玉海(昼)"
+  ],
+  "存在拍水后钓法": [
+    "存在拍水後釣法",
+    "Slap Preset",
+    "スラッププリセット"
+  ],
+  "存在专一后钓法": [
+    "存在專一後釣法",
+    "IC Preset",
+    "セムキャプリセット"
+  ],
+  "存在阶段钓法": [
+    "存在階段釣法",
+    "Phase Preset",
+    "フェーズプリセット"
+  ],
+  "存在鱼识钓法": [
+    "存在魚識釣法",
+    "Int Preset",
+    "漁師の直感プリセット"
+  ],
+  "宇宙": [
+    "宇宙",
+    "Cosmic",
+    "コスモ"
+  ],
+  "宇宙探索": [
+    "宇宙探索",
+    "Cosmic Exploration",
+    "惑星探索"
+  ],
+  "宇宙探索ICE适配模式": [
+    "在宇宙探索區域使用 ICE 適配模式",
+    "ICE Compatibility Mode",
+    "ICE対応モード"
+  ],
+  "宇宙探索ICE适配模式说明": [
+    "啟用後將有以下變化：\n- 在接取任務時自動啟動合適的預設\n- 且將延遲以適配 ICE 刷取任務的行為\n- 不進行部分播報以減少打擾\n- 在部分任務中會以銀星彙報\n- 在進入宇宙探索區域或接取探索任務時\n\n  將自動停用 AutoHook",
+    "Enabling will cause the following changes:\n- Automatically activate suitable preset when accepting missions\n- Delay to adapt to ICE scraping missions behaviors\n- Skip some announcements to reduce disturbance\n- Report with Silver Star in some quests\n- AutoHook will be automatically disabled when entering Cosmic Exploration or accepting exploration quests",
+    "有効化すると以下の変化があります：\n- タスク受注時に適切なプリセットを自動起動\n- ICEのタスク収集動作に適応するため遅延\n- 一部放送を省略し邪魔を減らす\n- 一部タスクで銀星として報告\n- 惑星探索エリア入場または探索タスク受注時に\n  AutoHookを自動無効化"
+  ],
+  "安装启用GatherbuddyReborn提示": [
+    "安裝並啟用\nGatherbuddyReborn 以\n使用快捷傳送",
+    "Install and enable\nGatherbuddyReborn to\nuse quick teleport",
+    "インストールして有効にし、\nGatherbuddyRebornで\nクイックテレポートを使用"
+  ],
+  "安装启用ICE提示": [
+    "安裝並啟用 ICE 以在宇宙探索中\n享受 ICE 帶來的便捷功能",
+    "Install and enable ICE to enjoy its convenience\nin Cosmic Exploration",
+    "ICEをインストール・有効化し、惑星探索で\nICEの便利機能を利用してください"
+  ],
+  "安装启用Lifestream提示": [
+    "安裝並啟用\nLifestream 以\n使用快捷傳送",
+    "Install and enable\nLifestream to\nuse quick teleport",
+    "インストールして有効にし、\nLifestreamで\nクイックテレポートを使用"
+  ],
+  "安装启用DailyRoutines提示": [
+    "安裝並啟用\nDaily Routines 以使用相關功能",
+    "Install and enable\nDaily Routines to use related features",
+    "関連機能を使うには\nDaily Routinesをインストール・有効化してください"
+  ],
+  "安装启用vnavmesh提示": [
+    "安裝並啟用\nvnavmesh 以使用尋路到標記",
+    "Install and enable\nvnavmesh to use pathfinding to markers",
+    "パスファインディングのために\nvnavmeshをインストール・有効化してください"
+  ],
+  "完成攒鱼计": [
+    "已完成攢魚計",
+    "AA fully stacked",
+    "ビッフィを満タンにしました"
+  ],
+  "完成时间": [
+    "完成時間：{0} 秒",
+    "Completion time: {0:f0}s",
+    "完了時間：{0:f0} 秒"
+  ],
+  "定时分钟": [
+    "定時 {0:f0} 分",
+    "Timer {0:f0} min",
+    "{0:f0}分タイマー"
+  ],
+  "定时启动": [
+    "定時啟動  {0} \r將在 {1} 時 {2} 分 啟動【{3}】\n輸入「/mf end」來終止",
+    "Scheduled start  {0} \rWill start 【{3}】 at {1}:{2}\nType `/mf end` to cancel",
+    "タイマー起動  {0} \r{1} 時 {2} 分に【{3}】開始\n「/mf end」で中止"
+  ],
+  "定时启动界面提示": [
+    "將在 {2:D2} 時 {3:D2} 分 啟動\n「{0} {1}」",
+    "Will start at {2:D2}:{3:D2}\n「{0} {1}」",
+    "{2:D2} 時 {3:D2} 分に開始予定\n「{0} {1}」"
+  ],
+  "定时启动已终止": [
+    "定時啟動已終止",
+    "Scheduled start has been terminated",
+    "タイマー起動が中止されました"
+  ],
+  "定时启动提示": [
+    "定時啟動\r {0}  {1} \r將在 {2:D2} 時 {3:D2} 分 啟動",
+    "Scheduled start\r {0}  {1} \rWill start at {2:D2}:{3:D2}",
+    "定時起動\r {0}  {1} \r{2:D2}時{3:D2}分に開始"
+  ],
+  "导出图鉴数据": [
+    "匯出圖鑑資料",
+    "Export data",
+    "図鑑を出力"
+  ],
+  "导出鱼类图鉴": [
+    "匯出魚類圖鑑",
+    "Export Fish Compendium",
+    "魚図鑑をエクスポート"
+  ],
+  "小钓大鱼准备好": [
+    "以小釣大用的魚準備好了，現在等待視窗到來。",
+    "Mooch bait ready, now waiting for window.",
+    "泳がせエサ魚準備完了、ウィンドウを待機中。"
+  ],
+  "小队": [
+    "小隊",
+    "Party",
+    "Party"
+  ],
+  "尝试调用AutoDiscard": [
+    "嘗試呼叫了 AutoDiscard，組名 {0}",
+    "Tried calling AutoDiscard with preset {0}",
+    "AutoDiscard を呼び出し、グループ名 {0}"
+  ],
+  "工具悬浮窗": [
+    "工具懸浮窗",
+    "Tools Floating Window",
+    "ツールフローティングウィンドウ"
+  ],
+  "已使用鱼眼次数": [
+    "\n已使用的魚眼次數：{0}",
+    "\nFish Eyes uses: {0}",
+    "\nフィッシュアイ使用回数：{0}"
+  ],
+  "已启用": [
+    "已啟用",
+    "Enabled",
+    "有効"
+  ],
+  "已安装启用数量提示": [
+    "※ 已安裝並啟用 {0} 個",
+    "※ {0} installed and enabled",
+    "※ {0} がインストール・有効化済み"
+  ],
+  "已完成标记": [
+    "completed",
+    "completed",
+    "完了"
+  ],
+  "已捕获所有鱼类": [
+    "已捕獲到所有所需的魚類",
+    "All required fish caught",
+    "必要な魚をすべて釣り上げました"
+  ],
+  "已暂停": [
+    "已暫停",
+    "Paused",
+    "一時停止"
+  ],
+  "已激活": [
+    "已啟用",
+    "Activated",
+    "有効"
+  ],
+  "已结束": [
+    "已結束",
+    "Finished",
+    "終了済み"
+  ],
+  "已记录种数": [
+    "已記錄 {0} 種",
+    "{0} recorded",
+    "{0}種記録"
+  ],
+  "已记录蓝鱼数量": [
+    "已記錄 {0}/{1}",
+    "Recorded {0}/{1}",
+    "{0}/{1}記録"
+  ],
+  "已设置输入框焦点": [
+    "已設定輸入框焦點",
+    "Input focus set",
+    "入力フォーカス設定済み"
+  ],
+  "已连接": [
+    "已連線",
+    "Connected",
+    "接続済み"
+  ],
+  "平钓": [
+    "平釣",
+    "NORMAL",
+    "通常"
+  ],
+  "幻光鱼提示频道": [
+    "幻光魚提示頻道",
+    "Spectral Fish Ch.",
+    "幻光魚チャンネル"
+  ],
+  "幻光鱼提示频道示例提示": [
+    "按下滾輪來安全檢視一個示例文字",
+    "- Press middle mouse button to safely view an example text",
+    "- ホイールボタンを押してサンプルテキストを安全に表示"
+  ],
+  "幻海": [
+    "幻海",
+    "Spectral",
+    "幻海"
+  ],
+  "幻海悬浮窗隐藏调试": [
+    "幻海懸浮窗\n取消勾選「調整位置」\n以隱藏除錯文字",
+    "Spectral Overlay\nUncheck 'Preview / Adjust Position'\nto hide debug text",
+    "幻海浮動窗\n取消「プレビュー / 位置調整」チェック\nデバッグテキスト非表示"
+  ],
+  "幻海流": [
+    "幻海流",
+    "Spectral Current",
+    "幻海流"
+  ],
+  "幻海流剩余时间": [
+    "{0} 秒 到  {1:mm\\:ss}",
+    "{0}s until  {1:mm\\:ss}",
+    "{0} 秒後  {1:mm\\:ss}"
+  ],
+  "幻海流即将结束": [
+    "幻海流即將結束",
+    "Spectral Current ending soon",
+    "幻海流終了間近"
+  ],
+  "幻海流悬浮窗": [
+    "幻海流懸浮窗",
+    "Spectral HUD",
+    "幻海流 HUD"
+  ],
+  "幻海流悬浮窗说明": [
+    "提供幻海流時長資訊\n- 自動靜默：自動功能執行時隱藏",
+    "Provides spectral current duration info\n- Auto silent: hides during auto",
+    "幻海流の時間情報を提供\n- 自動サイレント：自動動作中非表示"
+  ],
+  "幻海流结束": [
+    "幻海流結束",
+    "Spectral Current ended",
+    "幻海流終了"
+  ],
+  "幻海流绝命竿开始": [
+    "幻海流絕命竿開始",
+    "Spectral Final Rod started",
+    "幻海流絶命竿開始"
+  ],
+  "幻海流绝命竿结束": [
+    "幻海流絕命竿結束",
+    "Spectral Final Rod ended",
+    "幻海流絶命竿終了"
+  ],
+  "开始中断": [
+    "開始中斷",
+    "Starting interruption",
+    "中断開始"
+  ],
+  "开始准备小钓大鱼": [
+    "開始準備以小釣大用的魚",
+    "Starting to prepare mooch bait fish",
+    "泳がせ用エサ魚の準備を開始"
+  ],
+  "开始准备拍水": [
+    "開始提前準備拍擊水面效果",
+    "Starting early preparation for Surface Slap",
+    "水しぶきの事前準備を開始"
+  ],
+  "开始准备攒鱼计": [
+    "開始提前準備攢魚計",
+    "Starting early AA stacking",
+    "事前ビッフィ積み開始"
+  ],
+  "开始准备鱼识": [
+    "開始提前準備魚識效果",
+    "Starting early preparation for Fisher's Intuition",
+    "漁師の直感の事前準備を開始"
+  ],
+  "开始提交任务": [
+    "開始提交或放棄任務",
+    "Starting submit/abort missions",
+    "提出/放棄を開始"
+  ],
+  "开始等待华丽提钩冷却": [
+    "開始等待華麗提鉤冷卻",
+    "Starting to wait for SH cooldown",
+    "SHのクールダウン待機開始"
+  ],
+  "即将发送命令提示": [
+    "即將傳送命令：{0} [0]",
+    "Command will be sent: {0} [0]",
+    "コマンドを送信します：{0} [0]"
+  ],
+  "点击取消任务": [
+    "點選取消任務",
+    "Click to cancel task",
+    "クリックしてタスクをキャンセル"
+  ],
+  "点击清空": [
+    "清空",
+    "Clear",
+    "クリア"
+  ],
+  "已取消任务": [
+    "已取消任務",
+    "Task canceled",
+    "タスクをキャンセルしました"
+  ],
+  "开始更换游动饵": [
+    "開始更換遊動餌：",
+    "Switching to swimbait:",
+    "活け餌変更開始："
+  ],
+  "开始更换钓饵": [
+    "開始更換釣餌：",
+    "Changing bait: ",
+    "釣り餌変更開始："
+  ],
+  "引诱": [
+    "引誘",
+    "Lure",
+    "ルアー"
+  ],
+  "雄心": [
+    "雄心",
+    "A-Lure",
+    "アンビル"
+  ],
+  "谦逊": [
+    "謙遜",
+    "M-Lure",
+    "モデル"
+  ],
+  "等待专一": [
+    "等待專一",
+    "Wait IC",
+    "IC待機"
+  ],
+  "等待华丽": [
+    "等待華麗",
+    "Wait SH",
+    "SH待機"
+  ],
+  "强力": [
+    "強力",
+    "Powerful",
+    "強力"
+  ],
+  "当前不处在云冠群岛中": [
+    "目前不處在雲冠群島中。",
+    "Not in the Diadem.",
+    "ディアデム諸島にいません。"
+  ],
+  "当前不处在宇宙探索中": [
+    "目前不在宇宙探索中。",
+    "Not in Cosmic Exploration.",
+    "宇宙探索中ではありません。"
+  ],
+  "当前不处在出海垂钓中": [
+    "目前不處在出海垂釣中。",
+    "Not in ocean fishing.",
+    "オーシャンフィッシング中ではありません。"
+  ],
+  "当前不处在海钓": [
+    "目前不處在海釣",
+    "Not in Ocean Fishing",
+    "現在海釣り中ではない"
+  ],
+  "当前不是捕鱼人": [
+    "目前不是捕魚人",
+    "You are not currently a Fisher",
+    "現在は漁師ではありません"
+  ],
+  "当前主题": [
+    "目前主題",
+    "Theme",
+    "現在のテーマ"
+  ],
+  "当前幻海阶段": [
+    "目前幻海階段：",
+    "Current Spectral phase:",
+    "現在の幻海フェーズ："
+  ],
+  "当前海域结束": [
+    "目前海域結束",
+    "Current ocean ended",
+    "現在の海域終了"
+  ],
+  "当前海域阶段": [
+    "目前海域階段：{0}",
+    "Current ocean phase: {0}",
+    "現在の海域フェーズ：{0}"
+  ],
+  "当前认证状态": [
+    "目前認證狀態：",
+    "Auth Status:",
+    "認証状態："
+  ],
+  "当前非可钓鱼状态": [
+    "目前非可釣魚狀態",
+    "Not in fishable state",
+    "現在釣り不可状態"
+  ],
+  "怎会如此": [
+    "怎會如此……",
+    "Bruh...",
+    "そんな..."
+  ],
+  "总用时": [
+    "總用時：{0} 秒",
+    "Total time: {0:f0}s",
+    "総時間：{0:f0}秒"
+  ],
+  "悬浮窗": [
+    "懸浮窗",
+    "Floating Window",
+    "フローティングウィンドウ"
+  ],
+  "悬浮窗状态切换": [
+    "懸浮窗顯示狀態已切換",
+    "Floating window display state toggled",
+    "フローティングウィンドウ表示状態が切り替わりました"
+  ],
+  "意外修饰符": [
+    "意外的修飾符：",
+    "Unexpected modifier: ",
+    "予期しない修飾子："
+  ],
+  "成功刷新数据": [
+    "成功重新整理資料！\n• 總共 {0} 種魚類\n• 透過魚竿捕獲: {1} 種\n• 透過漁叉捕獲: {2} 種",
+    "Data refreshed successfully!\n• Total {0} fish species\n• Caught via fishing rod: {1} species\n• Caught via harpoon: {2} species",
+    "データ更新成功！\n• 合計{0}種の魚\n• 釣り竿で捕獲: {1}種\n• 魚叉で捕獲: {2}種"
+  ],
+  "成就1": [
+    "成就1",
+    "Achv1",
+    "アチーブ1"
+  ],
+  "成就2": [
+    "成就2",
+    "Achv2",
+    "アチーブ2"
+  ],
+  "成就模式提示1": [
+    "目前航線無成就 2 標識，將啟動成就 1 模式。",
+    "No Ach2 markers on route, starting Ach1 mode.",
+    "航路に成就2マーカーなし、成就1モード起動。"
+  ],
+  "成就模式提示2": [
+    "目前航線無成就標識，將啟動衝分模式。",
+    "No achievement markers on route, starting score mode.",
+    "航路に成就マーカーなし、得点モード起動。"
+  ],
+  "所需钓饵冒号": [
+    "所需釣餌：",
+    "Required Bait: ",
+    "必要餌："
+  ],
+  "钓饵建议数量": [
+    "建議：擬餌至少 x{0}、真餌至少 x{1}",
+    "Suggestion: Lure at least x{0}, Bait at least x{1}",
+    "推奨：ルアーx{0}以上、エサx{1}以上"
+  ],
+  "手动终止": [
+    "手動終止",
+    "Manual stop",
+    "手動停止"
+  ],
+  "打开MissFisher设置页": [
+    "開啟 MissFisher 設定頁",
+    "Open MissFisher Settings",
+    "MissFisher設定を開く"
+  ],
+  "技能超时禁用": [
+    "{0} ({1}) 已超時 3 次，將被臨時停用，直到下次清空佇列",
+    "{0} ({1}) timed out 3 times, temporarily disabled until queue cleared",
+    "{0} ({1}) が3回タイムアウト、キュークリアまで一時無効"
+  ],
+  "抛竿处理错误说明": [
+    "拋竿處理錯誤的次數\n- 去除釣魚動畫的第三方插件可能導致這個錯誤，不影響功能\n- 可以把它當做一個小成就（霧",
+    "Number of cast processing errors\n- Removing fishing animation plugins may cause errors, no functional impact\n- Consider it a minor achievement (joke)",
+    "キャスト処理エラー回数\n- 釣りアニメ削除プラグインが原因かも、機能には影響なし\n- 小さな実績と考えても良い（笑）"
+  ],
+  "抛竿错误次数显示": [
+    "{0} 次",
+    "{0} times",
+    "{0} 回"
+  ],
+  "拍水": [
+    "拍水",
+    "SS",
+    "トレリリ"
+  ],
+  "拍水准备完成": [
+    "拍水已完成，現在等待視窗到來。",
+    "Surface Slap ready, now waiting for window.",
+    "水しぶき準備完了、ウィンドウを待機中。"
+  ],
+  "持续到时间": [
+    "持續到 {0:yyyy/MM/dd HH:mm:ss}",
+    "Valid until {0:yyyy/MM/dd HH:mm:ss}",
+    "{0:yyyy/MM/dd HH:mm:ss}まで有効"
+  ],
+  "按Ctrl单击滚轮传送": [
+    "按住 Ctrl 點選滾輪以\n傳送到 ",
+    "- Hold Ctrl and click mouse wheel to teleport to ",
+    "- Ctrlを押しながらホイールクリックでテレポート"
+  ],
+  "按住Ctrl切换赞助渠道": [
+    "按住 Ctrl\n切換贊助渠道",
+    "- Hold Ctrl to switch sponsor channel",
+    "- Ctrl を押しながら支援チャンネル切替"
+  ],
+  "按左Ctrl单击停止": [
+    "按住左 Ctrl 並點選來停止",
+    "- Hold Left Ctrl and click to stop",
+    "- 左Ctrlを押しながらクリックで停止"
+  ],
+  "按左Ctrl单击重置": [
+    "- 按住左 Ctrl 並單擊來重置",
+    "- Hold Left Ctrl and click to reset",
+    "- 左Ctrlを押しながらクリックでリセット"
+  ],
+  "快捷键提示": [
+    "快捷鍵：{0}",
+    "Shortcut: {0}",
+    "ショートカット：{0}"
+  ],
+  "快捷键提示_双键": [
+    "快捷鍵：{0} / {1}",
+    "Shortcuts: {0} / {1}",
+    "ショートカット：{0} / {1}"
+  ],
+  "捕鱼人时显示悬浮窗": [
+    "僅在目前角色為捕魚人時顯示",
+    "Only show when FSH",
+    "FSH の時のみ表示"
+  ],
+  "捕鲨人丨珊瑚蝠鲼丨挑战高分": [
+    "「捕鯊人¹」「珊瑚蝠鱝（小蝦肉籠）」「挑戰高分」",
+    "[Certifiable Shark Hunters¹] [Coral Manta(Shrimp Cage Feeder)] [High Score]",
+    "「シャークハンター¹」「コーラルマンタ（シュリンプフィーダー）」「ハイスコア」"
+  ],
+  "换饵错误": [
+    "換餌錯誤！",
+    "Bait change error!",
+    "餌の交換エラー！"
+  ],
+  "提前点击提示": [
+    "提前點選啟動按鈕將\n自動前進並將在可釣魚時自動啟動。",
+    "Click Start early to move toward the ship rail,\nand auto-start when fishing is available.",
+    "開始ボタンを早めに押すと船縁へ自動移動し、\n釣り可能になると自動開始します。"
+  ],
+  "插件图标悬浮窗说明": [
+    "主介面關閉時顯示一個插件圖示懸浮窗，以便捷開啟主介面",
+    "Show plugin icon floating window when main window is closed for quick access",
+    "メインウィンドウが閉じている時にプラグインアイコンを表示し、素早く開くため"
+  ],
+  "播报": [
+    "播報",
+    "Alert",
+    "通知"
+  ],
+  "攒鱼计": [
+    "攢魚計",
+    "AA",
+    "ビッフィ"
+  ],
+  "收藏品": [
+    "收藏品",
+    "Collect",
+    "収集品"
+  ],
+  "收起": [
+    "收起",
+    "CLP",
+    "閉じ"
+  ],
+  "放生所有饵鱼": [
+    "放生了所有的遊動餌",
+    "Released all live bait",
+    "すべての泳がせエサをリリース"
+  ],
+  "数据导出": [
+    "資料匯出",
+    "Data Export",
+    "データエクスポート"
+  ],
+  "文件不存在": [
+    "檔案不存在: {0}",
+    "File not found: {0}",
+    "ファイルが見つかりません: {0}"
+  ],
+  "文件内容为空提示": [
+    "檔案內容為空",
+    "File content is empty",
+    "ファイル内容が空です"
+  ],
+  "文本带插件名": [
+    "{0}##{1}_{0}",
+    "{0}##{1}_{0}",
+    "{0}##{1}_{0}"
+  ],
+  "断竿": [
+    "斷竿",
+    "Cancel",
+    "キャンセル"
+  ],
+  "新海域": [
+    "新海域",
+    "New Zone",
+    "新しいエリア"
+  ],
+  "新钓法": [
+    "新釣法：",
+    "New method:",
+    "新規釣法："
+  ],
+  "无法访问套装管理器": [
+    "無法存取套裝管理器",
+    "Cannot access gearset manager",
+    "ギアセットマネージャーにアクセス不可"
+  ],
+  "无法调用AutoDiscard": [
+    "\n因此無法呼叫 AutoDiscard",
+    "\nAutoDiscard cannot be triggered",
+    "\nAutoDiscard を呼び出せません"
+  ],
+  "无适合海钓预设": [
+    "沒有適合目前情況的海釣預設",
+    "No suitable Ocean Fishing preset for current situation",
+    "現在の状況に適した海釣りプリセットなし"
+  ],
+  "星寸": [
+    "星寸",
+    "ilms",
+    "イルム"
+  ],
+  "星鲸短流程方案": [
+    "星鯨短流程方案",
+    "Sidereal Whale Short Flow Plan",
+    "スターホエール短フロー案"
+  ],
+  "暂停中状态": [
+    "／／／暫停中／／／ ",
+    "／／／Paused／／／",
+    "／／／一時停止中／／／"
+  ],
+  "更换游动饵": [
+    "更換成了遊動餌：",
+    "Switched to live bait:",
+    "泳がせエサに変更："
+  ],
+  "更换钓饵": [
+    "更換了釣餌：",
+    "Bait changed:",
+    "エサを変更："
+  ],
+  "更新JSON失败": [
+    "更新JSON資料失敗: {0}",
+    "Failed to update JSON data: {0}",
+    "JSONデータ更新失敗: {0}"
+  ],
+  "更新文件成功": [
+    "成功更新檔案！\n• 更新了 {0} 種魚類記錄\n• 檔案位置: {1}\n\n匯入到魚糕 V2 的步驟：\n1. 開啟魚糕 V2\n2. 點選頁面右上角的齒輪圖示\n3. 在彈出的側欄點選「匯入」\n4. 選擇剛剛更新的 JSON 檔案",
+    "Successfully updated file!\n• Updated {0} fish records\n• File location: {1}\n\nSteps to import into FFMomola V2:\n1. Open FFMomola V2\n2. Click gear icon at top right\n3. Click 'Import' in side panel\n4. Select the newly updated JSON file",
+    "ファイル更新成功！\n• {0} 件の魚記録を更新\n• ファイル場所: {1}\n\nFFMomola V2へのインポート手順：\n1. FFMomola V2を開く\n2. 画面右上のギアアイコンをクリック\n3. ポップアップサイドバーで「インポート」をクリック\n4. 更新したJSONファイルを選択"
+  ],
+  "更新鱼类记录集合失败": [
+    "更新魚類記錄集合失敗: {0}",
+    "Failed to update fish records collection: {0}",
+    "魚記録コレクション更新失敗: {0}"
+  ],
+  "最佳威兔洞": [
+    "最佳威兔洞",
+    "Bestways Burrow",
+    "ベストウェイ・バロー"
+  ],
+  "未使用": [
+    "未使用",
+    "Unused",
+    "未使用"
+  ],
+  "未启用DailyRoutines": [
+    "\n啟用 Daily Routines",
+    "\nEnable Daily Routines",
+    "\nDaily Routines を有効化"
+  ],
+  "未启用DailyRoutines模块AutoDiscard": [
+    "\nDaily Routines 的 AutoDiscard 模組未啟用",
+    "\nDR AutoDiscard module is disabled",
+    "\nDaily Routines の AutoDiscard モジュールは無効です"
+  ],
+  "未填写AutoDiscard组名": [
+    "\n填寫應傳給 DR AutoDiscard 模組的設定組名稱",
+    "\nFill config group name for DR AutoDiscard",
+    "\nDR AutoDiscard の設定グループ名を入力"
+  ],
+  "未安装ICE": [
+    "未安裝 ICE，無法進入 ICE 適配模式",
+    "ICE is not installed, cannot enter ICE Adaptation Mode",
+    "ICE がインストールされていません。ICE適配モードに入れません"
+  ],
+  "未接取探索任务": [
+    "你尚未接取探索任務",
+    "You have not accepted an exploration mission",
+    "探索ミッションを受け入れていません"
+  ],
+  "插件依赖": [
+    "插件依賴",
+    "Plugin Dependencies",
+    "プラグイン依存関係"
+  ],
+  "未安装数量提示": [
+    "還有 {0} 個未安裝 / 啟用",
+    "{0} not installed/enabled",
+    "{0} が未インストール/未有効"
+  ],
+  "未找到捕鱼人套装": [
+    "未找到捕魚人套裝",
+    "Fisher gearset not found",
+    "漁師ギアセットが見つかりません"
+  ],
+  "未找到鱼名": [
+    "在處理釣法報告時，未找到 {0} 的名稱",
+    "Item name not found for ID {0} during fishing report processing",
+    "釣りレポート処理中に ID {0} のアイテム名が見つかりません"
+  ],
+  "未提钩": [
+    "未提鉤",
+    "Hookset not used",
+    "フッキングしていません"
+  ],
+  "未激活": [
+    "未啟用",
+    "Deactivated",
+    "無効"
+  ],
+  "未知": [
+    "未知",
+    "Unknown",
+    "不明"
+  ],
+  "未知提钩类型": [
+    "未知提鉤型別",
+    "Unknown Hookset",
+    "不明なフッキング"
+  ],
+  "未知文本": [
+    "UnknownText",
+    "UnknownText",
+    "UnknownText"
+  ],
+  "未知窗口态": [
+    "未知視窗態",
+    "Unknown window state",
+    "不明なウィンドウ状態"
+  ],
+  "未知错误钓饵反馈": [
+    "未知錯誤：({0}) | {1}丨{2}\n請攜資訊意見回饋",
+    "Unknown error: ({0}) | {1}｜{2}\nPlease report with this info",
+    "不明エラー：({0}) | {1}｜{2}\nこの情報と共に報告"
+  ],
+  "未知鱼类ID": [
+    "未知魚類 ID: ",
+    "Unknown fish ID: ",
+    "不明な魚ID："
+  ],
+  "未连接": [
+    "未連線",
+    "Disconnected",
+    "未接続"
+  ],
+  "未配置AutoDiscard": [
+    "你還沒有：",
+    "You have not: ",
+    "まだ以下が未設定です："
+  ],
+  "本地时间格式1": [
+    "{0:MM-dd} {1:00}:00",
+    "{0:MM-dd} {1:00}:00",
+    "{0:MM-dd} {1:00}:00"
+  ],
+  "本地时间格式2": [
+    "{0:00}:00",
+    "{0:00}:00",
+    "{0:00}:00"
+  ],
+  "本地缓存丢失": [
+    "本地快取丟失，請確保有網路連線後重試",
+    "Local cache missing, ensure network and retry",
+    "ローカルキャッシュ消失、ネットワーク確認後再試行"
+  ],
+  "机器识别凭证": [
+    "機器識別憑證：",
+    "Machine ID: ",
+    "Machine ID: "
+  ],
+  "条件": [
+    "條件 ",
+    "Condition: ",
+    "条件 "
+  ],
+  "枪鱼位掩码为空": [
+    "Spearfish 位掩碼為空，返回空集",
+    "Spearfish bitmask is null, returning empty set",
+    "銛魚bitmaskがnull、空セットを返します"
+  ],
+  "查看当前": [
+    "檢視\n目前",
+    "View\nCurrent",
+    "現在を\n表示"
+  ],
+  "查看": [
+    "檢視",
+    "View",
+    "表示"
+  ],
+  "查看内容": [
+    "檢視預設內容",
+    "View preset content",
+    "プリセット内容を表示"
+  ],
+  "前往": [
+    "前往",
+    "Nav",
+    "移動"
+  ],
+  "前往所在地": [
+    "前往所在地",
+    "Navigate to location",
+    "場所へ移動"
+  ],
+  "未找到所在地": [
+    "未找到所在地",
+    "Location not found",
+    "所在地が見つかりません"
+  ],
+  "处在钓鱼状态": [
+    "處在釣魚狀態",
+    "Currently fishing",
+    "釣り中です"
+  ],
+  "查看预设": [
+    " 檢視預設",
+    " View Presets",
+    " プリセットを表示"
+  ],
+  "梅尔托尔海峡南丿夜乁丨加拉迪翁湾丿日乁丨梅尔托尔海峡北丿昏乁": [
+    "梅爾托爾海峽南(夜)》加拉迪翁灣(日)》梅爾托爾海峽北(昏)",
+    "S. Strait of Merlthor(Night)》Galadion Bay(Day)》N. Strait of Merlthor(Dusk)",
+    "メルトール海峡南(夜)》ガラディオン湾(昼)》メルトール海峡北(夕方)"
+  ],
+  "梅尔托尔海峡南丿日乁丨加拉迪翁湾丿昏乁丨梅尔托尔海峡北丿夜乁": [
+    "梅爾托爾海峽南(日)》加拉迪翁灣(昏)》梅爾托爾海峽北(夜)",
+    "Southern Strait of Merlthor(Day)》Galadion Bay(Dusk)》N. Strait of Merlthor(Night)",
+    "メルトール海峡南(昼)》ガラディオン湾(夕方)》メルトール海峡北(夜)"
+  ],
+  "梅尔托尔海峡南丿昏乁丨加拉迪翁湾丿夜乁丨梅尔托尔海峡北丿日乁": [
+    "梅爾托爾海峽南(昏)》加拉迪翁灣(夜)》梅爾托爾海峽北(日)",
+    "S. Strait of Merlthor(Dusk)》Galadion Bay(Night)》N. Strait of Merlthor(Day)",
+    "メルトール海峡南(夕方)》ガラディオン湾(夜)》メルトール海峡北(昼)"
+  ],
+  "模式": [
+    "模式",
+    " Mode",
+    "モード"
+  ],
+  "模式已启动": [
+    "{0}模式已啟動",
+    "{0} mode started",
+    "{0}モードを起動しました"
+  ],
+  "横路不通丨海洋蟾蜍丨挑战高分": [
+    "「橫路不通¹」「海洋蟾蜍（潮蟲）」「挑戰高分」",
+    "[Crab Boat Crew¹] [Seafaring Toad(pill bug)] [High Score]",
+    "「蟹工船¹」「オーシャントード（ピルバグ）」「ハイスコア」"
+  ],
+  "歇竿": [
+    "歇竿",
+    "Rest",
+    "竿上げ"
+  ],
+  "正在同步预设数据": [
+    "正在同步預設資料……",
+    "Syncing preset data…",
+    "プリセットを同期中…"
+  ],
+  "正在处理预设数据": [
+    "正在處理預設資料……",
+    "Processing preset data…",
+    "プリセットデータ処理中……"
+  ],
+  "气鲀四海丨只有我最鳐摆丨挑战高分": [
+    "「氣魨四海¹」「只有我最鰩擺²」「挑戰高分」",
+    "[Balloon Catchers¹] [Sticking it to the Manta²] [High Score]",
+    "「バルーンキャッチャー¹」「エイエイオー²」「ハイスコア」"
+  ],
+  "气鲀四海丨石骨鱼丨世界级钓手": [
+    "「氣魨四海¹」「石骨魚（溝鼠尾巴）」「世界級釣手」",
+    "[Balloon Catchers¹] [Stonescale(Rat Tail)] [World-class Troller]",
+    "「バルーンキャッチャー¹」「ロックスケイル（ラットの尾）」「World Class Troller」"
+  ],
+  "水母狂魔丨世界级钓手": [
+    "「水母狂魔¹」「世界級釣手」",
+    "[Jelled Together¹] [World-class Troller]",
+    "「クラゲマニア¹」「World Class Troller」"
+  ],
+  "没写好别点啦": [
+    "沒寫好別點啦。",
+    "Not quite ready yet, please don’t click for now.",
+    "まだ準備できてないから、クリックはちょっと待ってね。"
+  ],
+  "没有对应钓饵": [
+    "沒有對應釣餌",
+    "No matching bait found",
+    "対応する餌がありません"
+  ],
+  "测试": [
+    "測試",
+    "Test",
+    "テスト"
+  ],
+  "测试启动超时": [
+    "在嘗試開始測試時超時",
+    "Test start timed out",
+    "テスト開始時にタイムアウト"
+  ],
+  "海钓中禁止定时": [
+    "不能在出海垂釣中啟動定時",
+    "Cannot start timer during Ocean Fishing",
+    "出海中はタイマー起動不可"
+  ],
+  "其他类型预设无法定时启动": [
+    "預設【{0}】無法定時啟動。\n它可能是一段說明，而不是用來釣魚的預設。",
+    "Preset [{0}] cannot be scheduled.\nIt may be a note, not a fishing preset.",
+    "プリセット【{0}】はタイマー起動できません。\n説明文であり、釣り用プリセットではない可能性があります。"
+  ],
+  "海钓模式未定义": [
+    "在啟動海釣模式時\n未定義的模式：",
+    "Starting Ocean Fishing mode\nUndefined mode: ",
+    "海釣りモード起動時\n未定義モード："
+  ],
+  "海钓预设错误": [
+    "海釣預設錯誤",
+    "Sea fishing preset error",
+    "海釣りプリセットエラー"
+  ],
+  "添加空格追加分钟": [
+    "新增空格並追加分鐘數可設定為定時",
+    "Add space and minutes number to set timer",
+    "空白を追加し分数を続けるとタイマー設定"
+  ],
+  "添加鱼ID成功": [
+    "嘗試將給引數中的魚名新增了 ID",
+    "Added IDs to fish names in parameters",
+    "パラメータの魚名に ID を追加"
+  ],
+  "清除文本选择": [
+    "已清除文字選擇",
+    "Text selection cleared",
+    "テキスト選択クリア"
+  ],
+  "渡轮码头": [
+    "渡輪碼頭",
+    "Ferry Docks",
+    "船着場"
+  ],
+  "游动饵未知错误反馈": [
+    "未知錯誤：{0} | {1}({2})丨{3}\n請攜資訊意見回饋",
+    "Unknown error: {0} | {1}({2})｜{3}\nPlease report with this info",
+    "不明エラー：{0} | {1}({2})｜{3}\nこの情報と共に報告"
+  ],
+  "游动饵索引非法": [
+    "遊動餌索引非法：{0} 索引 {1} 小於 0",
+    "Swimbait index invalid: {0} index {1} < 0",
+    "泳がせエサインデックス不正：{0} インデックス {1} < 0"
+  ],
+  "点击以启用": [
+    "點選以啟用",
+    "Click to enable",
+    "クリックして有効化"
+  ],
+  "点击刷新认证状态": [
+    "點選重新整理認證狀態",
+    "Click to refresh auth status",
+    "クリックして認証状態を更新"
+  ],
+  "点击右侧按钮导出图鉴": [
+    "點選右側按鈕匯出魚類圖鑑資料",
+    "Click right button to export fish compendium data",
+    "右のボタンをクリックして魚図鑑データをエクスポート"
+  ],
+  "点击同步预设": [
+    "點選以同步預設",
+    "- Click to sync presets\n- Hold Ctrl and click to open Presets Sheet",
+    "- クリックしてプリセットを同期\n- Ctrlを押しながらクリックでプリセット表へ移動"
+  ],
+  "点击复制凭证": [
+    "點選以複製：{0}",
+    "Click to copy: {0}",
+    "クリックしてコピー: {0}"
+  ],
+  "点击按钮导出": [
+    "點選按鈕匯出",
+    "Click to export",
+    "出力ボタン押下"
+  ],
+  "爱发电": [
+    "愛發電",
+    "AFDian",
+    "AFDian"
+  ],
+  "版本": [
+    "版本：",
+    "Version: ",
+    "バージョン："
+  ],
+  "物品上限": [
+    "物品上限",
+    "Item limit reached",
+    "アイテムの上限"
+  ],
+  "物品菜单查看预设": [
+    "在物品選單中新增檢視預設",
+    "View Presets from Item Menu",
+    "アイテムメニューでプリセット表示"
+  ],
+  "现": [
+    "現",
+    "Current: ",
+    "現在"
+  ],
+  "琉璃龙丨梅泉宝龟": [
+    "「琉璃龍」「梅泉寶龜（石蠅幼蟲）」",
+    "[Glass Dragon] [Jewel of Plum Spring(Stonefly Nymph)]",
+    "「瑠璃龍」「梅泉宝亀（ストーンラーヴァ）」"
+  ],
+  "禁用": [
+    "停用",
+    "Disable",
+    "無効化"
+  ],
+  "禁用所有TTS": [
+    "停用所有 TTS",
+    "Disable all TTS",
+    "すべてのTTSを無効化"
+  ],
+  "禁用所有SE音效": [
+    "禁用所有 <se> 音效",
+    "Disable all <se> sound effects",
+    "全ての<se>効果音を無効化"
+  ],
+  "禁用所有SE音效说明": [
+    "禁止 MissFisher 傳送如 /e <se.1> 的默語頻道音效",
+    "Prevent MissFisher from sending /e <se.1> echo-channel sound effects",
+    "MissFisher が /e <se.1> のようなエコーチャンネル効果音を送信しないようにします"
+  ],
+  "秒": [
+    "秒",
+    "s",
+    "秒"
+  ],
+  "秒以上": [
+    "秒 以上",
+    "s above",
+    "秒 以上"
+  ],
+  "秒以下": [
+    "秒 以下",
+    "s below",
+    "秒 以下"
+  ],
+  "秒到": [
+    "秒 到 ",
+    "s to ",
+    "秒 まで "
+  ],
+  "程序启动": [
+    "程式啟動！",
+    "Program started!",
+    "プログラム開始！"
+  ],
+  "空岛三期": [
+    "空島三期",
+    "SkyBuiG3",
+    "特注G3"
+  ],
+  "空岛二期": [
+    "空島二期",
+    "SkyBuiG2",
+    "特注G2"
+  ],
+  "空岛四期": [
+    "空島四期",
+    "SkyBuiG4",
+    "特注G4"
+  ],
+  "空岛技巧点": [
+    "空島技巧點",
+    "SkywardPt",
+    "技巧点"
+  ],
+  "空岛绿鱼": [
+    "空島綠魚",
+    "SBGreen",
+    "特注緑魚"
+  ],
+  "空岛前往钓场提示": [
+    "已開始前往對應釣場並面向",
+    "Heading to the corresponding fishing spot and facing it on arrival.",
+    "対応する釣り場へ移動し、到着後に向きを合わせます。"
+  ],
+  "空岛到达钓场提示": [
+    "已到達釣場中心",
+    "Arrived at the fishing spot center.",
+    "釣り場の中心に到着しました。"
+  ],
+  "空闲中": [
+    "空閒中",
+    "Idle",
+    "アイドル"
+  ],
+  "窗口期到来前反复抛竿是正常的": [
+    "視窗期到來前反覆拋竿是正常的",
+    "Repeatedly casting before window period arrives is normal",
+    "ウィンドウ到来前に繰り返し竿を投げるのは正常です"
+  ],
+  "窗口期结束": [
+    "視窗期結束！",
+    "Window period ended!",
+    "ウィンドウ期間終了！"
+  ],
+  "窗口结束保留": [
+    "視窗結束，將保留咬餌處理 200 秒",
+    "Window ended, bite handling will remain active for 200 seconds",
+    "ウィンドウ終了、200秒間はヒット処理を維持します"
+  ],
+  "窗口重定位完成": [
+    "視窗重定位完成: X:{0}, Y:{1}",
+    "Window reposition completed: X:{0}, Y:{1}",
+    "ウィンドウ再配置完了: X:{0}, Y:{1}"
+  ],
+  "窗口重定位错误": [
+    "視窗重定位錯誤: {0}",
+    "Window reposition error: {0}",
+    "ウィンドウ再配置エラー: {0}"
+  ],
+  "默认": [
+    "預設",
+    "Default",
+    "デフォルト"
+  ],
+  "将主界面重定位到鼠标": [
+    "將主介面重定位到滑鼠指標位置",
+    "Move main window to cursor",
+    "メイン画面をカーソル位置へ"
+  ],
+  "在主界面显示查看预设按钮": [
+    "在主介面顯示檢視預設按鈕",
+    "Show View Presets button",
+    "メイン画面にプリセット表示ボタン"
+  ],
+  "竿时": [
+    "竿時",
+    "Rod Time",
+    "竿時"
+  ],
+  "竿时悬浮窗": [
+    "竿時懸浮窗",
+    "Bite HUD",
+    "アタリ HUD"
+  ],
+  "竿时悬浮窗说明": [
+    "提供拋竿時長和竿震型別資訊\n- 自動靜默：自動功能執行時隱藏",
+    "Provides cast duration and rod vibration type info\n- Auto silent: hides during auto",
+    "キャスト時間と竿震タイプ情報を提供\n- 自動サイレント：自動動作中は非表示"
+  ],
+  "竿时悬浮窗缩放": [
+    "懸浮窗縮放",
+    "HUD scale",
+    "HUD 拡大率"
+  ],
+  "竿时悬浮窗缩放说明": [
+    "調整竿時懸浮窗的顯示縮放比例",
+    "Adjust the bite HUD scale",
+    "アタリ HUD の表示倍率を調整"
+  ],
+  "悬浮窗主题": [
+    "懸浮窗主題",
+    "HUD theme",
+    "HUD テーマ"
+  ],
+  "悬浮窗样式": [
+    "懸浮窗樣式",
+    "HUD style",
+    "HUD スタイル"
+  ],
+  "竿时主题固定": [
+    "漁撈（魚糕）",
+    "Yulao (Fish Cake)",
+    "ユラオ（フィッシュケーキ）"
+  ],
+  "竿时主题马卡龙": [
+    "馬卡龍",
+    "Macaron",
+    "マカロン"
+  ],
+  "竿时主题雷达绿": [
+    "雷達綠",
+    "Radar Green",
+    "レーダーグリーン"
+  ],
+  "竿时主题夜航红": [
+    "夜航紅",
+    "Night Flight Red",
+    "ナイトフライトレッド"
+  ],
+  "竿时样式经典": [
+    "經典",
+    "Classic",
+    "クラシック"
+  ],
+  "竿时状态准备": [
+    "準備",
+    "Prep",
+    "準備"
+  ],
+  "竿时状态等待": [
+    "等待",
+    "Waiting",
+    "待機"
+  ],
+  "竿时状态已咬饵": [
+    "已咬餌",
+    "Bite",
+    "アタリ"
+  ],
+  "竿时状态未知": [
+    "未知",
+    "Unknown",
+    "不明"
+  ],
+  "竿时悬浮窗隐藏调试": [
+    "竿時懸浮窗\n取消勾選「調整位置」\n以隱藏除錯文字",
+    "Tug Timer Overlay\nUncheck 'Preview / Adjust Position'\nto hide debug text",
+    "竿時浮動窗\n取消「プレビュー / 位置調整」チェック\nデバッグテキスト非表示"
+  ],
+  "等待": [
+    "等待",
+    "Waiting",
+    "待ち時間"
+  ],
+  "等待专一连招": [
+    "開始等待採集力以使用專一垂釣連招\n預估的所需時間：{0} 秒\n等待細節如下：{1}",
+    "Waiting for GP to use Prize Catch combo\nEst. time: {0}s\nDetails: {1}",
+    "專一釣りコンボ用GP待機中\n予想時間：{0}秒\n詳細：{1}"
+  ],
+  "等待分钟": [
+    "等待 {0:f0} 分",
+    "Waiting {0:f0} min",
+    "{0:f0}分待機"
+  ],
+  "等待天气中": [
+    "等待天氣中",
+    "Waiting for weather",
+    "天候待機中"
+  ],
+  "等待玩家": [
+    "等待玩家",
+    "Waiting for player",
+    "プレイヤー待機中"
+  ],
+  "等待秒数": [
+    "等待 {0:f0} 秒",
+    "Waiting {0:f0}s",
+    "{0:f0}秒待機中"
+  ],
+  "剩余分钟": [
+    "還剩 {0:f0} 分",
+    "Remaining {0:f0} min",
+    "残り {0:f0} 分"
+  ],
+  "剩余秒数": [
+    "還剩 {0:f0} 秒",
+    "Remaining {0:f0}s",
+    "残り {0:f0} 秒"
+  ],
+  "等待采集力": [
+    "等待採集力中",
+    "Waiting for gathering power",
+    "採集力を待っています"
+  ],
+  "精准": [
+    "精準",
+    "Precision",
+    "精密"
+  ],
+  "系统音关闭": [
+    "系統音已關閉。",
+    "System sounds disabled.",
+    "システム音無効化。"
+  ],
+  "系统音恢复": [
+    "系統音已恢復到 {0}",
+    "System sounds restored to {0}",
+    "システム音を{0}に復元"
+  ],
+  "索蒂斯丨依拉丝莫龙": [
+    "「索蒂斯（火螢）」「依拉絲莫龍（重鐵板鉤）」",
+    "[Sothis(glowworm)] [Elasmosaurus(Heavy Steel Jig)]",
+    "「ソティス（グロウワーム）」「エラスモサウルス（ヘヴィメタルジグ）」"
+  ],
+  "索蒂斯丨石骨鱼": [
+    "「索蒂斯（火螢）」「石骨魚（溝鼠尾巴）」",
+    "[Sothis(glowworm)] [Stonescale(Rat Tail)]",
+    "「ソティス（グロウワーム）」「ロックスケイル（ラットの尾）」"
+  ],
+  "练级": [
+    "練級",
+    "Leveling",
+    "レベリング"
+  ],
+  "结果前缀以小钓大": [
+    "以小釣大",
+    "Mooch",
+    "泳がせ釣り"
+  ],
+  "结果前缀以小钓大II": [
+    "以小釣大II",
+    "MoochII",
+    "泳がせ釣りII"
+  ],
+  "结果前缀大鱼": [
+    "大魚",
+    "Prize",
+    "大狙"
+  ],
+  "结果前缀平钓": [
+    "平釣",
+    "Cast",
+    "キャス"
+  ],
+  "结果前缀拍水": [
+    "拍水",
+    "S.S.",
+    "トレリリ"
+  ],
+  "结果前缀撒饵": [
+    "撒餌",
+    "Chum",
+    "撒き餌"
+  ],
+  "结果前缀渔技": [
+    "漁技",
+    "M.S.B.",
+    "熟技"
+  ],
+  "结果前缀游动饵以小钓大": [
+    "遊動餌以小釣大",
+    "SwimbaitMooch",
+    "活け餌泳がせ"
+  ],
+  "结果前缀耐心I": [
+    "耐心I",
+    "P.I",
+    "ペーI"
+  ],
+  "结果前缀耐心II": [
+    "耐心II",
+    "P.II",
+    "ペーII"
+  ],
+  "继续咬饵处理": [
+    "由於距離視窗結束小於 200 秒，將繼續自動處理咬餌。",
+    "Less than 200s to window end, continuing auto-bite handling.",
+    "ウィンドウ終了まで200秒未満のため、自動ヒット処理継続。"
+  ],
+  "缓存加载成功": [
+    "快取載入成功：共 {0} 條預設\n預設版本：v{1}",
+    "Successfully loaded: {0} presets\nPreset version: v{1}",
+    "キャッシュ読み込み成功：{0} 個のプリセット\nプリセットバージョン：v{1}"
+  ],
+  "网络连接异常": [
+    "網路連線異常，請檢查網路設定或稍後重試",
+    "Network connection abnormal, check settings or retry later",
+    "ネットワーク異常、設定確認または後で再試行"
+  ],
+  "耐心": [
+    "耐心",
+    "PATIENCE",
+    "ペーシェンス"
+  ],
+  "脱钩": [
+    "脫鉤",
+    "Escaped",
+    "バラし"
+  ],
+  "脱钩提示": [
+    "脫鉤！",
+    "Escaped!",
+    "バラし！"
+  ],
+  "自动丢弃": [
+    "自動丟棄",
+    "Auto Discard",
+    "自動破棄"
+  ],
+  "自动丢弃提示": [
+    "填寫後，海釣結束時將使用該組名觸發 Daily Routines 的 AutoDiscord 功能\n- 需要 Daily Routines AutoDiscord 模組\n- 留空則停用該功能",
+    "Enter a group name to trigger Daily Routines' AutoDiscard when a fishing session ends.\n- Requires Daily Routines AutoDiscard module\n- Leave empty to disable",
+    "グループ名を入力すると、収竿時に Daily Routines の AutoDiscard が起動します。\n・Daily Routines AutoDiscard モジュールが必要\n・空欄なら無効"
+  ],
+  "中断后命令": [
+    "完成後命令",
+    "Post command",
+    "完了後コマンド"
+  ],
+  "中断后命令占位": [
+    "例如：e <se.1>",
+    "e.g. e <se.1>",
+    "例: e <se.1>"
+  ],
+  "中断后命令提示": [
+    "填寫文字命令\n目標達成或視窗結束時，將嘗試傳送填寫的文字命令\n傳送時會規範為單個前導斜槓\n例如填寫 e <se.1> 將等效傳送 /e <se.1>\n- 留空則不觸發",
+    "Enter a text command.\nWhen a target is achieved or the window ends, the command is sent.\nThe leading slash is normalized to exactly one.\nExample: e <se.1> will send /e <se.1>\n- Leave empty to disable",
+    "テキストコマンドを入力\n目標達成またはウィンドウ終了時に送信します\n先頭のスラッシュは1つに統一されます\n例: e <se.1> と入力すると /e <se.1> を送信\n- 空欄で無効"
+  ],
+  "自动功能": [
+    "自動功能",
+    "Automatic Features",
+    "自動機能"
+  ],
+  "自动动作已恢复": [
+    "自動動作已恢復",
+    "Auto actions resumed",
+    "自動動作を再開しました"
+  ],
+  "自动动作已暂停": [
+    "自動動作已暫停",
+    "Auto actions paused",
+    "自動動作を一時停止しました"
+  ],
+  "自动提交任务超时重试": [
+    "自動提交任務超時，正在重試……",
+    "Mission auto-submit timed out, retrying…",
+    "自動納品がタイムアウト、再試行中…"
+  ],
+  "自动提交失败": [
+    "自動提交任務失敗",
+    "Auto-submit mission failed",
+    "自動提出失敗"
+  ],
+  "自动收集收藏品": [
+    "自動時自動收集收藏品",
+    "Auto-collect collectibles",
+    "コレクタブルを自動収集"
+  ],
+  "自动时不使用强心剂": [
+    "自動時不使用任何強心劑",
+    "No Cordial in Auto",
+    "自動時コーディアルなし"
+  ],
+  "自动静音系统音": [
+    "自動靜音系統音",
+    "Mute System Sounds in Auto",
+    "自動時システム音ミュート"
+  ],
+  "自动静默": [
+    "自動靜默",
+    "Auto Silence",
+    "自動サイレンス"
+  ],
+  "自定义秒": [
+    "{0} 秒",
+    "{0} seconds",
+    "{0} 秒"
+  ],
+  "航线": [
+    "航線",
+    "RTE",
+    "航路"
+  ],
+  "艾欧泽亚时间符号": [
+    "",
+    "",
+    ""
+  ],
+  "获取鱼类解锁数据失败": [
+    "獲取魚類解鎖資料失敗: {0}",
+    "Failed to get fish unlock data: {0}",
+    "魚の解除データ取得失敗: {0}"
+  ],
+  "获得力不足": [
+    "魚王脫鉤，獲得力不足",
+    "Big Fish escaped, insufficient gathering power",
+    "大物がバレた！(獲得力不足)"
+  ],
+  "获得力不足以启动预设": [
+    "獲得力不足，無法啟動該預設。",
+    "Your gathering power is insufficient to activate this preset.",
+    "獲得力が不足しているため、このプリセットを起動できません。"
+  ],
+  "获得力不足以启动预设至少需要": [
+    "獲得力不足，無法啟動【{0}】。\n「{1}」至少需要 {2} 獲得力（當前 {3}）。",
+    "Your gathering power is insufficient to activate 【{0}】.\n\"{1}\" requires at least {2} gathering power (current: {3}).",
+    "獲得力が不足しているため、【{0}】を起動できません。\n「{1}」は最低でも {2} の獲得力が必要です（現在の獲得力：{3}）。"
+  ],
+  "获得力提示": [
+    "「{0}」需要至少 {1} 獲得力，\n當前 {2}（{3}）",
+    "\"{0}\" requires at least {1} gathering power, \ncurrent {2} ({3})",
+    "「{0}」は最低でも {1} の獲得力が必要です。\n現在の値は {2}（{3}）です"
+  ],
+  "传承录缺少无法启动": [
+    "缺少傳承錄，無法啟動該預設。",
+    "You lack the required folklore tome to activate this preset.",
+    "このプリセットを起動するには、必要な伝承録が不足しています。"
+  ],
+  "传承录缺少无法启动预设": [
+    "缺少傳承錄「[0]」，無法啟動【{0}】。",
+    "You are missing the folklore tome \"[0]\" and cannot activate 【{0}】.",
+    "【{0}】を起動するには、伝承録「[0]」が必要です。"
+  ],
+  "传承录提示": [
+    "所需傳承錄：\n[0]（{0}）",
+    "Required Folklore Tome: \n[0] ({0})",
+    "必要な伝承録：\n[0]（{0}）"
+  ],
+  "未满足": [
+    "未滿足",
+    "Unmet",
+    "未達成"
+  ],
+  "已满足": [
+    "已滿足",
+    "Met",
+    "達成済み"
+  ],
+  "数量在背包": [
+    "（{0} 個在揹包）",
+    " ({0} in inventory) ",
+    "（バッグに{0}個）"
+  ],
+  "获得拍水切换": [
+    "獲得拍水效果，切換到拍水後釣法。",
+    "Surface Slap activated, switching to post-splash method.",
+    "水しぶき効果獲得、拍水後釣り方に切り替え。"
+  ],
+  "获得专一切换": [
+    "獲得專一效果，切換到專一後釣法。",
+    "IC gained, switching to post-IC method.",
+    "セムキャ効果を得たため、セムキャ後釣り方へ切替。"
+  ],
+  "蓝彩鱼橙彩鱼都钓满天气符合绿彩鱼条件时使用七星彩天主最终": [
+    "「藍彩魚」和「橙彩魚」都釣滿時，在天氣符合「綠彩魚」條件時使用【七彩天主最終】",
+    "When both \"Indigo Prismfish\" and \"Firelight Goldfish\" are caught, use 【24994-a2】 when weather matches \"Green Prismfish\" conditions",
+    "「藍彩魚」と「橙彩魚」を釣り切ったら、天候が「緑彩魚」の条件に合うときに【24994-a2】を使用してください"
+  ],
+  "蓝鱼": [
+    "藍魚",
+    "Blue Fish",
+    "青魚"
+  ],
+  "蓝鱼模式提示": [
+    "目前航線無藍魚，將啟動衝分模式。",
+    "No bluefish on route, starting score mode.",
+    "航路に青魚なし、得点モード起動。"
+  ],
+  "表达式匹配失败": [
+    "表示式匹配失敗，語法可能有誤",
+    "Expression match failed, the syntax may be incorrect",
+    "式のマッチに失敗しました。構文に誤りがある可能性があります"
+  ],
+  "表达式启动错误": [
+    "在透過釣法表示式啟動時出現錯誤",
+    "Error starting via fishing expression",
+    "釣法式起動時にエラー"
+  ],
+  "表达式非法": [
+    "表示式非法：",
+    "Invalid expression: ",
+    "不正な式："
+  ],
+  "装备耐久为零请修理": [
+    "請修理裝備後再繼續：{0}",
+    "Please repair your equipment before continuing: {0}",
+    "続行する前に装备を修理してください：{0}"
+  ],
+  "装备耐久耗尽": [
+    "裝備耐久耗盡",
+    "Equipment durability depleted",
+    "装備の耐久度が尽きました"
+  ],
+  "意外抛竿采集力等待已提前结束": [
+    "因意外拋竿，採集力恢復等待已提前結束",
+    "Due to unexpected cast, GP recovery wait has been terminated early",
+    "予期しないキャストのため、GP回復の待機が早期に終了しました"
+  ],
+  "认证提示": [
+    "你需要前往 Discord 完成認證\n成功啟用後才能使用 MissFisher",
+    "You need to complete authentication on Discord\nand activate successfully before using MissFisher",
+    "Discordで認証を完了する必要があります\n成功裏にアクティベートされてから MissFisher を使用できます"
+  ],
+  "认证服务状态": [
+    "認證服務狀態：",
+    "Auth Service Status:",
+    "認証サービス状況："
+  ],
+  "临时免验证码": [
+    "臨時免驗憑證：",
+    "Temporary ID: ",
+    "Temporary ID: "
+  ],
+  "临时免验证码占位": [
+    "臨時免驗憑證",
+    "Temporary ID",
+    "Temporary ID"
+  ],
+  "临时免验证码未输入": [
+    "未輸入",
+    "Not entered",
+    "未入力"
+  ],
+  "临时免验证码格式无效": [
+    "格式錯誤",
+    "Invalid format",
+    "形式エラー"
+  ],
+  "临时免验证码签名无效": [
+    "校驗失敗",
+    "Check failed",
+    "検証失敗"
+  ],
+  "临时免验证码版本不匹配": [
+    "版本不符，需要 {0}，實際為 {1}",
+    "Version mismatch. Expected {0}, got {1}",
+    "バージョン不一致。必要: {0}、実際: {1}"
+  ],
+  "临时免验证码缺少服务器时间": [
+    "時間不可用",
+    "Time unavailable",
+    "時刻取得不可"
+  ],
+  "临时免验证码已过期": [
+    "已過期",
+    "Expired",
+    "期限切れ"
+  ],
+  "临时免验证码有效": [
+    "有效",
+    "Valid",
+    "有効"
+  ],
+  "临时免验证码状态有效": [
+    "有效",
+    "Valid",
+    "有効"
+  ],
+  "临时免验证码状态无效": [
+    "無效",
+    "Invalid",
+    "無効"
+  ],
+  "临时免验证码版本详情": [
+    "臨時憑證版本：{0}",
+    "Temporary ID version: {0}",
+    "Temporary ID バージョン: {0}"
+  ],
+  "临时免验证码截止详情": [
+    "截止時間：{0}",
+    "Expires at: {0}",
+    "有効期限: {0}"
+  ],
+  "临时免验证码剩余时间": [
+    "剩餘時間：{0}",
+    "Remaining: {0}",
+    "残り時間: {0}"
+  ],
+  "临时免验证码时间单位天": [
+    "天",
+    "d",
+    "日"
+  ],
+  "临时免验证码时间单位小时": [
+    "小時",
+    "h",
+    "時間"
+  ],
+  "临时免验证码时间单位分钟": [
+    "分鐘",
+    "m",
+    "分"
+  ],
+  "临时免验证码时间单位秒": [
+    "秒",
+    "s",
+    "秒"
+  ],
+  "临时免验证码锁存说明": [
+    "自動功能啟動時若臨時憑證有效，將鎖存到本輪結束",
+    "If valid when auto starts, the Temporary ID stays effective until this run fully ends",
+    "自動機能の開始時に Temporary ID が有効なら、今回の実行終了まで有効なまま維持されます"
+  ],
+  "设置": [
+    "設定",
+    "SET",
+    "設定"
+  ],
+  "语音中竿": [
+    "中",
+    "STRONG",
+    "ストロング"
+  ],
+  "语音轻竿": [
+    "輕",
+    "WEAK",
+    "ウィーク"
+  ],
+  "请先停止再启动": [
+    "請先停止再啟動",
+    "Please stop before starting",
+    "開始前に停止してください"
+  ],
+  "请先登录角色": [
+    "請先登入到任一角色",
+    "Log in first",
+    "ログインしてください"
+  ],
+  "请前往Discord认证": [
+    "請前往 Discord 完成認證",
+    "Please complete authentication via Discord",
+    "Discordで認証を完了してください"
+  ],
+  "请前往钓场位置": [
+    "請前往釣場位置 ( {0:F1} , {1:F1} )\n使角色面朝釣場邊緣後再嘗試啟動",
+    "Please move to fishing spot [0]\nFace the water edge and try starting again",
+    "釣り場座標 [0] へ移動してください\n水辺を向いた状態で再度開始してください"
+  ],
+  "请登录": [
+    "請登入",
+    "Please log in",
+    "ログインしてください"
+  ],
+  "请确认可抛竿后重试": [
+    "請確認可拋竿後重試。",
+    "Ensure you can cast before retrying.",
+    "キャスト可能になってから再試行してください。"
+  ],
+  "请输入预设名": [
+    "請輸入預設名",
+    "Please enter preset name",
+    "プリセット名を入力"
+  ],
+  "请输入预设名称示例": [
+    "請輸入預設名稱\n如：/mf preset 全提",
+    "Please enter preset name\ne.g.: /mf preset ALL BITES",
+    "プリセット名を入力\n例：/mf preset 全部"
+  ],
+  "预设输入为空提示": [
+    "輸入以搜尋預設名\n支援拼音首字母（僅中文客戶端）",
+    "Type to search preset names\nSupports pinyin initials (Chinese client only)",
+    "入力してプリセット名を検索\nピンイン頭文字に対応（中国語クライアントのみ）"
+  ],
+  "请选择JSON格式文件": [
+    "請選擇JSON格式的檔案",
+    "Please select a JSON format file",
+    "JSON形式のファイルを選択してください"
+  ],
+  "请重新登录获取数据": [
+    "請重新登入角色以獲取圖鑑資料",
+    "Please relog character to get compendium data",
+    "図鑑データ取得のため再ログインしてください"
+  ],
+  "调整位置": [
+    "調整位置",
+    "Adjust Position",
+    "位置調整"
+  ],
+  "预览调整位置": [
+    "預覽 / 調整位置",
+    "Preview / Adjust Position",
+    "プレビュー / 位置調整"
+  ],
+  "谢尔达莱群岛丿夜乁丨梅尔托尔海峡北丿日乁丨绯汐海丿昏乁": [
+    "謝爾達萊群島(夜)》梅爾托爾海峽北(日)》緋汐海(昏)",
+    "Cieldalaes(Night)》N. Strait of Merlthor(Day)》Bloodbrine Sea(Dusk)",
+    "シェルダレー諸島(夜)》メルトール海峡北(昼)》緋汐海(夕方)"
+  ],
+  "谢尔达莱群岛丿夜乁丨罗塔诺海丿日乁丨罗斯利特湾丿昏乁": [
+    "謝爾達萊群島(夜)》羅塔諾海(日)》羅斯利特灣(昏)",
+    "Cieldalaes(Night)》Rhotano Sea(Day)》Rothlyt Sound(Dusk)",
+    "シェルダレー諸島(夜)》ロータノ海(昼)》ロズリト湾(夕方)"
+  ],
+  "谢尔达莱群岛丿日乁丨梅尔托尔海峡北丿昏乁丨绯汐海丿夜乁": [
+    "謝爾達萊群島(日)》梅爾托爾海峽北(昏)》緋汐海(夜)",
+    "Cieldalaes(Day)》N. Strait of Merlthor(Dusk)》Bloodbrine Sea(Night)",
+    "シェルダレー諸島(昼)》メルトール海峡北(夕方)》緋汐海(夜)"
+  ],
+  "谢尔达莱群岛丿日乁丨罗塔诺海丿昏乁丨罗斯利特湾丿夜乁": [
+    "謝爾達萊群島(日)》羅塔諾海(昏)》羅斯利特灣(夜)",
+    "Cieldalaes(Day)》Rhotano Sea(Dusk)》Rothlyt Sound(Night)",
+    "シェルダレー諸島(昼)》ロータノ海(夕方)》ロズリト湾(夜)"
+  ],
+  "谢尔达莱群岛丿昏乁丨梅尔托尔海峡北丿夜乁丨绯汐海丿日乁": [
+    "謝爾達萊群島(昏)》梅爾托爾海峽北(夜)》緋汐海(日)",
+    "Cieldalaes(Dusk)》N. Strait of Merlthor(Night)》Bloodbrine Sea(Day)",
+    "シェルダレー諸島(夕方)》メルトール海峡北(夜)》緋汐海(昼)"
+  ],
+  "谢尔达莱群岛丿昏乁丨罗塔诺海丿夜乁丨罗斯利特湾丿日乁": [
+    "謝爾達萊群島(昏)》羅塔諾海(夜)》羅斯利特灣(日)",
+    "Cieldalaes(Dusk)》Rhotano Sea(Night)》Rothlyt Sound(Day)",
+    "シェルダレー諸島(夕方)》ロータノ海(夜)》ロズリト湾(昼)"
+  ],
+  "账号识别凭证": [
+    "賬號識別憑證：",
+    "Account ID: ",
+    "Account ID: "
+  ],
+  "距离开放分钟": [
+    "距離開放登記 {0} 分",
+    "Opens in {0}m",
+    "{0}分後に登録開始"
+  ],
+  "距离钓点警惕": [
+    "距離釣點警惕 {0}",
+    "Spot alert {0:f0}",
+    "釣点警戒 {0:f0}"
+  ],
+  "跳过攒鱼计因目标屏蔽": [
+    "由於終止目標中有自動預備攢魚計遮蔽的最終目標，跳過自動預備攢魚計",
+    "Skipping AA pre-stack: final target disables it in end condition",
+    "終了条件に事前ビッフィ積みを禁止する最終目標があるためスキップ"
+  ],
+  "跳过攒鱼计时间不足": [
+    "距離視窗時間不足 {0} 秒，跳過自動預備攢魚計",
+    "Less than {0} seconds until window, skipping AA pre-stack",
+    "ウィンドウまで残り{0}秒未満のため、自動事前ビッフィ積みをスキップ"
+  ],
+  "距离窗口期过远预备稍候": [
+    "因距離視窗期大於25分鐘（預計{0}分鐘），預備動作將稍候進行",
+    "Window is more than 25 minutes away (est. {0} minutes); pre-actions will start later",
+    "ウィンドウまで25分以上（予測{0}分）のため、準備行動は後で行います"
+  ],
+  "转换到v3成功": [
+    "嘗試將剪貼簿文字轉換到了v3",
+    "Clipboard text converted to v3",
+    "クリップボードをv3に変換成功"
+  ],
+  "转换参数错误": [
+    "在轉換到釣法時發生錯誤\n以下引數無法被轉換：",
+    "Error converting to fishing method\nFollowing parameters could not be converted:",
+    "釣法変換時にエラー\n以下の引数が変換できません："
+  ],
+  "转换器错误": [
+    "轉換器錯誤：輸入為空",
+    "Converter error: Input is empty",
+    "変換器エラー：入力が空です"
+  ],
+  "轻竿": [
+    "輕竿",
+    "!",
+    "「!」"
+  ],
+  "轻竿和中竿": [
+    "輕竿 和 中竿",
+    "! & !!",
+    "「!」と「!!」"
+  ],
+  "轻竿和鱼王竿": [
+    "輕竿 和 魚王竿",
+    "! & !!!",
+    "「!」と「!!!」"
+  ],
+  "轻竿文本": [
+    "輕竿",
+    "WEAK",
+    "ウィーク"
+  ],
+  "输入命令停止自动功能": [
+    "輸入「/mf end」來停止自動功能。",
+    "Input '/mf end' to stop auto.",
+    "自動機能停止：「/mf end」入力。"
+  ],
+  "输入框焦点完成": [
+    "輸入框焦點設定完成",
+    "Input focus setting completed",
+    "入力フォーカス設定完了"
+  ],
+  "输入框焦点错误": [
+    "設定輸入框焦點錯誤: {0}",
+    "Input focus setting error: {0}",
+    "入力フォーカス設定エラー: {0}"
+  ],
+  "过期时间": [
+    "過期時間：{0}",
+    "Expiration time: {0}",
+    "有効期限: {0}"
+  ],
+  "过滤鱼类数据错误": [
+    "過濾魚類資料時發生錯誤: {0}",
+    "Error filtering fish data: {0}",
+    "魚データフィルタエラー: {0}"
+  ],
+  "运行中": [
+    "執行中",
+    "Running",
+    "実行中"
+  ],
+  "运行中状态": [
+    "〉〉〉執行中 〉〉〉",
+    ">>>Running>>>",
+    "〉〉〉実行中〉〉〉"
+  ],
+  "现在还没有该任务的预设": [
+    "現在還沒有該任務的預設",
+    "There is no preset available for this task yet.",
+    "このタスクのプリセットはまだありません。"
+  ],
+  "进一步免打扰说明": [
+    "進一步免打擾\n- 系統音包括 <se> 型別的音效、介面操作音等",
+    "Further DND\n- System sounds include <se> sounds and UI sounds",
+    "通知オフ（詳細）\n- システム音には<se>音やUI操作音を含む"
+  ],
+  "高频日志": [
+    "高頻日誌",
+    "Frequent Logs",
+    "高頻度ログ"
+  ],
+  "高频日志说明": [
+    "控制漁獲、提鉤事件、新/切換釣法與釣法資訊的聊天列印\n- 自動靜默：自動功能執行時靜默",
+    "Controls chat prints for catches, hookset events, new/switch method, and method info\n- Auto silent: mute during auto operation",
+    "釣果・フッキングイベント・新規/切替釣法・釣法情報のチャット出力を制御\n- 自動サイレント：自動動作中は抑制"
+  ],
+  "进入ICE模式": [
+    "已進入 ICE 適配模式",
+    "Entered ICE Adaptation Mode",
+    "ICE適配モードに入りました"
+  ],
+  "进入窗口": [
+    "進入視窗。",
+    "Window opened.",
+    "ウィンドウ突入。"
+  ],
+  "进入鱼眼模式": [
+    "進入了魚眼模式……{0}{1}",
+    "Entered Fish Eyes mode...{0}{1}",
+    "フィッシュアイモードに入りました……{0}{1}"
+  ],
+  "鱼眼模式天气不满足钓法条件将等待": [
+    "魚眼模式：當前天氣不滿足釣法條件，將等待",
+    "Fish Eyes mode: current weather does not meet method conditions, waiting.",
+    "フィッシュアイモード：現在の天候が釣法条件を満たしていないため、待機します。"
+  ],
+  "退出ICE模式": [
+    "已退出 ICE 適配模式",
+    "Exited ICE Adaptation Mode",
+    "ICE適配モードを終了しました"
+  ],
+  "选择更新JSON文件提示": [
+    "選擇要更新的魚糕 V2 JSON 檔案",
+    "Select FFMomola V2 JSON file to update",
+    "更新用のFFMomola V2 JSONファイルを選択"
+  ],
+  "选择更新数据JSON文件说明": [
+    "選擇要更新資料的 JSON 檔案\n【在點選按鈕前】\n",
+    "Select JSON file to update data\n【Before clicking button】\n",
+    "データ更新用のJSONファイルを選択\n【ボタンクリック前に】\n"
+  ],
+  "通知尝试启用插件": [
+    "已嘗試幫您啟用 {0}",
+    "Tried to enable {0} for you",
+    "{0} の有効化を試みました"
+  ],
+  "插件已加载但未写入Dalamud配置": [
+    "外掛 {0} 已載入，但未能寫入 Dalamud 配置，重啟後可能不會自動啟用。",
+    "Plugin {0} is loaded, but failed to persist into Dalamud configuration and may not auto-enable after restart.",
+    "プラグイン {0} は読み込み済みですが、Dalamud 設定への保存に失敗したため、再起動後に自動有効化されない可能性があります。"
+  ],
+  "通知已复制到剪贴板": [
+    "已複製到剪貼簿",
+    "Copied to clipboard",
+    "クリップボードにコピーしました"
+  ],
+  "通知预设同步失败": [
+    "預設同步失敗",
+    "Preset sync failed",
+    "プリセット同期に失敗しました"
+  ],
+  "采集力回收": [
+    "採集力回收",
+    "GP Recycling",
+    "GPリサイクル"
+  ],
+  "重置": [
+    "重置",
+    "Reset",
+    "リセット"
+  ],
+  "重置所有角色鱼识": [
+    "已重置設定中所有角色的魚識進度",
+    "Reset fish knowledge progress for all configured characters",
+    "すべてのキャラクターの魚知識の進行状況をリセットしました"
+  ],
+  "重置操作说明": [
+    "按住 Ctrl 左鍵點選以\n重置偏移",
+    "- Ctrl + left click to reset offset",
+    "- Ctrl+左クリックでオフセットをリセット"
+  ],
+  "重随手法": [
+    "重隨手法",
+    "Re-roll",
+    "再抽選"
+  ],
+  "钓点警惕": [
+    "無法拋竿，釣點警惕",
+    "Cannot cast the rod, fishing spot is on alert",
+    "竿を投げられません、釣り場は警戒中です"
+  ],
+  "钓点错误": [
+    "釣點錯誤",
+    "Fishing spot error",
+    "釣り場エラー"
+  ],
+  "钓饵用完啦": [
+    "釣餌用完啦！",
+    "Bait is used up! ",
+    "餌が無くなりました！"
+  ],
+  "钓饵即将用完": [
+    "釣餌即將用完",
+    "Bait is running low",
+    "エサがもうすぐなくなります"
+  ],
+  "钓饵错误": [
+    "釣餌錯誤",
+    "Bait error",
+    "餌エラー"
+  ],
+  "钓鱼探索任务自动提交": [
+    "達成釣魚探索任務要求時自動提交",
+    "Auto-submit on FSH",
+    "漁師時に任務を自動報告"
+  ],
+  "忽视预设的银星时提交": [
+    "禁用銀星提交",
+    "Skip Silver Star submit",
+    "銀星提出を無効化"
+  ],
+  "忽视银星时提交说明": [
+    "使 MissFisher 在滿足銀星條件時不提交任務，\n且在 ICE 適配模式下時不呼叫目的為銀星的分支預設",
+    "Prevent MissFisher from submitting when Silver Star criteria are met, \nand skip Silver Star branch presets in ICE mode",
+    "銀星条件を満たしても任務を提出せず、\nICE適配モードでは銀星向け分岐プリセットを使いません"
+  ],
+  "银星提交": [
+    "因釣法要求銀星提交，開始提交或放棄任務",
+    "Silver Star submission required, starting submit/abort",
+    "銀星提出が必要なため、提出/放棄開始"
+  ],
+  "银星时提交": [
+    "銀星時提交",
+    "Silver Star Sub.",
+    "銀星提出"
+  ],
+  "链接区": [
+    "連結區",
+    "Links",
+    "リンクエリア"
+  ],
+  "锁定": [
+    "鎖定",
+    "Locked",
+    "ロック"
+  ],
+  "非": [
+    "非 ",
+    "Not ",
+    "非 "
+  ],
+  "音效咬饵播报": [
+    "音效咬餌播報",
+    "SE Bite Alert",
+    "SE バイト通知"
+  ],
+  "预先触发完成": [
+    "預先觸發已完成，現在等待視窗到來。",
+    "Pre-trigger completed, now waiting for window.",
+    "事前トリガー完了、ウィンドウを待機中。"
+  ],
+  "预备中": [
+    "預備中",
+    "Preparing",
+    "準備中"
+  ],
+  "预备启动状态": [
+    "進入預備啟動狀態。\n請使角色面朝船舷，NPC 播報海域時，將自動啟動。",
+    "Entered pre-start state.\nFace the boat rail; will auto-start on NPC zone announcement.",
+    "準備起動状態に入りました。\n船縁を向いてください、NPC海域告知時に自動開始。"
+  ],
+  "预期外钓饵参数": [
+    "預期外的釣餌引數：",
+    "Unexpected bait parameter: ",
+    "予期しないエサ引数："
+  ],
+  "预触时触发1次鱼识是正常的": [
+    "預觸時觸發1次魚識是正常的",
+    "Triggering Fisher's Intuition once at the pre-bite is normal",
+    "予備漁師の直感時に1回漁師の直感が発動するのは正常です"
+  ],
+  "预设不存在": [
+    "預設【{0}】不存在。\n預設版本：v{1}\n可前往以下表格搜尋已有預設：[0]\n確認表格中存在有效預設後，請同步預設再嘗試；若仍有問題，請意見回饋。",
+    "Preset 【{0}】 does not exist.\nPreset Version: v{1}\nSearch existing presets here: [0]\nIf the preset exists in the sheet, please sync presets and try again.\nIf the issue persists, please report it.",
+    "プリセット【{0}】が存在しません。\nプリセットバージョン：v{1}\n以下のシートで既存プリセットを検索してください：[0]\nシートに存在することを確認したら、同期してから再試行してください。\n問題が続く場合は報告してください。"
+  ],
+  "预设加载失败": [
+    "預設載入失敗，請稍後重試",
+    "Preset loading failed, retry later",
+    "プリセット読み込み失敗、後で再試行"
+  ],
+  "预设加载失败前缀": [
+    "預設載入失敗：{0}",
+    "Preset loading failed: {0}",
+    "プリセット読み込み失敗: {0}"
+  ],
+  "预设缓存保存成功": [
+    "預設快取儲存成功",
+    "Preset cache saved successfully",
+    "プリセットキャッシュ保存成功"
+  ],
+  "保存预设缓存失败": [
+    "儲存預設快取失敗：{0}",
+    "Failed to save preset cache: {0}",
+    "プリセットキャッシュ保存失敗: {0}"
+  ],
+  "未找到嵌入资源": [
+    "找不到內嵌資源：{0}",
+    "Embedded resource not found: {0}",
+    "埋め込みリソースが見つかりません: {0}"
+  ],
+  "网络下载失败且缓存不可用": [
+    "網路下載失敗，且本機快取無法使用。請檢查網路連線或稍後再試。",
+    "Network download failed and local cache unavailable, check connection or retry later",
+    "ネットワーク接続失敗、ローカルキャッシュも利用不可、接続確認または後で再試行"
+  ],
+  "预设数据不完整或损坏": [
+    "預設資料不完整或已損壞，請嘗試重新同步。",
+    "Preset data incomplete or corrupted, try syncing again",
+    "プリセットデータが不完全または破損、再同期をお試しください"
+  ],
+  "加载预设时发生错误": [
+    "載入預設時發生錯誤，詳情請查看日誌。",
+    "Error occurred while loading presets, check logs for details",
+    "プリセット読み込み中にエラー発生、詳細はログを確認"
+  ],
+  "未找到可用预设数据": [
+    "找不到可用的預設資料",
+    "No available preset data found",
+    "利用可能なプリセットデータが見つかりません"
+  ],
+  "预设加载状态": [
+    "✓ {0}：共 {1} 條預設\n版本：v{2}\n說明：{3}[0]",
+    "✓ {0}: {1} presets loaded\nVersion: v{2}\nInfo: {3} [0]",
+    "✓ {0}：{1} 個のプリセット\nバージョン：v{2}\n情報：{3} [0]"
+  ],
+  "预设同步中": [
+    "正在同步預設……",
+    "Syncing presets...",
+    "プリセットを同期中..."
+  ],
+  "预设": [
+    "預設",
+    "Preset",
+    "プリセット"
+  ],
+  "预设按钮": [
+    "預設",
+    "PRE",
+    "予設"
+  ],
+  "预设版本": [
+    "預設版本",
+    "Preset",
+    "プリセット"
+  ],
+  "预设同步完成": [
+    "預設同步完成 ({0} 項)",
+    "Preset sync completed ({0} items)",
+    "プリセット同期完了（{0}件）"
+  ],
+  "预设名冒号": [
+    "預設名：",
+    "Preset name: ",
+    "プリセット名："
+  ],
+  "预设名定时分钟": [
+    "預設名 定時分鐘",
+    "Preset [Min]",
+    "プリセット 分"
+  ],
+  "预设未变更继续使用当前": [
+    "預設未變更，將繼續使用目前預設",
+    "No changes detected, continuing with current preset",
+    "変更がないため現在のプリセットを使用します"
+  ],
+  "预设格式异常": [
+    "預設資料格式異常，請聯絡開發者",
+    "Preset data format abnormal, contact developer",
+    "プリセットデータ形式異常、開発者に連絡"
+  ],
+  "飞往Flag标记": [
+    "飛往 Flag 標記",
+    "Fly to Flag",
+    "フラグへ飛ぶ"
+  ],
+  "前往Flag标记": [
+    "前往 Flag 標記",
+    "Go to Flag",
+    "フラグへ移動"
+  ],
+  "驶往前往Flag标记": [
+    "駛往/前往 Flag 標記",
+    "Sail/Go to Flag",
+    "フラグへ航行/移動"
+  ],
+  "鱼影": [
+    "魚影",
+    "Fish Shadow",
+    "魚の影"
+  ],
+  "鱼王竿": [
+    "魚王竿",
+    "!!!",
+    "「!!!」"
+  ],
+  "鱼王竿文本": [
+    "魚王竿",
+    "LEGENDARY",
+    "レジェンダリー"
+  ],
+  "鱼眼": [
+    "魚眼",
+    "Fish Eyes",
+    "フィッシュアイ"
+  ],
+  "鱼眼预设": [
+    "魚眼預設",
+    "Fish Eyes Preset",
+    "フィッシュアイプリセット"
+  ],
+  "鱼篓": [
+    "魚簍",
+    "SH",
+    "妙案"
+  ],
+  "鱼篓专一": [
+    "魚簍專一",
+    "SH-IC",
+    "妙案専一"
+  ],
+  "鱼类位掩码为空": [
+    "Fish 位掩碼為空，返回空集",
+    "Fish bitmask is null, returning empty set",
+    "魚bitmaskがnull、空セットを返します"
+  ],
+  "鱼糕V2JSON准备说明": [
+    "\n準備好從魚糕 V2 匯出的 JSON 檔案：\n1）在網頁瀏覽器開啟魚糕 V2 - 點選魚糕 V2 頁面右上角的齒輪圖示\n2）在彈出的側欄點選「匯出」來下載包含正確資料結構的 JSON 檔案\n（目前只支援魚糕 V2）",
+    "\nPrepare the JSON file exported from FFMomola V2:\n1) [0] - click gear icon at top right\n2) Click 'Export' in side panel to download JSON with correct data structure\n(Currently only supports FFMomola V2)",
+    "\nFFMomola V2からエクスポートしたJSONファイルを準備してください:\n1) [0] - 右上の歯車アイコンをクリック\n2) サイドバーの「エクスポート」をクリックして正しいデータ構造のJSONをダウンロード\n（現在、FFMomola V2のみ対応）"
+  ],
+  "鱼糕攻略网站链接标签": [
+    "點選開啟攻略網站魚糕（僅中文）",
+    "Click to open FFMomola guide (CN only)",
+    "FFMomola攻略サイトを開く（中国語のみ）"
+  ],
+  "鱿型中队精英丨塔尼瓦": [
+    "「魷型中隊精英¹」「塔尼瓦（青花魚塊）」",
+    "[Squid Squadron¹] [Taniwha(Mackerel Strip)]",
+    "「スルメドラグーン¹」「タニファ（サバの切り身）」"
+  ],
+  "鱿型中队精英丨琉璃龙丨深洋之劫": [
+    "「魷型中隊精英¹」「琉璃龍」「深洋之劫」",
+    "[Squid Squadron¹] [Glass Dragon] [Doom of the Deep]",
+    "「スルメドラグーン¹」「瑠璃龍」「Doom of the Deep」"
+  ],
+  "默语": [
+    "默語",
+    "Echo",
+    "Echo"
+  ],
+  "龙马惊神丨珊瑚蝠鲼丨世界级钓手": [
+    "「龍馬驚神¹」「珊瑚蝠鱝（小蝦肉籠）」「世界級釣手」",
+    "[Maritime Dragonslayers¹] [Coral Manta(Shrimp Cage Feeder)] [World-class Troller]",
+    "「シードラゴンキラー¹」「コーラルマンタ（シュリンプフィーダー）」「World Class Troller」"
+  ],
+  "冲分模式低分海域提示": [
+    "目前海域的幻海流漁分過低，將不提示魚王竿以降低觸發幻海流的機率。",
+    "The spectral current in the current sector yields insufficient points; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流の漁分が低いため、重咬みを提言せず、幻海流発生確率を低減します。"
+  ],
+  "蓝鱼模式无幻中预设提示": [
+    "目前海域的幻海流沒有藍魚，且即將前往有藍魚的海域，將不提示魚王竿以降低觸發幻海流的機率。",
+    "The spectral current in the current sector has no legendary fish, whereas the adjacent sector does; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流に青魚がなく、隣接海域に青魚があるため、重咬みを提言せず、幻海流発生確率を低減します。"
+  ],
+  "数量成就模式无预设提示": [
+    "目前海域的幻海流沒有數量成就所需的魚類，將不提示魚王竿以降低觸發幻海流的機率。",
+    "The spectral current in the current sector lacks fish required for quantity achievements; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流に数量達成に必要な魚種がないため、重咬みを提言せず、幻海流発生確率を低減します。"
+  ],
+  "验证服务器连接失败": [
+    "驗證伺服器連線失敗，部分功能可能受限。",
+    "Failed to connect to verification server, some features may be limited",
+    "認証サーバーへの接続に失敗しました。一部の機能が制限される場合があります"
+  ],
+  "验证系统初始化失败": [
+    "驗證系統初始化失敗",
+    "Verification system initialization failed",
+    "認証システムの初期化に失敗しました"
+  ],
+  "刷新授权认证失败": [
+    "重新整理授權驗證失敗，請檢查網路連線。",
+    "Failed to refresh authorization, please check network connection",
+    "認可の更新に失敗しました。ネットワーク接続を確認してください"
+  ],
+  "刷新认证中": [
+    "正在重新整理驗證狀態……",
+    "Refreshing authentication status...",
+    "認証状態を更新中..."
+  ],
+  "刷新认证成功": [
+    "驗證狀態重新整理成功",
+    "Authentication status refreshed successfully",
+    "認証状態の更新に成功しました"
+  ],
+  "验证服务器未连接无法刷新": [
+    "驗證伺服器尚未連線，無法重新整理驗證狀態。",
+    "Verification server not connected, unable to refresh authentication status",
+    "認証サーバーに接続されていないため、認証状態を更新できません"
+  ],
+  "验证服务器未连接": [
+    "驗證伺服器尚未連線",
+    "Verification server not connected",
+    "認証サーバーに接続されていません"
+  ],
+  "生成器Beta": [
+    "生成器 Beta",
+    "Angex Generator Beta",
+    "Angex ジェネレーター Beta"
+  ],
+  "启动": [
+    "啟動",
+    "Start",
+    "開始"
+  ],
+  "暂停": [
+    "暫停",
+    "Pause",
+    "一時停止"
+  ],
+  "恢复": [
+    "恢復",
+    "Resume",
+    "再開"
+  ],
+  "基础参数": [
+    "基礎引數",
+    "Basic Parameters",
+    "基本パラメータ"
+  ],
+  "阶段序号": [
+    "階段 {0}",
+    "Phase {0}",
+    "フェーズ {0}"
+  ],
+  "钓饵": [
+    "釣餌",
+    "Bait",
+    "エサ"
+  ],
+  "ET窗口期": [
+    "ET視窗期",
+    "ET Window",
+    "ETウィンドウ"
+  ],
+  "窗口期前天气": [
+    "視窗期前天氣",
+    "Weather Before Window",
+    "ウィンドウ前の天候"
+  ],
+  "窗口期后天气": [
+    "視窗期後天氣",
+    "Weather After Window",
+    "ウィンドウ後の天候"
+  ],
+  "用来以小钓大的目标": [
+    "用來以小釣大的目標",
+    "Swimbait targets",
+    "泳がせ対象"
+  ],
+  "咬饵时间": [
+    "咬餌時間",
+    "Bite time",
+    "バイト時間"
+  ],
+  "非撒饵": [
+    "非撒餌",
+    "No Chum",
+    "撒き餌なし"
+  ],
+  "撒饵": [
+    "撒餌",
+    "Chum",
+    "撒き餌"
+  ],
+  "咬饵类型": [
+    "咬餌型別",
+    "Bite type",
+    "バイト種別"
+  ],
+  "提钩类型": [
+    "提鉤型別",
+    "Hookset type",
+    "フッキング種類"
+  ],
+  "目标与计数": [
+    "目標與計數",
+    "Targets & Counts",
+    "目標とカウント"
+  ],
+  "终止目标": [
+    "終止目標",
+    "End targets",
+    "終了目標"
+  ],
+  "计数数量": [
+    "計數數量",
+    "Count",
+    "カウント数"
+  ],
+  "计数目标": [
+    "計數目標",
+    "Count targets",
+    "カウント目標"
+  ],
+  "Angex提示_钓饵": [
+    "格式：名稱 或 名稱|ID 或 僅ID",
+    "Format: name, name|ID, or ID only",
+    "形式: 名前 / 名前|ID / ID のみ"
+  ],
+  "Angex提示_ET时间": [
+    "格式：4 位 ET 時間（0000-2359）",
+    "Format: 4-digit ET time (0000-2359)",
+    "形式: 4桁のET時刻（0000-2359）"
+  ],
+  "Angex提示_天气列表": [
+    "格式：名稱 或 名稱|ID 或 僅ID\n多項用“、”或“||”分隔",
+    "Format: name, name|ID, or ID only\nSeparate with '、' or '||'",
+    "形式: 名前 / 名前|ID / ID のみ\n区切りは「、」または「||」"
+  ],
+  "Angex提示_目标列表": [
+    "格式：名稱 或 名稱|ID 或 僅ID\n多項用“、”或“||”分隔，排除字首用“？”或“?”\n特殊項：any/任何，ph/佔位，魚簍標記“《”",
+    "Format: name, name|ID, or ID only\nSeparate with '、' or '||'; prefix with '？' or '?' to exclude\nSpecial: any/任何, ph/占位, fish box '《'",
+    "形式: 名前 / 名前|ID / ID のみ\n区切りは「、」または「||」、除外は前置「？」または「?」\n特殊: any/任何、ph/占位、魚篭「《」"
+  ],
+  "Angex提示_阶段目标": [
+    "格式：名稱 或 名稱|ID 或 僅ID\n多項用“、”或“||”分隔，排除字首用“？”或“?”\n特殊項：any/任何，ph/佔位\n留空等效任何魚",
+    "Format: name, name|ID, or ID only\nSeparate with '、' or '||'; prefix with '？' or '?' to exclude\nSpecial: any, ph\nEmpty = any fish",
+    "形式: 名前 / 名前|ID / ID のみ\n区切りは「、」または「||」、除外は前置「？」または「?」\n特殊: any/任何、ph/占位\n空欄なら任意の魚"
+  ],
+  "Angex提示_提钩类型": [
+    "可留空。留空時若持有耐心效果，將在強力/精準之間自適應",
+    "Optional. If left empty and Patience is active, auto-select Powerful/Precision.",
+    "空欄可。忍耐中は強力/精密を自動選択"
+  ],
+  "Angex提示_咬饵时间": [
+    "格式：秒數，>=0，最多 1 位小數\n僅填最短：輸出“最短~”（僅下限）；僅填最長：輸出“~最長”（僅上限）；都留空則不限制",
+    "Format: seconds, >= 0, up to 1 decimal\nMin only: outputs \"min~\" (lower bound); Max only: outputs \"~max\" (upper bound); both empty: no limit",
+    "形式: 秒数、0以上、小数1桁まで\n最短のみ: \"最短~\"（下限のみ）を出力；最長のみ: \"~最長\"（上限のみ）を出力；両方空欄なら制限なし"
+  ],
+  "Angex提示_计数数量": [
+    "格式：正整數（>0 才會生效）",
+    "Format: positive integer (>0 to enable)",
+    "形式: 正の整数（>0 で有効）"
+  ],
+  "手法": [
+    "手法",
+    "Techniques",
+    "手法"
+  ],
+  "大尺寸": [
+    "大尺寸",
+    "Large",
+    "大型"
+  ],
+  "钓组": [
+    "釣組",
+    "Snagging",
+    "引掛釣り"
+  ],
+  "套娃": [
+    "套娃",
+    "Mooch Loop",
+    "連続泳がせ"
+  ],
+  "梭哈": [
+    "梭哈",
+    "All-in",
+    "オールイン"
+  ],
+  "无强心剂": [
+    "無強心劑",
+    "No Cordial",
+    "コーディアルなし"
+  ],
+  "无恩宠": [
+    "無恩寵",
+    "No Favor",
+    "恩寵なし"
+  ],
+  "无": [
+    "無",
+    "None",
+    "なし"
+  ],
+  "全部": [
+    "全部",
+    "All",
+    "すべて"
+  ],
+  "重随": [
+    "重隨",
+    "Re-roll",
+    "再抽選"
+  ],
+  "请输入Angex表达式": [
+    "請輸入 Angex 表示式",
+    "Enter Angex expression",
+    "Angex式を入力してください"
+  ],
+  "解析通过": [
+    "解析透過",
+    "Parsed successfully",
+    "解析成功"
+  ],
+  "解析失败未知错误": [
+    "解析失敗：無法識別此處語法",
+    "Parse failed: unrecognized syntax here",
+    "解析失敗：この部分の構文を認識できません"
+  ],
+  "切换": [
+    "切換",
+    "Switch",
+    "切り替え"
+  ],
+  "切换到目标": [
+    "切換到{0}",
+    "Switch to {0}",
+    "{0}に切り替え"
+  ],
+  "生成器": [
+    "生成器",
+    "Angex Generator",
+    "Angex ジェネレーター"
+  ],
+  "编辑器": [
+    "編輯器",
+    "Angex Editor",
+    "Angex エディター"
+  ],
+  "中文": [
+    "中文",
+    "Chinese",
+    "中国語"
+  ],
+  "英文": [
+    "英文",
+    "English",
+    "英語"
+  ],
+  "空格": [
+    "空格",
+    "Spaces",
+    "スペース"
+  ],
+  "无空格": [
+    "無空格",
+    "No spaces",
+    "スペースなし"
+  ],
+  "名与ID": [
+    "名+ID",
+    "Name+ID",
+    "名前+ID"
+  ],
+  "仅ID": [
+    "僅ID",
+    "ID only",
+    "IDのみ"
+  ],
+  "仅名": [
+    "僅名",
+    "Name only",
+    "名前のみ"
+  ],
+  "格式": [
+    "格式",
+    "Fmt",
+    "形式"
+  ],
+  "格式化": [
+    "格式化",
+    "Format",
+    "フォーマット"
+  ],
+  "按指定风格格式化": [
+    "按指定風格格式化",
+    "Format using the selected style",
+    "指定したスタイルで整形"
+  ],
+  "将指定风格的格式化后的单行钓法表达式写入剪贴板": [
+    "將指定風格的格式化後的\n單行釣法表示式寫入剪貼簿",
+    "Copy the formatted single-line\nangex expression using the selected style",
+    "指定したスタイルで整形した\n単一行の釣法式をクリップボードにコピー"
+  ],
+  "复制": [
+    "複製",
+    "Copy",
+    "コピー"
+  ],
+  "导出钓法表达式": [
+    "匯出釣法表示式",
+    "Export Angex Expression",
+    "Angex式をエクスポート"
+  ],
+  "用钓法启动": [
+    "用釣法啟動",
+    "Start with Angex",
+    "Angexで開始"
+  ],
+  "拍击水面": [
+    "拍擊水面",
+    "Surface Slap",
+    "水しぶき"
+  ],
+  "拍击水面目标": [
+    "拍擊水面目標",
+    "Surface Slap targets",
+    "水しぶき対象"
+  ],
+  "专一垂钓": [
+    "專一垂釣",
+    "Prize Catch",
+    "セミキャッチ"
+  ],
+  "专一垂钓目标": [
+    "專一垂釣目標",
+    "Prize Catch targets",
+    "セミキャッチ対象"
+  ],
+  "整理并批量生成": [
+    "請留意：該釣法是在整理後批次生成的，因此可能有誤",
+    "Please note: this method was batch-generated after consolidation, so it may be inaccurate",
+    "ご注意：この釣法は整理後に一括生成されたため、誤りがある可能性があります"
+  ],
+  "耐力冲分": [
+    "耐力衝分",
+    "Endurance Scoring",
+    "耐力スコアリング"
+  ],
+  "耐力蓝鱼": [
+    "耐力藍魚",
+    "Endurance Bluefish",
+    "耐力青魚"
+  ],
+  "耐力练级": [
+    "耐力練級",
+    "Endurance Leveling",
+    "耐力レベリング"
+  ],
+  "蓝鱼目标": [
+    "藍魚目標",
+    "Bluefish Target",
+    "青魚目標"
+  ],
+  "无目标时不跳过": [
+    "無目標時不跳過",
+    "Do not skip when no targets",
+    "目標なしでもスキップしない"
+  ],
+  "无目标时不跳过说明": [
+    "當沒有藍魚目標時不跳過出航登記，而是繼續並使用衝分策略\n- 僅影響耐力藍魚的登船策略、而非任務內的釣魚策略",
+    "When there are no bluefish targets, do not skip boarding registration; continue and use the scoring strategy\n- Only affects endurance-bluefish boarding strategy, not in-duty fishing strategy",
+    "青魚目標がない場合でも出航登録をスキップせず、継続してスコア重視戦略を使用します\n- 影響するのは耐久草魚の乗船戦略のみで、任務内の釣り戦略には影響しません"
+  ],
+  "未在图鉴的": [
+    "未在圖鑑的",
+    "Not in the fish log",
+    "図鑑未登録"
+  ],
+  "自定义": [
+    "自定義",
+    "Custom",
+    "カスタム"
+  ],
+  "耐力海钓": [
+    "耐力海釣",
+    "Endurance Ocean Fishing",
+    "耐力オーシャンフィッシング"
+  ],
+  "自定义蓝鱼目标": [
+    "自定義藍魚目標",
+    "Custom bluefish",
+    "カスタム青魚目標"
+  ],
+  "标签挑战高分": [
+    "挑戰高分",
+    "High Score",
+    "ハイスコア"
+  ],
+  "标签世界级钓手": [
+    "世界級釣手",
+    "World-class Troller",
+    "World Class Troller"
+  ],
+  "标签深洋之劫": [
+    "深洋之劫",
+    "Doom of the Deep",
+    "Doom of the Deep"
+  ],
+  "耐力蓝鱼筛选": [
+    "耐力藍魚篩選",
+    "Endurance Bluefish Filter",
+    "耐力青魚選択"
+  ],
+  "耐力蓝鱼筛选说明": [
+    "用於耐力藍魚模式的路線篩選，按藍魚名稱匹配航線標籤。",
+    "For endurance bluefish routing; matches route tags by selected bluefish names.",
+    "耐力青魚用。選択した魚名で航路タグを判定します。"
+  ],
+  "耐力蓝鱼列表": [
+    "藍魚列表",
+    "Bluefish List",
+    "青魚一覧"
+  ],
+  "耐力等待登船窗口": [
+    "等待登船視窗",
+    "Wait: boarding window",
+    "待機: 乗船受付"
+  ],
+  "耐力前往NPC": [
+    "前往 NPC",
+    "Go to NPC",
+    "NPCへ移動"
+  ],
+  "耐力等待进入副本": [
+    "等待進入副本",
+    "Wait: instance entry",
+    "待機: コンテンツ突入"
+  ],
+  "耐力等待可钓": [
+    "等待可釣",
+    "Wait: ready to fish",
+    "待機: 釣り可能"
+  ],
+  "耐力等待结算": [
+    "等待結算",
+    "Wait: results",
+    "待機: 結果"
+  ],
+  "耐力海钓中": [
+    "耐力海釣中",
+    "Endurance ocean fishing",
+    "耐力オーシャンフィッシング中"
+  ],
+  "耐力背包空位不足": [
+    "耐力海釣啟動失敗：揹包空位不足，至少需要 {0}，當前 {1}",
+    "Endurance start failed: not enough free inventory slots. Need at least {0}, current {1}.",
+    "耐力開始失敗：所持枠不足。必要 {0}、現在 {1}"
+  ],
+  "耐力背包空位不足提示": [
+    "耐力海釣啟動失敗：揹包空位不足",
+    "Endurance start failed: not enough free inventory slots.",
+    "耐力開始失敗：所持枠不足"
+  ],
+  "耐力依赖未满足": [
+    "耐力海釣啟動失敗：依賴未滿足",
+    "Endurance start failed: missing dependencies.",
+    "耐力開始失敗：依存関係が不足"
+  ],
+  "耐力前置任务未完成": [
+    "耐力海釣啟動失敗：前置任務未完成",
+    "Endurance start failed: prerequisite quest not completed.",
+    "耐力開始失敗：前提クエスト未完了"
+  ],
+  "耐力前置任务未完成详情": [
+    "需要完成任務：{0} (ID:{1})",
+    "Required quest: {0} (ID: {1})",
+    "必要クエスト：{0} (ID：{1})"
+  ],
+  "耐力钓饵不足": [
+    "耐力海釣啟動失敗：釣餌不足",
+    "Endurance start failed: not enough bait.",
+    "耐力開始失敗：餌不足"
+  ],
+  "耐力钓饵不足详情": [
+    "耐力海釣：釣餌不足，[0] 需要 >= {0}，當前 {1}",
+    "Endurance: not enough bait. [0] needs >= {0}, current {1}.",
+    "耐力：餌不足。[0] が {0} 以上必要、現在 {1}"
+  ],
+  "空岛钓饵不足": [
+    "空島啟動失敗：釣餌不足",
+    "Diadem start failed: not enough bait.",
+    "ディアデム開始失敗：餌不足"
+  ],
+  "空岛钓饵不足详情": [
+    "空島：釣餌不足，[0] 需要 >= {0}，當前 {1}",
+    "Diadem: not enough bait. [0] needs >= {0}, current {1}.",
+    "ディアデム：餌不足。[0] が {0} 以上必要、現在 {1}"
+  ],
+  "耐力蓝鱼目标已满足": [
+    "耐力海釣啟動失敗：藍魚目標已滿足",
+    "Endurance start failed: bluefish target already satisfied.",
+    "耐力開始失敗：青魚の目標は達成済みです"
+  ],
+  "耐力当前航线无匹配": [
+    "耐力海釣：當前航線無匹配",
+    "Endurance: no matching route in current window",
+    "耐力：現在の航路が一致しません"
+  ],
+  "近海": [
+    "近海",
+    "Indigo",
+    "近海"
+  ],
+  "远洋": [
+    "遠洋",
+    "Ruby",
+    "遠洋"
+  ],
+  "耐力海钓选择航线": [
+    "耐力海釣：選擇【{0}】航線",
+    "Endurance: select [{0}] route",
+    "耐力：【{0}】航路を選択"
+  ],
+  "耐力海钓选择航线原因": [
+    "耐力海釣：選擇【{0}】航線，\r原因：{1}",
+    "Endurance: select [{0}] route. \rReason: {1}.",
+    "耐力：【{0}】航路を選択、\r理由：{1}"
+  ],
+  "耐力海钓原因标签包含": [
+    "標籤包含「{0}」",
+    "Tag contains [{0}]",
+    "タグに「{0}」を含む"
+  ],
+  "耐力海钓原因蓝鱼目标": [
+    "藍魚目標「{0}」",
+    "Bluefish target [{0}]",
+    "青魚ターゲット「{0}」"
+  ],
+  "耐力海钓原因冲分默认近海": [
+    "衝分模式預設近海",
+    "Scoring mode defaults to Indigo",
+    "スコアモードは近海を優先"
+  ],
+  "耐力海钓原因练级固定近海": [
+    "練級模式固定近海",
+    "Leveling mode fixed to Indigo",
+    "レベリングモードは近海固定"
+  ],
+  "耐力登船窗口结束": [
+    "耐力海釣：登船視窗結束",
+    "Endurance: boarding window ended",
+    "耐力：乗船受付終了"
+  ],
+  "耐力等待副本超时": [
+    "耐力海釣：等待進入副本超時",
+    "Endurance: instance entry timeout",
+    "耐力：コンテンツ突入待ちがタイムアウト"
+  ],
+  "全选": [
+    "全選",
+    "Select All",
+    "全選択"
+  ],
+  "反选": [
+    "反選",
+    "Invert",
+    "反転"
+  ],
+  "世界级钓手": [
+    "世界級釣手",
+    "World-class Troller",
+    "World Class Troller"
+  ],
+  "依拉丝莫龙": [
+    "依拉絲莫龍（重鐵板鉤）",
+    "Elasmosaurus(Heavy Steel Jig)",
+    "エラスモサウルス（ヘヴィメタルジグ）"
+  ],
+  "八爪旅人": [
+    "八爪旅人¹",
+    "Octopus Travelers¹",
+    "オクトパストラベラー¹"
+  ],
+  "加拉迪翁湾丿夜乁": [
+    "加拉迪翁灣(夜)",
+    "Galadion Bay(Night)",
+    "ガラディオン湾(夜)"
+  ],
+  "加拉迪翁湾丿日乁": [
+    "加拉迪翁灣(日)",
+    "Galadion Bay(Day)",
+    "ガラディオン湾(昼)"
+  ],
+  "加拉迪翁湾丿昏乁": [
+    "加拉迪翁灣(昏)",
+    "Galadion Bay(Dusk)",
+    "ガラディオン湾(夕方)"
+  ],
+  "只有我最鳐摆": [
+    "只有我最鰩擺¹",
+    "Sticking it to the Manta¹",
+    "エイエイオー¹"
+  ],
+  "只有我最鳐摆_成就2": [
+    "只有我最鰩擺²",
+    "Sticking it to the Manta²",
+    "エイエイオー²"
+  ],
+  "哈弗古法": [
+    "哈弗古法（烏賊絲）",
+    "Hafgufa(Squid Strip)",
+    "ハーヴグーヴァ（イカの切り身）"
+  ],
+  "四海大宝贝": [
+    "四海大寶貝¹",
+    "Maximum Mussel¹",
+    "貝殻収集家¹"
+  ],
+  "塔尼瓦": [
+    "塔尼瓦（青花魚塊）",
+    "Taniwha(Mackerel Strip)",
+    "タニファ（サバの切り身）"
+  ],
+  "大虾可重新来过": [
+    "大蝦可重新來過¹",
+    "Shrimp Smorgasbord¹",
+    "海老散らない¹"
+  ],
+  "大虾可重新来过_成就2": [
+    "大蝦可重新來過²",
+    "Shrimp Smorgasbord²",
+    "海老散らない²"
+  ],
+  "妖歌海海面丿夜乁": [
+    "妖歌海海面(夜)",
+    "Sirensong Sea(Night)",
+    "セイレーン海(夜)"
+  ],
+  "妖歌海海面丿日乁": [
+    "妖歌海海面(日)",
+    "Sirensong Sea(Day)",
+    "セイレーン海(昼)"
+  ],
+  "妖歌海海面丿昏乁": [
+    "妖歌海海面(昏)",
+    "Sirensong Sea(Dusk)",
+    "セイレーン海(夕方)"
+  ],
+  "挑战高分": [
+    "挑戰高分",
+    "High Score",
+    "ハイスコア"
+  ],
+  "捕鲨人": [
+    "捕鯊人¹",
+    "Certifiable Shark Hunters¹",
+    "シャークハンター¹"
+  ],
+  "无二江下游丿夜乁": [
+    "無二江下游(夜)",
+    "One River(Night)",
+    "無二江(夜)"
+  ],
+  "无二江下游丿日乁": [
+    "無二江下游(日)",
+    "One River(Day)",
+    "無二江(昼)"
+  ],
+  "无二江下游丿昏乁": [
+    "無二江下游(昏)",
+    "One River(Dusk)",
+    "無二江(夕方)"
+  ],
+  "梅尔托尔海峡北丿夜乁": [
+    "梅爾托爾海峽北(夜)",
+    "Northern Strait of Merlthor(Night)",
+    "メルトール海峡北(夜)"
+  ],
+  "梅尔托尔海峡北丿日乁": [
+    "梅爾托爾海峽北(日)",
+    "Northern Strait of Merlthor(Day)",
+    "メルトール海峡北(昼)"
+  ],
+  "梅尔托尔海峡北丿昏乁": [
+    "梅爾托爾海峽北(昏)",
+    "Northern Strait of Merlthor(Dusk)",
+    "メルトール海峡北(夕方)"
+  ],
+  "梅尔托尔海峡南丿夜乁": [
+    "梅爾托爾海峽南(夜)",
+    "Southern Strait of Merlthor(Night)",
+    "メルトール海峡南(夜)"
+  ],
+  "梅尔托尔海峡南丿日乁": [
+    "梅爾托爾海峽南(日)",
+    "Southern Strait of Merlthor(Day)",
+    "メルトール海峡南(昼)"
+  ],
+  "梅尔托尔海峡南丿昏乁": [
+    "梅爾托爾海峽南(昏)",
+    "Southern Strait of Merlthor(Dusk)",
+    "メルトール海峡南(夕方)"
+  ],
+  "梅泉宝龟": [
+    "梅泉寶龜（石蠅幼蟲）",
+    "Jewel of Plum Spring(Stonefly Nymph)",
+    "梅泉宝亀（ストーンラーヴァ）"
+  ],
+  "横路不通": [
+    "橫路不通¹",
+    "Crab Boat Crew¹",
+    "蟹工船¹"
+  ],
+  "气鲀四海": [
+    "氣魨四海¹",
+    "Balloon Catchers¹",
+    "バルーンキャッチャー¹"
+  ],
+  "水母狂魔": [
+    "水母狂魔¹",
+    "Jelled Together¹",
+    "クラゲマニア¹"
+  ],
+  "海洋蟾蜍": [
+    "海洋蟾蜍（潮蟲）",
+    "Seafaring Toad(pill bug)",
+    "オーシャントード（ピルバグ）"
+  ],
+  "深洋之劫": [
+    "深洋之劫",
+    "Doom of the Deep",
+    "Doom of the Deep"
+  ],
+  "狱之蟹": [
+    "獄之蟹（烏賊絲）",
+    "Hells' Claw(Squid Strip)",
+    "獄之蟹（イカの切り身）"
+  ],
+  "珊瑚蝠鲼": [
+    "珊瑚蝠鱝（小蝦肉籠）",
+    "Coral Manta(Shrimp Cage Feeder)",
+    "コーラルマンタ（シュリンプフィーダー）"
+  ],
+  "琉璃龙": [
+    "琉璃龍",
+    "Glass Dragon",
+    "瑠璃龍"
+  ],
+  "盾齿龙": [
+    "盾齒龍",
+    "Placodus",
+    "プラコドゥス"
+  ],
+  "石骨鱼": [
+    "石骨魚（溝鼠尾巴）",
+    "Stonescale(Rat Tail)",
+    "ロックスケイル（ラットの尾）"
+  ],
+  "索蒂斯": [
+    "索蒂斯（火螢）",
+    "Sothis(glowworm)",
+    "ソティス（グロウワーム）"
+  ],
+  "红玉海海面丿夜乁": [
+    "紅玉海海面(夜)",
+    "Ruby Sea(Night)",
+    "紅玉海(夜)"
+  ],
+  "红玉海海面丿日乁": [
+    "紅玉海海面(日)",
+    "Ruby Sea(Day)",
+    "紅玉海(昼)"
+  ],
+  "红玉海海面丿昏乁": [
+    "紅玉海海面(昏)",
+    "Ruby Sea(Dusk)",
+    "紅玉海(夕方)"
+  ],
+  "绯汐海丿夜乁": [
+    "緋汐海(夜)",
+    "Bloodbrine Sea(Night)",
+    "緋汐海(夜)"
+  ],
+  "绯汐海丿日乁": [
+    "緋汐海(日)",
+    "Bloodbrine Sea(Day)",
+    "緋汐海(昼)"
+  ],
+  "绯汐海丿昏乁": [
+    "緋汐海(昏)",
+    "Bloodbrine Sea(Dusk)",
+    "緋汐海(夕方)"
+  ],
+  "罗塔诺海丿夜乁": [
+    "羅塔諾海(夜)",
+    "Rhotano Sea(Night)",
+    "ロータノ海(夜)"
+  ],
+  "罗塔诺海丿日乁": [
+    "羅塔諾海(日)",
+    "Rhotano Sea(Day)",
+    "ロータノ海(昼)"
+  ],
+  "罗塔诺海丿昏乁": [
+    "羅塔諾海(昏)",
+    "Rhotano Sea(Dusk)",
+    "ロータノ海(夕方)"
+  ],
+  "罗斯利特湾丿夜乁": [
+    "羅斯利特灣(夜)",
+    "Rothlyt Sound(Night)",
+    "ロズリト湾(夜)"
+  ],
+  "罗斯利特湾丿日乁": [
+    "羅斯利特灣(日)",
+    "Rothlyt Sound(Day)",
+    "ロズリト湾(昼)"
+  ],
+  "罗斯利特湾丿昏乁": [
+    "羅斯利特灣(昏)",
+    "Rothlyt Sound(Dusk)",
+    "ロズリト湾(夕方)"
+  ],
+  "谢尔达莱群岛丿夜乁": [
+    "謝爾達萊群島(夜)",
+    "Cieldalaes(Night)",
+    "シェルダレー諸島(夜)"
+  ],
+  "谢尔达莱群岛丿日乁": [
+    "謝爾達萊群島(日)",
+    "Cieldalaes(Day)",
+    "シェルダレー諸島(昼)"
+  ],
+  "谢尔达莱群岛丿昏乁": [
+    "謝爾達萊群島(昏)",
+    "Cieldalaes(Dusk)",
+    "シェルダレー諸島(夕方)"
+  ],
+  "鱿型中队精英": [
+    "魷型中隊精英¹",
+    "Squid Squadron¹",
+    "スルメドラグーン¹"
+  ],
+  "黄金港近海丿夜乁": [
+    "黃金港近海(夜)",
+    "Kugane Coast(Night)",
+    "クガネ(夜)"
+  ],
+  "黄金港近海丿日乁": [
+    "黃金港近海(日)",
+    "Kugane Coast(Day)",
+    "クガネ(昼)"
+  ],
+  "黄金港近海丿昏乁": [
+    "黃金港近海(昏)",
+    "Kugane Coast(Dusk)",
+    "クガネ(夕方)"
+  ],
+  "龙马惊神": [
+    "龍馬驚神¹",
+    "Maritime Dragonslayers¹",
+    "シードラゴンキラー¹"
+  ],
+  "Angex编辑器错误项提示": [
+    "- 點選將游標定位到錯誤處\n- 左 Ctrl + 左鍵 複製錯誤資訊到剪貼簿",
+    "- Click to move the cursor to the error\n- Left Ctrl + Left Click to copy the error to clipboard",
+    "- クリックでカーソルをエラー位置へ移動\n- 左Ctrl+左クリックでエラーをクリップボードにコピー"
+  ],
+  "Angex解析专一目标为空": [
+    "專一目標為空",
+    "Exclusive target is empty",
+    "専一目標が空です"
+  ],
+  "Angex解析专一目标括号未闭合": [
+    "專一目標括號未閉合",
+    "Exclusive target brackets are not closed",
+    "専一目標の括弧が閉じられていません"
+  ],
+  "Angex解析仅支持基础语法": [
+    "解析器僅支援模式、釣餌、視窗期、階段1-4咬餌引數、基礎全域性引數、基礎巢狀表示式與備註",
+    "Parser only supports mode, bait, window, phase 1-4 bite params, basic globals, basic nested expressions, and remarks",
+    "パーサーはモード、エサ、ウィンドウ、フェーズ1-4の咬みパラメータ、基本グローバル、基本ネスト式、備考のみ対応します"
+  ],
+  "Angex解析全局参数为空": [
+    "全域性引數為空",
+    "Global parameters are empty",
+    "グローバルパラメータが空です"
+  ],
+  "Angex解析全局参数末尾缺少分隔符": [
+    "全域性引數末尾缺少分隔符（; 或 ；）",
+    "Missing trailing separator for global parameters (; or ；)",
+    "グローバルパラメータ末尾の区切りがありません（; または ；）"
+  ],
+  "Angex解析全局参数段之间缺少分隔符": [
+    "全域性引數段之間缺少分隔符（; 或 ；）",
+    "Missing separator between global parameter segments (; or ；)",
+    "グローバルパラメータ区間の区切りがありません（; または ；）"
+  ],
+  "Angex解析全局参数目标为空": [
+    "全域性引數目標為空",
+    "Global parameter targets are empty",
+    "グローバルパラメータの目標が空です"
+  ],
+  "Angex解析全部不能与其他咬饵类型混用": [
+    "全部不能與其他咬餌型別混用",
+    "\"All\" cannot be combined with other bite types",
+    "「全部」は他の咬み種類と併用できません"
+  ],
+  "Angex解析名称重名需指定ID": [
+    "名稱重名需指定ID: {0}",
+    "Name is ambiguous, please specify ID: {0}",
+    "名称が重複しています。IDを指定してください: {0}"
+  ],
+  "Angex解析咬饵时间格式错误": [
+    "咬餌時間格式錯誤",
+    "Invalid bite time format",
+    "咬み時間の形式が正しくありません"
+  ],
+  "Angex解析咬饵时间缺少数值": [
+    "咬餌時間缺少數值",
+    "Bite time is missing a value",
+    "咬み時間の数値がありません"
+  ],
+  "Angex解析咬饵时间缺少范围符": [
+    "咬餌時間缺少範圍符",
+    "Bite time range symbol is missing",
+    "咬み時間の範囲記号がありません"
+  ],
+  "Angex解析咬饵标记数量不合法": [
+    "咬餌標記數量不合法",
+    "Invalid number of bite markers",
+    "咬みマーカー数が不正です"
+  ],
+  "Angex解析备注为空": [
+    "備註為空",
+    "Remark is empty",
+    "備考が空です"
+  ],
+  "Angex解析嵌套表达式为空": [
+    "巢狀表示式為空",
+    "Nested expression is empty",
+    "ネスト式が空です"
+  ],
+  "Angex解析嵌套表达式关键字缺失": [
+    "巢狀表示式關鍵字缺失",
+    "Nested expression keyword is missing",
+    "ネスト式のキーワードがありません"
+  ],
+  "Angex解析嵌套表达式缺少分隔符": [
+    "巢狀表示式缺少分隔符",
+    "Nested expression is missing separator",
+    "ネスト式の区切りがありません"
+  ],
+  "Angex解析嵌套表达式缺少等号": [
+    "巢狀表示式缺少等號",
+    "Nested expression is missing '='",
+    "ネスト式に '=' がありません"
+  ],
+  "Angex解析嵌套表达式互斥冲突": [
+    "魚識/拍水後/專一後不可同時出現",
+    "Only one of @int/@pss/@pic is allowed at the same level.",
+    "@int/@pss/@pic は同一階層で併用できません。"
+  ],
+  "Angex解析嵌套表达式解析失败": [
+    "巢狀表示式解析失敗",
+    "Failed to parse nested expression",
+    "ネスト式の解析に失敗しました"
+  ],
+  "Angex解析嵌套表达式解析失败_带原因": [
+    "巢狀表示式解析失敗: {0}",
+    "Failed to parse nested expression: {0}",
+    "ネスト式の解析に失敗しました: {0}"
+  ],
+  "Angex解析引诱层数存在冲突": [
+    "引誘層數存在衝突",
+    "Conflicting lure stack counts",
+    "誘引スタック数が競合しています"
+  ],
+  "Angex解析引诱层数必须为正整数": [
+    "引誘層數必須為正整數",
+    "Lure stacks must be a positive integer",
+    "誘引スタックは正の整数でなければなりません"
+  ],
+  "Angex解析引诱层数缺少修饰词": [
+    "引誘層數缺少修飾詞",
+    "Lure stacks are missing a modifier",
+    "誘引スタックに修飾語がありません"
+  ],
+  "Angex解析手法修饰词不支持次数参数": [
+    "{0} 不支援次數引數",
+    "{0} does not support count parameter",
+    "{0} は回数パラメータをサポートしません"
+  ],
+  "Angex解析手法修饰词后出现意外内容": [
+    "手法修飾詞後出現意外內容",
+    "Unexpected content after modifiers",
+    "修飾語の後に予期しない内容があります"
+  ],
+  "Angex解析手法修饰词后出现意外内容_带内容": [
+    "手法修飾詞後出現意外內容: {0}",
+    "Unexpected content after modifiers: {0}",
+    "修飾語の後に予期しない内容があります: {0}"
+  ],
+  "Angex解析手法修饰词解析失败": [
+    "手法修飾詞解析失敗",
+    "Failed to parse modifiers",
+    "修飾語の解析に失敗しました"
+  ],
+  "Angex解析拍水目标为空": [
+    "拍水目標為空",
+    "Slap target is empty",
+    "拍水目標が空です"
+  ],
+  "Angex解析拍水目标括号未闭合": [
+    "拍水目標括號未閉合",
+    "Slap target brackets are not closed",
+    "拍水目標の括弧が閉じられていません"
+  ],
+  "Angex解析拍水目标缺失": [
+    "拍水目標缺失",
+    "Slap target is missing",
+    "拍水目標がありません"
+  ],
+  "Angex解析未知嵌套表达式": [
+    "未知巢狀表示式",
+    "Unknown nested expression",
+    "不明なネスト式"
+  ],
+  "Angex解析未知手法修饰词": [
+    "未知手法修飾詞: {0}",
+    "Unknown modifier: {0}",
+    "不明な修飾語: {0}"
+  ],
+  "Angex解析未知钓法模式": [
+    "未知釣法模式",
+    "Unknown fishing mode",
+    "不明な釣りモード"
+  ],
+  "Angex解析未识别到咬饵类型": [
+    "未識別到咬餌型別",
+    "Bite type not recognized",
+    "咬み種類を認識できません"
+  ],
+  "Angex解析未识别到钓法模式": [
+    "未識別到釣法模式",
+    "Fishing mode not recognized",
+    "釣りモードを認識できません"
+  ],
+  "Angex解析游动饵目标括号未闭合": [
+    "遊動餌目標括號未閉合",
+    "Swimbait target brackets are not closed",
+    "泳がせ餌目標の括弧が閉じられていません"
+  ],
+  "Angex解析游动饵目标解析失败": [
+    "遊動餌目標解析失敗",
+    "Failed to parse swimbait targets",
+    "泳がせ餌目標の解析に失敗しました"
+  ],
+  "Angex解析窗口期为空": [
+    "視窗期為空",
+    "Window period is empty",
+    "ウィンドウ期間が空です"
+  ],
+  "Angex解析窗口期天气必须写在同一组括号内": [
+    "視窗期天氣必須寫在同一組括號內",
+    "Window weather must be in the same bracket group",
+    "ウィンドウ期間の天候は同じ括弧内に記述してください"
+  ],
+  "Angex解析窗口期天气箭头格式错误": [
+    "視窗期天氣箭頭格式錯誤",
+    "Invalid weather arrow format",
+    "天候矢印の形式が正しくありません"
+  ],
+  "Angex解析窗口期天气箭头缺少内容": [
+    "視窗期天氣箭頭缺少內容",
+    "Weather arrow is missing content",
+    "天候矢印の内容がありません"
+  ],
+  "Angex解析窗口期天气解析失败": [
+    "視窗期天氣解析失敗",
+    "Failed to parse window weather",
+    "ウィンドウ期間の天候解析に失敗しました"
+  ],
+  "Angex解析窗口期时间格式错误": [
+    "視窗期時間格式錯誤",
+    "Invalid window time format",
+    "ウィンドウ時間の形式が正しくありません"
+  ],
+  "Angex解析窗口期结束时间缺失": [
+    "視窗期結束時間缺失",
+    "Window end time is missing",
+    "ウィンドウ終了時刻がありません"
+  ],
+  "Angex解析窗口期解析失败": [
+    "視窗期解析失敗",
+    "Failed to parse window period",
+    "ウィンドウ期間の解析に失敗しました"
+  ],
+  "Angex解析缺少阶段内容": [
+    "缺少階段內容",
+    "Missing phase content",
+    "フェーズ内容がありません"
+  ],
+  "Angex解析缺少阶段起始符": [
+    "缺少階段起始符（》或 >）",
+    "Missing phase start symbol (》 or >)",
+    "フェーズ開始記号がありません（》または >）"
+  ],
+  "Angex解析表达式为空": [
+    "表示式為空",
+    "Expression is empty",
+    "式が空です"
+  ],
+  "Angex解析计数器目标缺失": [
+    "計數器目標缺失",
+    "Counter targets are missing",
+    "カウンター目標がありません"
+  ],
+  "Angex解析计数器缺少数量": [
+    "計數器缺少數量",
+    "Counter is missing count",
+    "カウンターの数量がありません"
+  ],
+  "Angex解析计数器过多": [
+    "計數器過多",
+    "Too many counters",
+    "カウンターが多すぎます"
+  ],
+  "Angex解析钓饵为空": [
+    "釣餌為空",
+    "Bait is empty",
+    "エサが空です"
+  ],
+  "Angex解析钓饵括号未闭合": [
+    "釣餌括號未閉合",
+    "Bait brackets are not closed",
+    "エサの括弧が閉じられていません"
+  ],
+  "Angex解析钓饵解析失败": [
+    "釣餌解析失敗",
+    "Failed to parse bait",
+    "エサの解析に失敗しました"
+  ],
+  "Angex解析阶段不能同时使用游动饵目标与普通目标": [
+    "階段{0}不能同時使用遊動餌目標與普通目標",
+    "Phase {0} cannot use swimbait targets and normal targets together",
+    "フェーズ{0}で泳がせ餌目標と通常目標を同時に使用できません"
+  ],
+  "Angex解析阶段咬饵时间需要咬饵类型": [
+    "階段{0}咬餌時間需要咬餌型別",
+    "Phase {0} bite time requires bite types",
+    "フェーズ{0}の咬み時間には咬み種類が必要です"
+  ],
+  "Angex解析阶段多重提钩数量缺少提钩类型": [
+    "階段{0}多重提鉤數量缺少提鉤型別",
+    "Phase {0} multi-hook count requires a hookset type",
+    "フェーズ{0}の複数フッキング数にはフッキング種類が必要です"
+  ],
+  "Angex解析阶段嵌套表达式未闭合": [
+    "階段巢狀表示式未閉合",
+    "Stage nested expression is not closed",
+    "ステージのネスト式が閉じられていません"
+  ],
+  "Angex解析阶段嵌套表达式闭合缺失": [
+    "階段巢狀表示式閉合缺失",
+    "Stage nested expression closing is missing",
+    "ステージのネスト式閉じ記号がありません"
+  ],
+  "Angex解析阶段提钩类型需要咬饵类型": [
+    "階段{0}提鉤型別需要咬餌型別",
+    "Phase {0} hookset type requires bite types",
+    "フェーズ{0}のフッキング種類には咬み種類が必要です"
+  ],
+  "Angex解析阶段目标为空": [
+    "階段目標為空",
+    "Phase target is empty",
+    "フェーズ目標が空です"
+  ],
+  "Angex解析阶段目标括号未闭合": [
+    "階段目標括號未閉合",
+    "Phase target brackets are not closed",
+    "フェーズ目標の括弧が閉じられていません"
+  ],
+  "Angex解析阶段目标解析失败": [
+    "階段目標解析失敗",
+    "Failed to parse phase targets",
+    "フェーズ目標の解析に失敗しました"
+  ],
+  "Angex解析阶段缺少咬饵类型": [
+    "階段{0}缺少咬餌型別",
+    "Phase {0} is missing bite types",
+    "フェーズ{0}に咬み種類がありません"
+  ],
+  "Angex解析阶段过多": [
+    "階段過多",
+    "Too many phases",
+    "フェーズが多すぎます"
+  ],
+  "Angex解析阶段额外咬饵类型需要咬饵类型": [
+    "階段{0}額外咬餌型別需要咬餌型別",
+    "Phase {0} extra bite types require base bite types",
+    "フェーズ{0}の追加咬み種類には咬み種類が必要です"
+  ],
+  "Angex解析额外咬饵类型括号未闭合": [
+    "額外咬餌型別括號未閉合",
+    "Extra bite-type brackets are not closed",
+    "追加咬み種類の括弧が閉じられていません"
+  ],
+  "以已匹配预设中的钓法来自动钓鱼": [
+    "以已匹配預設中的釣法來自動釣魚",
+    "Automatically fish using the method from the matched preset.",
+    "一致したプリセットの手法で自動釣りします。"
+  ],
+  "以尽可能获得更多渔分的钓法来自动钓鱼": [
+    "以儘可能獲得更多漁分的釣法來自動釣魚",
+    "Automatically fish using methods that maximize points.",
+    "ポイントをできるだけ多く稼ぐための手法で自動釣りします。"
+  ],
+  "以尽可能钓获蓝色稀有度鱼类的钓法来自动钓鱼": [
+    "以儘可能釣獲藍色稀有度魚類的釣法來自動釣魚",
+    "Automatically fish using methods that maximize blue-rarity fish catches.",
+    "青レア魚をできるだけ多く釣るための手法で自動釣りします。"
+  ],
+  "以尽可能钓获更多对应航线标签顺位的钓法来自动钓鱼": [
+    "以儘可能釣獲更多對應航線標籤順位的釣法來自動釣魚",
+    "Automatically fish using methods that maximize catches for the selected route-tag priority.",
+    "選択した航路タグの優先対象をできるだけ多く釣るための手法で自動釣りします。"
+  ],
+  "将鼠标指针移动到启动按钮上即可查看当前模式分支对应的标签": [
+    "將滑鼠指標移動到啟動按鈕上即可檢視當前模式分支對應的標籤",
+    "Move the mouse cursor over the start button to view tags for the current mode branch.",
+    "マウスカーソルを開始ボタンに合わせると、現在のモード分岐に対応するタグを確認できます。"
+  ],
+  "大部分成就需要组队完成": [
+    "大部分成就需要組隊完成",
+    "Most achievements require a party.",
+    "大半のアチーブメントはパーティが必要です。"
+  ],
+  "以获得经验值的钓法来自动钓鱼": [
+    "以獲得經驗值的釣法來自動釣魚",
+    "Automatically fish using methods that earn experience.",
+    "経験値を獲得するための手法で自動釣りします。"
+  ],
+  "请在出海垂钓任务内启动": [
+    "請在出海垂釣任務內啟動",
+    "Start this in the Ocean Fishing duty.",
+    "オーシャンフィッシング任務内で起動してください。"
+  ],
+  "全自动出海垂钓循环": [
+    "全自動出海垂釣迴圈",
+    "Fully automatic Ocean Fishing loop.",
+    "全自動のオーシャンフィッシング周回。"
+  ],
+  "请在出海垂钓任务内或抛竿可用时启动": [
+    "請在出海垂釣任務內或拋竿可用時啟動",
+    "Start this in the Ocean Fishing duty or when Cast is available.",
+    "オーシャンフィッシング任務内、またはキャスト可能時に起動してください。"
+  ],
+  "以对应当前探索任务的钓法来自动钓鱼": [
+    "以對應當前探索任務的釣法來自動釣魚",
+    "Automatically fish using the method for the current exploration mission.",
+    "現在の探索任務に対応した手法で自動釣りします。"
+  ],
+  "以尽可能钓获更多第二期重建用鱼类的钓法来自动钓鱼": [
+    "以儘可能釣獲更多第二期重建用魚類的釣法來自動釣魚",
+    "Automatically fish using methods that catch as many grade 2 skybuilders' fish as possible.",
+    "第二期復興用の魚をできるだけ多く釣るための手法で自動釣りします。"
+  ],
+  "以尽可能钓获更多第三期重建用鱼类的钓法来自动钓鱼": [
+    "以儘可能釣獲更多第三期重建用魚類的釣法來自動釣魚",
+    "Automatically fish using methods that catch as many grade 3 skybuilders' fish as possible.",
+    "第三期復興用の魚をできるだけ多く釣るための手法で自動釣りします。"
+  ],
+  "以尽可能钓获更多第四期重建用鱼类的钓法来自动钓鱼": [
+    "以儘可能釣獲更多第四期重建用魚類的釣法來自動釣魚",
+    "Automatically fish using methods that catch as many grade 4 skybuilders' fish as possible.",
+    "第四期復興用の魚をできるだけ多く釣るための手法で自動釣りします。"
+  ],
+  "以尽可能获得更多重建伊修加德工程捕鱼人技巧分的钓法来自动钓鱼": [
+    "以儘可能獲得更多重建伊修加德工程捕魚人技巧分的釣法來自動釣魚",
+    "Automatically fish using methods that maximize your Skyward score as a fisher for the Ishgardian Restoration.",
+    "イシュガルド復興の漁師技巧点をできるだけ多く稼ぐための手法で自動釣りします。"
+  ],
+  "技巧分将在检验重建用鱼类时获得": [
+    "技巧分將在檢驗重建用魚類時獲得",
+    "Skyward points are earned when appraising skybuilders' fish.",
+    "技巧点は復興用の魚の検品時に獲得します。"
+  ],
+  "以尽可能钓获更多绿色稀有度的重建用鱼类的钓法来自动钓鱼": [
+    "以儘可能釣獲更多綠色稀有度的重建用魚類的釣法來自動釣魚",
+    "Automatically fish using methods that catch as many green-rarity skybuilders' fish as possible.",
+    "復興用の緑レア魚をできるだけ多く釣るための手法で自動釣りします。"
+  ],
+  "以自动钓1条鱼的钓法来简单测试": [
+    "以自動釣1條魚的釣法來簡單測試",
+    "Automatically fish 1 fish for a quick test.",
+    "1匹だけ自動で釣る簡易テストです。"
+  ]
+}
