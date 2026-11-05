@@ -1,19 +1,14 @@
 # MissFisher API14 localization port
 
-The main plugin is closed source. This branch localizes an actual official API14 binary; it does not rebuild the main plugin or relabel the API13 package.
+The main plugin is closed source. This branch localizes a real official API14 binary.
 
-- Original author: MistyDai; upstream version **1.9.17.1**, commit `b7686d625a2835e0caeaa6df6eceb6d1d2f4f799` (2026-03-30), preserved by the QianChangUwU/MissFisher mirror.
-- [Pinned archive](https://raw.githubusercontent.com/QianChangUwU/MissFisher/b7686d625a2835e0caeaa6df6eceb6d1d2f4f799/latest.zip)
-- SHA256: `fe9a8cec811818a4aff8b9a167459a0025ea4f458811e36a74b435437a12903b`
-- Input assembly references Dalamud **14.0.4.3** and System.Runtime **10.0.0.0**; the patcher checks both major versions.
-- Localized version **1.9.17.2**; 991 language keys: 577 retained curated translations and 414 newly converted using OpenCC s2twp. New conversions still need terminology review.
+- Stable upstream 1.9.20.0, author MistyDai; preserved mirror commit `225828c5f5d980515d0e025ebcf962ff9a23fc25` (2026-04-10).
+- [Pinned archive](https://raw.githubusercontent.com/QianChangUwU/MissFisher/225828c5f5d980515d0e025ebcf962ff9a23fc25/latest.zip)
+- SHA256 `f3d7ce58e5414730b5fde79e4976d9132801cb91c8a7b6a169964833a7d10966`.
+- Actual references: Dalamud 14.0.4.5, System.Runtime 10.0.0.0.
+- Localized 1.9.20.1: 1007/1007 keys, 981 retained translations and 26 new OpenCC s2twp conversions. Converted wording still needs review.
+- The later 1.9.21.0 is a preview requiring Dalamud 14.0.5.2; it is not used with the pinned final stable 14.0.5.1 SDK.
 
-Build using .NET 10 and real API14 SDK files:
-
-```powershell
-./tools/Build-Api14.ps1 -DalamudHome C:/path/to/api14 -Dotnet C:/path/to/dotnet.exe
-```
-
-The pinned ZIP is hash checked. The patcher changes the language resource and version metadata, then verifies that every executable method body and every non-language embedded resource remains unchanged. English/Japanese entries and upstream package dependencies are preserved. Verification evidence and the ZIP are written to `.api14/artifacts/`.
-
-The root `latest.zip`, `lang.json`, and root manifest are legacy API13 inputs and are not used by this recipe. The API14 package is a development artifact; TC API14 runtime testing is pending and no public plugin-feed entry is enabled.
+Build: `./tools/Build-Api14.ps1 -DalamudHome C:/path/to/api14 -Dotnet C:/path/to/dotnet.exe`.
+The recipe verifies the input archive hash and actual API14/.NET10 references, and verifies that method bodies and all nine non-language resources remain unchanged. Output and verification are in `.api14/artifacts/`.
+Legacy root API13 archives/resources are not inputs to this recipe. TC runtime verification remains pending; no public feed entry is enabled.

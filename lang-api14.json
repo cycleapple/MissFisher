@@ -604,6 +604,16 @@
     "Force Pre-Action",
     "予備動作を強制"
   ],
+  "不预备拍水": [
+    "不預備拍水",
+    "No Pre-Surface Slap",
+    "事前サーフェススラップなし"
+  ],
+  "不预备鱼计": [
+    "不預備魚計",
+    "No Pre-AA Stack",
+    "事前ビッフィ積みなし"
+  ],
   "保存文件失败": [
     "儲存檔案失敗: {0}",
     "Failed to save file: {0}",
@@ -899,6 +909,11 @@
     "Action timed out!",
     "動作がタイムアウトしました！"
   ],
+  "动作超时原因技能": [
+    "動作超時，導致超時的技能：{0}",
+    "Action timed out, skill causing the timeout: {0}",
+    "動作がタイムアウトしました。原因となったスキル: {0}"
+  ],
   "勾选调整悬浮窗位置": [
     "勾選以調整懸浮窗位置",
     "Check to adjust floating window position",
@@ -908,6 +923,11 @@
     "匹配失敗:",
     "Match failed: ",
     "マッチ失敗："
+  ],
+  "提钩": [
+    "提鉤",
+    "Hook",
+    "フッキング"
   ],
   "华丽": [
     "華麗",
@@ -949,7 +969,7 @@
     "Reg. time {0}{1} min",
     "受付 {0}{1}分後"
   ],
-  "可登记时间连接": [
+  "不到": [
     "不到",
     "<",
     "<"
@@ -1011,8 +1031,8 @@
   ],
   "命令帮助": [
     "\n/mf config → 開啟設定介面\n/mf route → 開啟航線預報介面\n\n=========命令說明=========\n\n<尖括號> 為必須引數\n- 如 /mf preset <name> 輸入時應提供一個預設名如 /mf preset 全提\n<尖括號|或符> 為必選分支\n- 如 /mf <end|stop> 輸入時應寫為 /mf end 或 /mf stop\n[方括號] 為可選引數\n- 如 /mf pause [on|off] 輸入時可省略為 /mf pause\n\n=========模式命令=========\n\n/mf cosmic → 宇宙探索，啟動適合目前探索任務的預設\n\n/mf <xp|leveling> → 啟動練級模式（以經驗獲取為目標，在非出海垂釣區域也可啟動）\n/mf scoring → 啟動衝分模式（以漁分為目標）\n/mf <bf|bluefish> → 啟動藍魚模式（以藍色稀有度魚類為目標）\n/mf <v1|achiev1> → 啟動成就 1 模式（以航線預報中角標為「1」的稱號所需的魚類為目標，大多數需要組隊完成）\n/mf <v2|achiev2> → 同上，但角標為2\n\n/mf sbg2 → 啟動空島二期模式（以捕獲更多重建二期特供魚類為目標）\n/mf sbg3 → 啟動空島三期模式（以捕獲更多重建三期特供魚類為目標）\n/mf sbg4 → 啟動空島四期模式（以捕獲更多重建四期特供魚類為目標）\n/mf spt → 啟動空島技巧分模式（以獲取伊修加德重建捕魚人技巧分為目標）\n/mf spg → 啟動空島綠魚模式（以捕獲更多綠色稀有度的特供魚類為目標）\n\n=========其他命令=========\n\n/mf test → 啟動測試（使用萬能擬餌釣一條魚）\n/mf preset <name> [minutes] → 啟動預設，提供額外引數時會延遲 [minutes] 分鐘啟動\n/mf preset show <name> → 檢視預設內容及預設中所需的釣餌\n/mf pause [on|off] → 不提供引數時切換暫停/恢復，提供引數時切換到指定的暫停狀態\n/mf <end|stop> → 終止自動動作，包括正在或即將執行的\n/mf <Angex> → 使用釣法表示式啟動",
-    "\n/mf config → Open settings interface\n/mf route → Open route forecast interface\n\n=========Command Guide=========\n\n<angle brackets> indicate required parameters\n- Example: /mf preset <name> should include a preset name, e.g. /mf preset ALL BITES\n<angle brackets|pipe> indicate exclusive options\n- Example: /mf <end|stop> should be written as /mf end or /mf stop\n[square brackets] indicate optional parameters\n- Example: /mf pause [on|off] can be shortened to /mf pause\n\n=========Mode Commands=========\n\n/mf cosmic → Cosmic Exploration mode, activates preset suitable for current exploration missions\n\n/mf <xp|leveling> → Leveling mode (focuses on EXP gain, can be used even outside ocean fishing areas)\n/mf scoring → Scoring mode (focuses on Fisher's Points)\n/mf endurance <scoring|bluefish|leveling|xp> → Endurance mode (auto boarding + loop) for scoring/bluefish/leveling\n/mf <bf|bluefish> → Bluefish mode (targets blue-rarity fish)\n/mf <v1|achiev1> → Achievement 1 mode (targets fish needed for title marked “1” in route forecast, usually requires party)\n/mf <v2|achiev2> → Same as above, but for mark 2\n\n/mf sbg2 → Skybuilder Phase 2 mode (targets fish specific to Phase 2 reconstruction)\n/mf sbg3 → Skybuilder Phase 3 mode (targets fish specific to Phase 3 reconstruction)\n/mf sbg4 → Skybuilder Phase 4 mode (targets fish specific to Phase 4 reconstruction)\n/mf spt → Skybuilder Action Point mode (focuses on earning Ishgardian Reconstruction Fisher’s action points)\n/mf spg → Skybuilder Greenfish mode (targets green-rarity reconstruction fish)\n\n=========Other Commands=========\n\n/mf test → Run test (catch a single fish using Universal Lure)\n/mf preset <name> [minutes] → Start preset; if extra parameter is provided, delay start by [minutes] minutes\n/mf preset show <name> → Show preset details and bait list\n/mf hud [on|off] → Toggle or set floating window display\n/mf tp <name> → Teleport to the fishing spot for the preset name\n/mf pause [on|off] → Toggle pause/resume if no parameter, or set explicitly if parameter is given\n/mf <end|stop> → Stop all automated actions, including ongoing or scheduled ones\n/mf <Angex> → Start with Angling Expression\n/mf isla → Check if Angling Expressions in clipboard are valid\n/mf addid → Add corresponding ID for the collection of fishing method expressions copied to clipboard, matching the current client language to support other language clients.\n/mf toid → Convert the clean format names copied to clipboard into corresponding IDs according to the current client language.\n/mf format → Format Angling Expressions in clipboard line by line (single-line, Chinese, no spaces, name+ID)",
-    "\n/mf config → 設定画面を開く\n/mf route → 航路予報画面を開く\n\n=========コマンド説明=========\n\n<山括弧> は必須パラメータ\n- 例：/mf preset <name> の場合、/mf preset 全部 のようにプリセット名を指定\n<山括弧|パイプ> は排他的選択肢\n- 例：/mf <end|stop> の場合、/mf end または /mf stop と入力\n[角括弧] は任意パラメータ\n- 例：/mf pause [on|off] は /mf pause と省略可能\n\n=========モードコマンド=========\n\n/mf cosmic → 宇宙探索モード。現在の探索任務に適したプリセットを起動\n\n/mf <xp|leveling> → レベリングモード（経験値重視、海釣り以外の地域でも使用可能）\n/mf scoring → スコアリングモード（漁師ポイント重視）\n/mf endurance <scoring|bluefish|leveling|xp> → 耐力スコア/耐力青魚/耐力レベリング（自動乗船/ループ）\n/mf <bf|bluefish> → 青魚モード（青レア魚を狙う）\n/mf <v1|achiev1> → アチーブメント1モード（航路予報で角印「1」の称号に必要な魚を狙う。多くはパーティ推奨）\n/mf <v2|achiev2> → 同上、ただし角印「2」\n\n/mf sbg2 → 蒼天街第二期モード（第二期復興専用魚を狙う）\n/mf sbg3 → 蒼天街第三期モード（第三期復興専用魚を狙う）\n/mf sbg4 → 蒼天街第四期モード（第四期復興専用魚を狙う）\n/mf spt → 蒼天街技巧点モード（漁師技巧点の獲得を目的）\n/mf spg → 蒼天街グリーンフィッシュモード（緑レア魚を狙う）\n\n=========その他のコマンド=========\n\n/mf test → テストを実行（万能ルアーで魚を1匹釣る）\n/mf preset <name> [minutes] → プリセットを起動。追加パラメータ指定時は [minutes] 分後に遅延起動\n/mf preset show <name> → プリセット内容と必要な餌を表示\n/mf hud [on|off] → フローティングウィンドウ表示の切替/指定\n/mf tp <name> → プリセット名の釣り場へテレポート\n/mf pause [on|off] → 引数なしで一時停止／再開を切替。指定時は明示的に切替\n/mf <end|stop> → すべての自動動作を停止（実行中・予定中を含む）\n/mf <Angex> → 釣法式を使用して起動\n/mf isla → クリップボードの釣法式が有効か確認\n/mf addid → クリップボードの釣り方法表現の集合パラメータ名に、現在のクライアント言語に合わせた対応IDを追加し、他言語クライアントに対応します。\n/mf toid → クリップボードの純粋な形式の名前を現在のクライアント言語に基づいて対応IDに変換します。\n/mf format → クリップボード内の釣法式を行ごとに整形（単行/中国語/空白なし/名+ID）"
+    "\n/mf config → Open settings interface\n/mf route → Open route forecast interface\n\n=========Command Guide=========\n\n<angle brackets> indicate required parameters\n- Example: /mf preset <name> should include a preset name, e.g. /mf preset ALL BITES\n<angle brackets|pipe> indicate exclusive options\n- Example: /mf <end|stop> should be written as /mf end or /mf stop\n[square brackets] indicate optional parameters\n- Example: /mf pause [on|off] can be shortened to /mf pause\n\n=========Mode Commands=========\n\n/mf cosmic → Cosmic Exploration mode, activates preset suitable for current exploration missions\n\n/mf <xp|leveling> → Leveling mode (focuses on EXP gain, can be used even outside ocean fishing areas)\n/mf scoring → Scoring mode (focuses on Fisher's Points)\n/mf endurance <scoring|bluefish|leveling|xp> → Endurance mode (auto boarding + loop) for scoring/bluefish/leveling\n/mf <bf|bluefish> → Bluefish mode (targets blue-rarity fish)\n/mf <v1|cat1|category1|achiev1> → Category 1 mode (targets fish required by the quantity requirement tied to the title marked “1” in route forecast; most quantity-achievement categories require a party)\n/mf <v2|cat2|category2|achiev2> → Same as above, but for mark “2”\n\n/mf sbg2 → Skybuilder Phase 2 mode (targets fish specific to Phase 2 reconstruction)\n/mf sbg3 → Skybuilder Phase 3 mode (targets fish specific to Phase 3 reconstruction)\n/mf sbg4 → Skybuilder Phase 4 mode (targets fish specific to Phase 4 reconstruction)\n/mf spt → Skybuilder Action Point mode (focuses on earning Ishgardian Reconstruction Fisher’s action points)\n/mf spg → Skybuilder Greenfish mode (targets green-rarity reconstruction fish)\n\n=========Other Commands=========\n\n/mf test → Run test (catch a single fish using Universal Lure)\n/mf preset <name> [minutes] → Start preset; if extra parameter is provided, delay start by [minutes] minutes\n/mf preset show <name> → Show preset details and bait list\n/mf hud [on|off] → Toggle or set floating window display\n/mf tp <name> → Teleport to the fishing spot for the preset name\n/mf pause [on|off] → Toggle pause/resume if no parameter, or set explicitly if parameter is given\n/mf <end|stop> → Stop all automated actions, including ongoing or scheduled ones\n/mf <Angex> → Start with Angling Expression\n/mf isla → Check if Angling Expressions in clipboard are valid\n/mf addid → Add corresponding ID for the collection of fishing method expressions copied to clipboard, matching the current client language to support other language clients.\n/mf toid → Convert the clean format names copied to clipboard into corresponding IDs according to the current client language.\n/mf format → Format Angling Expressions in clipboard line by line (single-line, Chinese, no spaces, name+ID)",
+    "\n/mf config → 設定画面を開く\n/mf route → 航路予報画面を開く\n\n=========コマンド説明=========\n\n<山括弧> は必須パラメータ\n- 例：/mf preset <name> の場合、/mf preset 全部 のようにプリセット名を指定\n<山括弧|パイプ> は排他的選択肢\n- 例：/mf <end|stop> の場合、/mf end または /mf stop と入力\n[角括弧] は任意パラメータ\n- 例：/mf pause [on|off] は /mf pause と省略可能\n\n=========モードコマンド=========\n\n/mf cosmic → 宇宙探索モード。現在の探索任務に適したプリセットを起動\n\n/mf <xp|leveling> → レベリングモード（経験値重視、海釣り以外の地域でも使用可能）\n/mf scoring → スコアリングモード（漁師ポイント重視）\n/mf endurance <scoring|bluefish|leveling|xp> → 耐力スコア/耐力青魚/耐力レベリング（自動乗船/ループ）\n/mf <bf|bluefish> → 青魚モード（青レア魚を狙う）\n/mf <v1|cat1|category1|achiev1> → 種類1モード（航路予報で角印「1」の称号条件に対応する数量条件の魚を狙う。多くの数量系アチーブメント種類はパーティ推奨）\n/mf <v2|cat2|category2|achiev2> → 同上、ただし角印「2」\n\n/mf sbg2 → 蒼天街第二期モード（第二期復興専用魚を狙う）\n/mf sbg3 → 蒼天街第三期モード（第三期復興専用魚を狙う）\n/mf sbg4 → 蒼天街第四期モード（第四期復興専用魚を狙う）\n/mf spt → 蒼天街技巧点モード（漁師技巧点の獲得を目的）\n/mf spg → 蒼天街グリーンフィッシュモード（緑レア魚を狙う）\n\n=========その他のコマンド=========\n\n/mf test → テストを実行（万能ルアーで魚を1匹釣る）\n/mf preset <name> [minutes] → プリセットを起動。追加パラメータ指定時は [minutes] 分後に遅延起動\n/mf preset show <name> → プリセット内容と必要な餌を表示\n/mf hud [on|off] → フローティングウィンドウ表示の切替/指定\n/mf tp <name> → プリセット名の釣り場へテレポート\n/mf pause [on|off] → 引数なしで一時停止／再開を切替。指定時は明示的に切替\n/mf <end|stop> → すべての自動動作を停止（実行中・予定中を含む）\n/mf <Angex> → 釣法式を使用して起動\n/mf isla → クリップボードの釣法式が有効か確認\n/mf addid → クリップボードの釣り方法表現の集合パラメータ名に、現在のクライアント言語に合わせた対応IDを追加し、他言語クライアントに対応します。\n/mf toid → クリップボードの純粋な形式の名前を現在のクライアント言語に基づいて対応IDに変換します。\n/mf format → クリップボード内の釣法式を行ごとに整形（単行/中国語/空白なし/名+ID）"
   ],
   "咬饵音效说明": [
     "當魚咬餌時播放音效\n- 自動靜默：自動功能執行時靜音",
@@ -1298,6 +1318,11 @@
     "哇，真的是你呀？！\r{0} {1} 次 套娃",
     "Here's {0}!\r{0} {1} times Mooch Loop",
     "どうも、{0}です。\r {1}回連続泳がせループ"
+  ],
+  "愚人节彩蛋提示": [
+    "哇，真的是[0]呀？！",
+    "Here's [0]!",
+    "どうも、[0]です。"
   ],
   "如有天气条件请在符合天气条件时启动": [
     "如有天氣條件請在符合天氣條件時啟動",
@@ -1682,7 +1707,7 @@
   "强力": [
     "強力",
     "Powerful",
-    "強力"
+    "ストロング"
   ],
   "当前不处在云冠群岛中": [
     "目前不處在雲冠群島中。",
@@ -1769,25 +1794,25 @@
     "Data refreshed successfully!\n• Total {0} fish species\n• Caught via fishing rod: {1} species\n• Caught via harpoon: {2} species",
     "データ更新成功！\n• 合計{0}種の魚\n• 釣り竿で捕獲: {1}種\n• 魚叉で捕獲: {2}種"
   ],
-  "成就1": [
-    "成就1",
-    "Achv1",
-    "アチーブ1"
+  "种类1": [
+    "種類1",
+    "Category 1",
+    "種類1"
   ],
-  "成就2": [
-    "成就2",
-    "Achv2",
-    "アチーブ2"
+  "种类2": [
+    "種類2",
+    "Category 2",
+    "種類2"
   ],
-  "成就模式提示1": [
-    "目前航線無成就 2 標識，將啟動成就 1 模式。",
-    "No Ach2 markers on route, starting Ach1 mode.",
-    "航路に成就2マーカーなし、成就1モード起動。"
+  "种类模式提示1": [
+    "當前航線無種類 2 標識，將啟動種類 1 模式。",
+    "No Category 2 markers on route, starting Category 1 mode.",
+    "航路に種類2マーカーがないため、種類1モードを起動します。"
   ],
-  "成就模式提示2": [
-    "目前航線無成就標識，將啟動衝分模式。",
-    "No achievement markers on route, starting score mode.",
-    "航路に成就マーカーなし、得点モード起動。"
+  "种类模式提示2": [
+    "當前航線無種類標識，將啟動衝分模式。",
+    "No category markers on route, starting score mode.",
+    "航路に種類マーカーがないため、スコアモードを起動します。"
   ],
   "所需钓饵冒号": [
     "所需釣餌：",
@@ -1823,6 +1848,36 @@
     "{0} 次",
     "{0} times",
     "{0} 回"
+  ],
+  "捕到条": [
+    "捕到 {0} 條",
+    "Caught {0} fish",
+    "{0} 匹釣った"
+  ],
+  "愚人节彩蛋说明": [
+    "莫莫拉·莫拉將如影隨形，直到永遠……",
+    "Momora Mora will follow you like a shadow, forever...",
+    "モモラ・モラは影のように、永遠についてくる……"
+  ],
+  "额外的愚人节彩蛋": [
+    "額外的莫莫拉·莫拉",
+    "Extra Momora Mora",
+    "追加のモモラ・モラ"
+  ],
+  "启用全年愚人节彩蛋": [
+    "繼續抓莫莫拉·莫拉！",
+    "Keep catching Momora Mora!",
+    "モモラ・モラを釣り続ける！"
+  ],
+  "全年愚人节彩蛋说明": [
+    "即使不在愚人節，也要繼續！",
+    "Keep going even outside April Fools' Day!",
+    "エイプリルフールじゃなくても、続けよう！"
+  ],
+  "钓到公示概率": [
+    "- 觸發機率 -\n5% - 沒釣到魚時\n20% - 釣到普通魚時\n50% - 釣到稀有魚 / 脫鉤時\n※釣到多條魚時會逐個判斷",
+    "- Trigger Chance -\n5% - When no fish is caught\n20% - When a normal fish is caught\n50% - When a rare fish is caught / Escaped\n※When multiple fish are caught, each one is checked separately",
+    "- 発動確率 -\n5% - 魚が釣れなかったとき\n20% - 通常の魚を釣ったとき\n50% - レア魚を釣ったとき / バラし\n※複数匹釣れた場合は1匹ずつ判定"
   ],
   "拍水": [
     "拍水",
@@ -2604,6 +2659,16 @@
     "Waiting for weather",
     "天候待機中"
   ],
+  "未找到天气": [
+    "未找到天氣",
+    "No weather match",
+    "天候不一致"
+  ],
+  "获取中": [
+    "獲取中",
+    "Loading",
+    "取得中"
+  ],
   "等待玩家": [
     "等待玩家",
     "Waiting for player",
@@ -2632,7 +2697,7 @@
   "精准": [
     "精準",
     "Precision",
-    "精密"
+    "プレシジョン"
   ],
   "系统音关闭": [
     "系統音已關閉。",
@@ -3099,6 +3164,11 @@
     "Type to search preset names\nSupports pinyin initials (Chinese client only)",
     "入力してプリセット名を検索\nピンイン頭文字に対応（中国語クライアントのみ）"
   ],
+  "预设同步中输入提示": [
+    "預設仍在同步或處理中\n搜尋結果和啟動可能暫時不準確",
+    "Presets are still syncing or being processed\nSearch results and start actions may be temporarily inaccurate",
+    "プリセットはまだ同期または処理中です\n検索結果や起動は一時的に不正確な場合があります"
+  ],
   "请选择JSON格式文件": [
     "請選擇JSON格式的檔案",
     "Please select a JSON format file",
@@ -3164,10 +3234,10 @@
     "Spot alert {0:f0}",
     "釣点警戒 {0:f0}"
   ],
-  "跳过攒鱼计因目标屏蔽": [
-    "由於終止目標中有自動預備攢魚計遮蔽的最終目標，跳過自動預備攢魚計",
-    "Skipping AA pre-stack: final target disables it in end condition",
-    "終了条件に事前ビッフィ積みを禁止する最終目標があるためスキップ"
+  "跳过攒鱼计因手法禁用": [
+    "當前手法包含「不預備魚計」，跳過自動預備攢魚計",
+    "Skipping AA pre-stack: disabled by method modifier",
+    "現在の手法に「事前ビッフィ積みなし」があるためスキップ"
   ],
   "跳过攒鱼计时间不足": [
     "距離視窗時間不足 {0} 秒，跳過自動預備攢魚計",
@@ -3248,6 +3318,11 @@
     "〉〉〉執行中 〉〉〉",
     ">>>Running>>>",
     "〉〉〉実行中〉〉〉"
+  ],
+  "窗口中": [
+    "視窗中",
+    "In window",
+    "ウィンドウ中"
   ],
   "现在还没有该任务的预设": [
     "現在還沒有該任務的預設",
@@ -3639,10 +3714,10 @@
     "The spectral current in the current sector has no legendary fish, whereas the adjacent sector does; heavy bites will not be called to reduce the probability of triggering a spectral current.",
     "現在の海域の幻海流に青魚がなく、隣接海域に青魚があるため、重咬みを提言せず、幻海流発生確率を低減します。"
   ],
-  "数量成就模式无预设提示": [
-    "目前海域的幻海流沒有數量成就所需的魚類，將不提示魚王竿以降低觸發幻海流的機率。",
-    "The spectral current in the current sector lacks fish required for quantity achievements; heavy bites will not be called to reduce the probability of triggering a spectral current.",
-    "現在の海域の幻海流に数量達成に必要な魚種がないため、重咬みを提言せず、幻海流発生確率を低減します。"
+  "数量类成就模式无预设提示": [
+    "當前海域的幻海流無當前種類對應數量類成就所需魚類，將不提魚王竿以減少觸幻機率。",
+    "The spectral current in the current sector lacks fish required for the current quantity-achievement category; heavy bites will not be called to reduce the probability of triggering a spectral current.",
+    "現在の海域の幻海流に現在の種類に対応する数量系アチーブメントで必要な魚種がないため、重咬みを提言せず、幻海流発生確率を低減します。"
   ],
   "验证服务器连接失败": [
     "驗證伺服器連線失敗，部分功能可能受限。",
@@ -4259,7 +4334,7 @@
     "Sticking it to the Manta¹",
     "エイエイオー¹"
   ],
-  "只有我最鳐摆_成就2": [
+  "只有我最鳐摆_种类2": [
     "只有我最鰩擺²",
     "Sticking it to the Manta²",
     "エイエイオー²"
@@ -4284,7 +4359,7 @@
     "Shrimp Smorgasbord¹",
     "海老散らない¹"
   ],
-  "大虾可重新来过_成就2": [
+  "大虾可重新来过_种类2": [
     "大蝦可重新來過²",
     "Shrimp Smorgasbord²",
     "海老散らない²"
@@ -4889,10 +4964,15 @@
     "Move the mouse cursor over the start button to view tags for the current mode branch.",
     "マウスカーソルを開始ボタンに合わせると、現在のモード分岐に対応するタグを確認できます。"
   ],
-  "大部分成就需要组队完成": [
-    "大部分成就需要組隊完成",
-    "Most achievements require a party.",
-    "大半のアチーブメントはパーティが必要です。"
+  "大部分需求种类数量的成就需要组队完成": [
+    "大部分需求種類數量的成就需要組隊完成",
+    "Most quantity-achievement categories require a party.",
+    "多くの数量系アチーブメント種類はパーティが必要です。"
+  ],
+  "以尽可能钓获更多当前航线对应标签种类所需鱼类的钓法来自动钓鱼": [
+    "以儘可能釣獲更多當前航線對應標籤種類所需魚類的釣法來自動釣魚",
+    "Automatically fish using methods that maximize catches for fish required by the current route's tagged category.",
+    "現在の航路でタグ付けされた種類条件に必要な魚をできるだけ多く釣るための手法で自動釣りします。"
   ],
   "以获得经验值的钓法来自动钓鱼": [
     "以獲得經驗值的釣法來自動釣魚",
